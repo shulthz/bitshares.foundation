@@ -12,9 +12,11 @@ company:
 status: on-chain
 discussions:
  - name: Bitshares Talk
-   url: <placeholder>
+   url: https://bitsharestalk.org/index.php?topic=27785.0
  - name: steemit/@sc-steemit
-   url: https://steemit.com/bitshares/@sc-steemit/placeholder
+   url: https://steemit.com/bitshares/@sc-steemit/bitshares-ui-worker-proposal-for-2019-changes-ideas-and-future
+ - name: whaleshares/@startail
+   url: https://whaleshares.io/bitshares/@startail/bitshares-ui-worker-proposal-for-2019-changes-ideas-and-future
 payments:
 price: up to $437,587.5 (~¥2,953,715)
 duration: 46 weeks
