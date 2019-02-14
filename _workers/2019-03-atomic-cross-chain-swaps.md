@@ -131,7 +131,7 @@ Everbloom is a venture-backed, decentralized cryptocurrency exchange that has ra
 
 For more information about the Everbloom team, please see [About Everbloom](https://everbloom.co/about/).
 
-## Summary to the Shareholder
+## Summary to the BTS holders
 
 This worker creates a easy-to-use framework for the integration of Atomic Cross-Chain Swaps (ACCS)
 (among other applications) which allows trustless and secure token swaps between independent platforms. This is an important step to facilitate the adoption of HTLC and a consequent extension of the BitShares Blockchain as a decentralized platform and its built-in DEX (decentralized exchange).
