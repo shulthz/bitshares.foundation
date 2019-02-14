@@ -2,8 +2,8 @@
 language: en
 layout: worker
 type: budget
-bfid: 201903-bitshares-core
-workerid: 
+bfid: 201902-bitshares-core
+workerid: 1.14.163
 title: BitShares-Core Development Team
 name: Ryan R. Fox (`fox`)
 company:
@@ -11,10 +11,10 @@ company:
  url:
 status:
 discussions:
-#  - name: bitsharestalk
-#    url: https://bitsharestalk.org/index.php?topic=25968.0
-#  - name: steemit
-#    url: https://steemit.com/bitshares/@fox/voting-for-bitshares-core-team-worker-proposal-2018
+ - name: bitsharestalk
+   url: https://bitsharestalk.org/index.php?topic=27762.0
+ - name: steemit
+   url: https://steemit.com/bitshares/@fox/bitshares-core-team-budget-worker-proposal-2019
 price: up to $1,386,406 (¥9,358,220)
 duration: 47 weeks
 start: 2019/02/04
@@ -564,7 +564,7 @@ continuously evaluates and prioritizes new development tasks ongoing.
 
 **Chart 1. Initiatives - 2019**
 
-![TODO: BitShares Core Initiatives - 2019](https://github.com/ryanRfox/bitshares-core/blob/fox-worker-proposals/worker-proposals/initiatives-2019.png "BitShares Core Initiatives - 2019")
+![TODO: BitShares Core Initiatives - 2019](https://i.ibb.co/hyCr16q/initiatives-2019.png "BitShares Core Initiatives - 2019")
 
 Development Spokesperson(s)
 ===========================
