@@ -2,6 +2,7 @@
 layout: worker
 type: budget
 bfid: 201804-general-presentation
+category: Marketing
 workerid: 1.14.101
 title: Update BitShares' General Public Presentation
 name: BitShares Blockchain Foundation

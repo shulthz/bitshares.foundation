@@ -2,6 +2,7 @@
 layout: worker
 language: en
 bfid: 201808-bitshares-ui
+category: UI Development
 type: budget
 workerid: 1.14.112
 title: BitShares UI Team
@@ -9,12 +10,7 @@ name: Bill Butler
 company:
   name:
   url:
-status:
-  proposal-vetted: True
-  worker-created: True
-  worker-approved: True
-  worker-paying: True
-  worker-finished: False
+status: finished
 discussions:
  - name: Bitshares Talk
    url: https://bitsharestalk.org/index.php?topic=26858.0

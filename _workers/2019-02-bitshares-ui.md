@@ -1,6 +1,7 @@
 ---
 layout: worker
 language: en
+category: UI Development
 bfid: 201902-bitshares-ui
 type: budget
 workerid: 1.14.165
@@ -9,7 +10,7 @@ name: Magnus Anderson
 company:
   name:
   url:
-status: on-chain
+status: paying
 discussions:
  - name: Bitshares Talk
    url: https://bitsharestalk.org/index.php?topic=27785.0

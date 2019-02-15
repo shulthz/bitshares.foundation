@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: budget
+category: Mobile development
 bfid: 201811-mobile-sdk
 workerid: 1.14.134
 title: OpenSource BitShares Mobile SDK (android/ios)
@@ -14,6 +15,7 @@ discussions:
    url: https://bitsharestalk.org/index.php?topic=27341.0
 price: up to 100,000 €/bitEUR
 duration: 12 months
+status: voting
 start: 2018/11/15
 end: 2019/12/31
 paymentaccount: blockchainbv

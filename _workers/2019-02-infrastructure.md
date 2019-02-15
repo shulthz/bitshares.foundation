@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: budget
+category: Network
 bfid: 201902-infrastructure
 workerid: 
 title: "Renewal 2: Deploy and maintain independent BitShares infrastructure"

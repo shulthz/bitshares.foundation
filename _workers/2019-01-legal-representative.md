@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: escrow
+category: Legal
 bfid: 201901-legal-representative
 workerid: 1.14.149
 title: Publicly Approved BitShares Representative

@@ -2,6 +2,8 @@
 language: en
 layout: worker
 type: budget
+category: Library development
+category: Cross-chain development
 bfid: 201903-atomic-cross-chain-swaps
 workerid:
 title: "JavaScript: Atomic Cross-Chain Swaps Framework"
@@ -9,6 +11,7 @@ name: Everbloom
 company:
  name: Everbloom
  url: https://everbloom.co/
+status: draft
 discussions:
 # - name: bitsharestalk
 #   url: 

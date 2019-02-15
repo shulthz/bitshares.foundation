@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: budget
+category: Documentation
 bfid: 201802-documentation
 workerid: 1.14.84
 title: Revision of Whitepapers and Improvements of Technical Documentation

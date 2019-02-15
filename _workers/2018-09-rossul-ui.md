@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: escrow
+category: UI Development
 bfid: 2018-09-rossul-ui
 workerid: 1.14.124
 title: ROSSUL - Bitshares Exchange UX/UI Redesign Project
@@ -9,7 +10,7 @@ name: Rossul Design Inc.
 company:
  name: Rossul Design Inc. & GrapheneLab
  url: http://bitshares.rossul.com/
-status:
+status: paying
 discussions:
 price: 265,828 bitUSD
 duration: 5 months + 1 month buffer

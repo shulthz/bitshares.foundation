@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: escrow
+category: Network
 bfid: 201902-reference-faucet
 workerid: 1.14.159
 title: Maintaining the Reference faucet
@@ -13,7 +14,8 @@ discussions:
  - name: bitsharestalk
    url: 
  - name: steemit
-   url: 
+   url:
+status: paying
 price: 3360 bitEUR (280€/mth)
 duration: 12 months
 start: 2018/02/01

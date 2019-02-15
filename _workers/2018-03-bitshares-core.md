@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: budget
+category: Core Development
 bfid: 201803-bitshares-core
 workerid: 1.14.99
 title: BitShares-Core Development Team
@@ -9,7 +10,7 @@ name: Ryan R. Fox (`fox`)
 company:
  name:
  url:
-status: paying
+status: finished
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=25968.0

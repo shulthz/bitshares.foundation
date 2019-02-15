@@ -2,13 +2,14 @@
 layout: worker
 type: budget
 bfid: 201804-bitfest
+category: Marketing
 workerid: 1.14.103
 title: BitFest - The BitShares Conference
 name: BitShares 区块链基金会
 company:
  name: Stichting BitShares Blockchain Foundation
  url: http://bitshares.foundation
-status: pending
+status: finished
 price: 20,000 EUR (=$25,000)
 duration: 6 months
 start: 2018/04/01
