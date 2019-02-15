@@ -3,13 +3,14 @@ language: en
 layout: worker
 type: budget
 bfid: 201807-infrastructure
+category: Network
 workerid: 1.14.108
 title: "Renewal 1: Deploy and maintain independent BitShares infrastructure"
 name: Blockchain Projects BV
 company:
  name: Blockchain Projects BV
  url: http://blockchainprojectsbv.com
-status: paying
+status: finished
 discussions:
  - name: bitsharestalk
    url: "https://bitsharestalk.org/index.php?topic=26778.0"

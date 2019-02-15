@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: budget
+category: Marketing
 bfid: 201902-marketing-interviews-articles-and-visibility
 workerid: 1.14.162
 title: "Marketing: Interviews, articles and visibility"
@@ -9,7 +10,7 @@ name: Blockchain Projects BV
 company:
   name: Blockchain Projects BV
   url: https://www.blockchainprojectsbv.com/
-status: draft
+status: paying
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=27747.0

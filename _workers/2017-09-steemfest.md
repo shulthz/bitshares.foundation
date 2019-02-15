@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: escrow
+category: Marketing
 bfid: 201709-steemfest
 workerid: 1.14.59
 title: Steemfest-Hackathon Focus Chain Sponsorship and Prize

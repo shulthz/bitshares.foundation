@@ -1,21 +1,161 @@
-<table>
-    <tr>
-        <th>Title</th>
-        <th>Worker</th>
-        <th>Price</th>
-        <th>Duration</th>
-    </tr>
-    {%- assign sorted = site.workers | sort: 'bfid' | reverse -%}
-    {%- for worker in sorted -%}
-        {%- if worker.status != "finished" and worker.language == page.language -%}
-            <tr>
-                <td>
-                    <a class="worker-link" href="{{ worker.url | prepend: site.baseurl }}">{{ worker.title }}</a>
-                </td>
-                <td>{{worker.bfid}}</td>
-                <td>{{worker.price}}<br/>(<strong>{{worker.type}}</strong>)</td>
-                <td>{{worker.duration}}</td>
-            </tr>
-        {% endif %}
-    {% endfor %}
-</table>
+<div class="tab">
+    <button class="tablinks active" onclick="openCity(event, 'Workers')">Workers</button>
+    <button class="tablinks" onclick="openCity(event, 'FinishedWorkers')">Finished Workers</button>
+    <button class="tablinks" onclick="openCity(event, 'BSIPs')">BSIPs</button>
+    <button class="tablinks" onclick="openCity(event, 'Drafts')">Drafts</button>
+</div>
+
+{%- assign _workers_matching = site.workers | where_exp: 'item', 'item.language == page.language' -%}
+{%- assign _workers_without = site.workers | where_exp: 'item', 'item.language == nil' -%}
+{%- assign _workers = _workers_matching | concat: _workers_without -%}
+
+<div id="Workers" class="tabcontent" style="display: block;">
+    {%- assign _escrow = _workers | where: 'type', 'escrow' | where_exp: 'item', 'item.status != "draft"' | where_exp: 'item', 'item.status != "finished"' -%}
+    {%- assign _budget = _workers | where: 'type', 'budget' | where_exp: 'item', 'item.status != "draft"' | where_exp: 'item', 'item.status != "finished"' -%}
+    {%- assign sorted = _escrow | concat: _budget | sort: 'start' | reverse -%}
+    {%- assign categories = sorted | map: 'category' | uniq -%}
+    <h3>Worker Proposals</h3>
+    <small>Categories:<br/><a style="cursor: pointer" onclick="filterTable('Workers', 'all')">All</a>{%- for category in categories -%} &nbsp;&#x25cf; <a style="cursor: pointer" onclick="filterTable('Workers', '{{category}}')">{{ category }}</a>{%- endfor -%}</small>
+    <table>
+        <tr>
+            <th>Title</th>
+            <th>Worker</th>
+            <th>Price</th>
+            <th>Duration</th>
+            <th style="display: none">Category</th>
+        </tr>
+        {%- for worker in sorted -%}
+        <tr>
+            <td>
+                <a class="worker-link" href="{{ worker.url | prepend: site.baseurl }}">{{ worker.title }}</a>
+            </td>
+            <td>{{worker.bfid}}</td>
+            <td>{{worker.price}}<br/>(<strong>{{worker.type}}</strong>)</td>
+            <td>{{worker.duration}}</td>
+            <td style="display: none">{{worker.category}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+
+<div id="FinishedWorkers" class="tabcontent">
+    {%- assign _escrow = _workers | where: 'type', 'escrow' | where: 'status', 'finished' -%}
+    {%- assign _budget = _workers | where: 'type', 'budget' | where: 'status', 'finished' -%}
+    {%- assign sorted = _escrow | concat: _budget | sort: 'start' | reverse -%}
+    {%- assign categories = sorted | map: 'category' | uniq -%}
+    <h3>Finished Workers</h3>
+    <small>Categories:<br/><a style="cursor: pointer" onclick="filterTable('FinishedWorkers', 'all')">All</a>{%- for category in categories -%} &nbsp;&#x25cf; <a style="cursor: pointer" onclick="filterTable('Workers', '{{category}}')">{{ category }}</a>{%- endfor -%}</small>
+    <table>
+        <tr>
+            <th>Title</th>
+            <th>Worker</th>
+            <th>Price</th>
+            <th>Duration</th>
+        </tr>
+        {%- for worker in sorted -%}
+        <tr>
+            <td>
+                <a class="worker-link" href="{{ worker.url | prepend: site.baseurl }}">{{ worker.title }}</a>
+            </td>
+            <td>{{worker.bfid}}</td>
+            <td>{{worker.price}}<br/>(<strong>{{worker.type}}</strong>)</td>
+            <td>{{worker.duration}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+
+<div id="BSIPs" class="tabcontent">
+    <h3>BitShares Improvement Proposals</h3>
+    <table>
+        <tr>
+            <th>Title</th>
+            <th>Worker</th>
+            <th>Type</th>
+            <th>Status</th>
+        </tr>
+        {%- assign sorted = _workers | where: 'type', 'bsip' | where_exp: 'item', 'item.status != "draft"' | sort: 'start' | reverse -%}
+        {%- for worker in sorted -%}
+        <tr>
+            <td>
+                <a class="worker-link" href="{{ worker.url | prepend: site.baseurl }}">{{ worker.title }}</a>
+            </td>
+            <td>{{worker.bfid}}</td>
+            <td>{%- if worker.category == "protocol" -%}Protocol Upgrade{%- else -%}Informal{% endif %}</td>
+            <td>{{worker.status}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+
+<div id="Drafts" class="tabcontent">
+    <h3>Drafts</h3>
+    <table>
+        <tr>
+            <th>Title</th>
+            <th>Worker</th>
+            <th>Price</th>
+            <th>Duration</th>
+        </tr>
+        {%- assign sorted = _workers | where: 'status', 'draft' | sort: 'start' | reverse -%}
+        {%- for worker in sorted -%}
+        <tr>
+            <td>
+                <a class="worker-link" href="{{ worker.url | prepend: site.baseurl }}">{{ worker.title }}</a>
+            </td>
+            <td>{{worker.bfid}}</td>
+            <td>{{worker.price}}<br/>(<strong>{{worker.type}}</strong>)</td>
+            <td>{{worker.duration}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+
+<script>
+    function openCity(evt, cityName) {
+        // Declare all variables
+        var i, tabcontent, tablinks;
+
+        // Get all elements with class="tabcontent" and hide them
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+
+        // Get all elements with class="tablinks" and remove the class "active"
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+
+        // Show the current tab, and add an "active" class to the button that opened the tab
+        document.getElementById(cityName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+    function filterTable(divId, filter) {
+        try {
+            // Declare variables
+            var tr, td, i, txtValue;
+            filter = filter.toUpperCase();
+            var div = document.getElementById(divId);
+            var table = div.getElementsByTagName("table")[0];
+            tr = table.getElementsByTagName("tr");
+
+            // Loop through all table rows, and hide those who don't match the search query
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[4];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (filter == 'ALL' || txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        } catch (err) {
+            console.error(err);
+        }
+        return false;
+    }
+</script>

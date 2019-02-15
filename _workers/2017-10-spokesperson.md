@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: escrow
+category: Legal
 bfid: 201710-spokesperson
 workerid: 1.14.61
 title: Publicly Approved BitShares Spokesperson
@@ -9,7 +10,7 @@ name: BitShares Blockchain Foundation
 company:
   name: BitShares Blockchain Foundation
   url: http://bitshares.foundation
-status: paying
+status: finished
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php/topic,25143.0.html

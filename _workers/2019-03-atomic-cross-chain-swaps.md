@@ -2,6 +2,8 @@
 language: en
 layout: worker
 type: budget
+category: Library development
+category: Cross-chain development
 bfid: 201903-atomic-cross-chain-swaps
 workerid:
 title: "JavaScript: Atomic Cross-Chain Swaps Framework"
@@ -9,6 +11,7 @@ name: Everbloom
 company:
  name: Everbloom
  url: https://everbloom.co/
+status: draft
 discussions:
 # - name: bitsharestalk
 #   url: 
@@ -25,14 +28,14 @@ paymentaccount:
 
 ## Background
 
-With [BSIP44](https://github.com/bitshares/bsips/blob/master/bsip-0044.md), *Hash Timelocked Contracts* (HTLC) will become available on the BitShares Blockchain.
-An HTLC is a conditional transfer where an encumbrance must be remedied to complete successfully. The BitShares Hashed Timelocked Contract implementation permits a designated party “recipient” to receive funds by disclosing the preimage of a hash (think: a password to claim a deposit) prior to an expiration timeout. It also permits the initiating party “depositor” to receive their deposited funds back if the  timeout is reached, in a refund situation.
+With [BSIP44](https://github.com/bitshares/bsips/blob/master/bsip-0044.md), *Hashed Time-Locked Contracts* (HTLC) will become available on the BitShares Blockchain.
+An HTLC is a conditional transfer where an encumbrance must be remedied to complete successfully. The BitShares Hashed Time-Locked Contract implementation permits a designated party “recipient” to receive funds by disclosing the preimage of a hash (think: a password to claim a deposit) prior to an expiration timeout. It also permits the initiating party “sender” to receive their deposited funds back if the timeout is reached, in a refund situation.
 
 This allows two parties to exchange tokens on independent platforms trustlessly and securely and thus enables Atomic Cross-Chain Swaps (ACCS) among other useful functionalities.
 
-For ACCS, an HTLC is used in combination with the corresponding HTLC-like feature on the another blockchain. Many existing blockchain technologies support HTLC already, such as Ethereum ([example smart contract](https://www.npmjs.com/package/ethereum-htlc)), [Bitcoin](https://github.com/bitcoin/bips/blob/master/bip-0199.mediawiki), [Comodo](https://komodoplatform.com/atomic-swaps/), or [NEM](https://nemtech.github.io/concepts/cross-chain-swaps.html). A generalized application of HTLC is called Hash Time-Locked Agreements (HTLA) which is more commonly known as [Interledger](https://interledger.org/rfcs/0022-hashed-timelock-agreements/draft-1.html).
+For ACCS, an HTLC is used in combination with the corresponding HTLC-like feature on the other blockchain. Many existing blockchain technologies support HTLC already, such as Ethereum ([example smart contract](https://www.npmjs.com/package/ethereum-htlc)), [Bitcoin](https://github.com/bitcoin/bips/blob/master/bip-0199.mediawiki), [Comodo](https://komodoplatform.com/atomic-swaps/), or [NEM](https://nemtech.github.io/concepts/cross-chain-swaps.html). A generalized application of HTLC is called Hash Time-Locked Agreements (HTLA) which is more commonly known as [Interledger](https://interledger.org/rfcs/0022-hashed-timelock-agreements/draft-1.html).
 
-The implementation of HTLC in bitshares-core enables the functionality on the BitShares Blockchain. This worker proposal intends to develop a JavaScript framework on top of this feature to enable ACCS with Ethereum ERC-20 compatible tokens and allow easy integration into existing front-ends, such as the reference bitshares-ui, to expose the feature to a wider audience. The intention is to at least enable easy ACCS between the BitShares and Ethereum Blockchain.
+The implementation of HTLC in bitshares-core enables the functionality on the BitShares Blockchain. This worker proposal intends to develop a JavaScript framework on top of this feature to enable ACCS with Ethereum ERC-20 compatible tokens and allow easy integration into existing front-ends (such as the reference bitshares-ui) to expose the feature to a wider audience. The intention is to at least enable easy ACCS between the BitShares and Ethereum Blockchain.
 
 We are convinced that the proposed framework for ACCS in this worker proposal can reshape the entire exchange landscape once it is easy to use for customers. Given that we operate Everbloom, an exchange based on top of Ethereum, we believe that we can gain a first mover advantage by enabling ACCS on our exchange. As we believe in the spirit of Open Source, and because we want a tight integration into bitshares-ui, we chose to engage the BitShares community to support the development of an open source library for ACCS. If this proposal is accepted by the community, we see a win-win scenario, where we increase our customer base and BitShares benefits from a tight integration into Everbloom.
 
@@ -40,7 +43,7 @@ We are convinced that the proposed framework for ACCS in this worker proposal ca
 
 Provided that ACCS is based on HTLCs which has been approved with BSIP44 and is currently in TESTNET for review by the community, we would like to point out that our work on the proposed framework highly depends on the successful deployment into MAINNET.
 
-Since, BSIP44 is installed on the public testnet, we have a starting point for our implementation and integration with a local development-instance of the BitShares Blockchain. Ideally, we can provide a working demo prior to MAINNET deployment.
+Since BSIP44 is installed on the public testnet, we have a starting point for our implementation and integration with a local development-instance of the BitShares Blockchain. Ideally, we can provide a working demo prior to MAINNET deployment.
 
 Furthermore, this framework highly depends on the HTLC implementation on other blockchains. Since we intend to integrate with Ethereum first, we may need to first audit existing smart contracts that implement HTLC which could lead to adaptation of our milestones and timelines.
 
@@ -48,7 +51,7 @@ This worker proposal intends to fund the development of an open source Javascrip
 
 ## Deliverables
 
-The goal of this worker proposal is to develop an open source framework for ACCS that is capable of integrating with multiple blockchains and initially provides adapters for ACCS operationsacross at least two blockchains (Bitshares and Ethereum). The framework should be architectured with usability **and** security in mind and the architecture is supposed to allow adding other blockchains to it with little effort.
+The goal of this worker proposal is to develop an open source framework for ACCS that is capable of integrating with multiple blockchains and initially provides adapters for ACCS operations across at least two blockchains (Bitshares and Ethereum). The framework should be architectured with usability **and** security in mind and the architecture is supposed to allow adding other blockchains to it with little effort.
 
 The final delivery will constitute:
 
@@ -65,7 +68,7 @@ The library is supposed to be implemented such that it allows integrating HTLCs 
 
 ### Demo Application Workflow
 
-In the Demo Application, Alice and Bob want to swap two assets on different blockchains. Alice has BTS, Bob as ETH, but they both want what the other has.
+In the Demo Application, Alice and Bob want to swap two assets on different blockchains. Alice has BTS, Bob has ETH, but they both want what the other has.
 
 A successful process looks as follows:
 
@@ -87,9 +90,9 @@ A successful process looks as follows:
 
 ## Milestones
 
-These milestones serve as information to the BTS voters that evaluate this worker proposal. The milestones are used by the escrow to judge proper delivery.
+These milestones serve as information to the BTS voters that evaluate this worker proposal. The milestones are used by the escrow to judge proper delivery. Any and all development will be done in public repositories.
 
-The milestones are given in order of completion with an estimated hours of work involved for each milestone. 
+The milestones are given in order of completion with an estimated hours of work involved for each milestone.
 
 1. Create Wireframes for Demo Application (10%, 160 hours)
    1. Wireframes should illustrate the Demo Application Workflow as described in a section above.
@@ -130,3 +133,16 @@ Everbloom is a venture-backed, decentralized cryptocurrency exchange that has ra
 ### Everbloom Team
 
 For more information about the Everbloom team, please see [About Everbloom](https://everbloom.co/about/).
+
+## Summary to the BTS holders
+
+This worker creates a easy-to-use framework for the integration of Atomic Cross-Chain Swaps (ACCS)
+(among other applications) which allows trustless and secure token swaps between independent platforms. This is an important step to facilitate the adoption of HTLC and a consequent extension of the BitShares Blockchain as a decentralized platform and its built-in DEX (decentralized exchange).
+
+### BitShares contribution
+
+This worker proposal provides funds for the software development of the framework and seeks to built a foundation for its adoption.
+
+### Everbloom contribution
+
+Everbloom will be the first to adopt the newly created framework on their exchange on the Ethereum blockchain and seek integration into the BitShares UI to enable interaction of both platforms. The necessary funds with respect to marketing and any promotional campaigns are not included in this proposal and are provided as the contribution of Everbloom.

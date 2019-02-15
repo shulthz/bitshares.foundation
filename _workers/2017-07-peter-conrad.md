@@ -2,9 +2,10 @@
 language: en
 layout: worker
 type: escrow
+category: Core Development
 bfid: 201707-bsip18
 workerid: 1.14.56
-title: Implementation of BSIP-18
+title: "Implementation of BSIP-18: Revive BitAsset through buying Settlement Pool"
 name: Peter Conrad
 company:
  name: Cyrano UG (haftungsbeschränkt)

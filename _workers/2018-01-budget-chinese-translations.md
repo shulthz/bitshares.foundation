@@ -2,6 +2,7 @@
 language: en
 layout: budget
 type: budget
+category: Marketing
 bfid: 201801-budget-chinese-translations
 workerid:
 title: Translations into (Simplified) Chinese
@@ -9,7 +10,7 @@ name: Blockchain Projects BV
 company:
  name: Blockchain Projects BV
  url: http://blockchainprojectsbv.com
-status: paying
+status: finished
 payments: []
 invoices: []
 discussions:
