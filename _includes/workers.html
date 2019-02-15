@@ -44,7 +44,7 @@
     {%- assign sorted = _escrow | concat: _budget | sort: 'start' | reverse -%}
     {%- assign categories = sorted | map: 'category' | uniq -%}
     <h3>Finished Workers</h3>
-    <small>Categories:<br/><a style="cursor: pointer" onclick="filterTable('FinishedWorkers', 'all')">All</a>{%- for category in categories -%} &nbsp;&#x25cf; <a style="cursor: pointer" onclick="filterTable('Workers', '{{category}}')">{{ category }}</a>{%- endfor -%}</small>
+    <small>Categories:<br/><a style="cursor: pointer" onclick="filterTable('FinishedWorkers', 'all')">All</a>{%- for category in categories -%} &nbsp;&#x25cf; <a style="cursor: pointer" onclick="filterTable('FinishedWorkers', '{{category}}')">{{ category }}</a>{%- endfor -%}</small>
     <table>
         <tr>
             <th>Title</th>
