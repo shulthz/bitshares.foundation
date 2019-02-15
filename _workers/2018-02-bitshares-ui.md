@@ -2,7 +2,7 @@
 language: en
 layout: worker
 type: budget
-category: Marketing
+category: UI Development
 bfid: 2018-02-bitsharesui
 workerid: 1.14.83
 title: BitShares UI Team

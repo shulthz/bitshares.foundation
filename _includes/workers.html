@@ -51,6 +51,7 @@
             <th>Worker</th>
             <th>Price</th>
             <th>Duration</th>
+            <th style="display: none">Category</th>
         </tr>
         {%- for worker in sorted -%}
         <tr>
@@ -60,6 +61,7 @@
             <td>{{worker.bfid}}</td>
             <td>{{worker.price}}<br/>(<strong>{{worker.type}}</strong>)</td>
             <td>{{worker.duration}}</td>
+            <td style="display: none">{{worker.category}}</td>
         </tr>
         {% endfor %}
     </table>
