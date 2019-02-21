@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: escrow
+category: Marketing
 bfid: 2017-12-blockchainacademy
 workerid: 1.14.68
 title: Blockchain Academy - Marketing BitShares through education 

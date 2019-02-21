@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: budget
+category: Legal
 bfid: 201802-legal-bts
 workerid: 1.14.80
 title: Legal Council about BTS and No-action
@@ -9,7 +10,7 @@ name: BitShares Blockchain Foundation
 company:
  name: BitShares Blockchain Foundation
  url: http://bitshares.foundation
-status: paying
+status: pending
 payments:
 discussions:
  - name: bitsharestalk

@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: escrow
+category: UI Development
 bfid: 201808-trusty-community-ui-p1
 workerid: 1.14.117
 title: BitShares Community Wallet (Part 1/2)
@@ -9,7 +10,7 @@ name: Milos Preocanin
 company:
  name: "AP Asia Tech Co., LTD. (Legal DAO representative of Trusty team)"
  url: "http://apasia.tech"
-status: 
+status: finished
 discussions:
  - name: bitsharestalk
    url: "https://bitsharestalk.org/index.php?topic=26873.0"

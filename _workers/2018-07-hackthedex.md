@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: budget
+category: Bug Bounty
 bfid: 201807-hackthedex
 workerid: 1.14.109
 title: Hack the DEX - a BitShares Bug Bounty Program

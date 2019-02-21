@@ -2,6 +2,7 @@
 layout: worker
 language: en
 bfid: 201808-flash-global-infrastructure
+category: Network
 type: budget
 workerid: 1.14.115
 title: "Project: Flash - Global Infrastructure for BitShares by APAsia.tech"
@@ -9,12 +10,7 @@ name: Milos Preocanin
 company:
  name: AP Asia Tech Co., LTD.
  url: http://apasia.tech
-status:
-  proposal-vetted: True
-  worker-created: True
-  worker-approved: False
-  worker-paying: False
-  worker-finished: False
+status: finished
 discussions:
  - name: bitsharestalk
    url: "https://bitsharestalk.org/index.php?topic=26860.0"

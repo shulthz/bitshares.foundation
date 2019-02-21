@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: budget
+category: UI Development
 bfid: 2018-02-bitsharesui
 workerid: 1.14.83
 title: BitShares UI Team
@@ -9,7 +10,7 @@ name: Bill Butler
 company:
  name:
  url:
-status: paying
+status: finished
 discussions:
  - name: steemit/@billbutler
    url: https://steemit.com/bitshares/@billbutler/bitshares-gui-worker-proposal-renewal

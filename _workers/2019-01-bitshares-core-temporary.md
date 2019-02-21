@@ -2,13 +2,12 @@
 language: en
 layout: worker
 type: budget
+category: Core Development
 bfid: 201901-bitshares-core-temporary
 workerid: 1.14.151
 title: BitShares Core Team Continuing Resolution Budget - 2019
 name: Ryan R. Fox (`fox`)
-company:
- name:
- url:
+status: finished
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=25968.0

@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: escrow
+category: Marketing
 bfid: 201810-bitshares-org
 workerid: 1.14.126
 title: BitShares.org - Website Development, Content/Domain Management, Hosting
@@ -9,7 +10,7 @@ name: Milos Preocanin
 company:
  name: Zavod Premik
  url: http://move-institute.si
-status:
+status: paying
 discussions:
  - name: bitsharestalk
    url: ""

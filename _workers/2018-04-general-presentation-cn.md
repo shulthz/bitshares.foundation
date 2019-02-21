@@ -2,13 +2,14 @@
 layout: worker
 type: budget
 bfid: 201804-general-presentation
+category: Marketing
 workerid: 1.14.101
 title: Update BitShares' General Public Presentation
 name: BitShares Blockchain Foundation
 company:
  name: Stichting BitShares Blockchain Foundation
  url: http://bitshares.foundation
-status: paying
+status: pending
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=26167.new#new

@@ -2,6 +2,7 @@
 language: en
 layout: worker
 type: escrow
+category: UI Development
 bfid: 201708-bitsharesui
 workerid: 1.14.58
 title: BitShares UI Team
