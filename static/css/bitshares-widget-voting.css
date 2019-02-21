@@ -65,12 +65,12 @@
     border-radius: 15px
 }
 
-a {
+.widget-voting--inline a {
     color: #1e7ec8;
     text-decoration: none
 }
 
-a:hover {
+.widget-voting--inline a:hover {
     text-decoration: underline
 }
 

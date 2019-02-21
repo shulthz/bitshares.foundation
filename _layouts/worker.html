@@ -68,4 +68,31 @@
  <script type=text/javascript src="/static/js/bitshares-widget-voting.js"></script>
 
  <link href="/static/css/bitshares-widget-voting.css" rel=stylesheet>
+
+ <link rel="stylesheet" href="/static/trollbox/trollbox.css" />
+
+ <script src="/static/trollbox/trollbox.js"></script>
+ <script src="/static/trollbox/initializeTrollBox.js"></script>
+
+ <script>
+  function toggleBitSharesVotesTrollbox() {
+   let current = document.getElementById("BitSharesVotesTrollboxId").style.display;
+   if (!window.trollboxInitialized) {
+    window.trollboxInitialized = true;
+    initTrollBox("BitShares Worker - {{page.bfid}}");
+   }
+   if (current == "block") {
+    document.getElementById("BitSharesVotesTrollboxId").style.display = "none";
+   } else {
+    document.getElementById("BitSharesVotesTrollboxId").style.display = "block";
+   }
+  }
+ </script>
+
+ <button class="BitSharesVotesTrollboxButton" onclick="toggleBitSharesVotesTrollbox()">Trollbox</button>
+ <div id="BitSharesVotesTrollboxId" class="BitSharesVotesTrollbox">
+  Connecting to Beet ...
+ </div>
+
+
 </body>

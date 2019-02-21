@@ -1,0 +1,197 @@
+/* Button used to open the chat form - fixed at the bottom of the page */
+.BitSharesVotesTrollboxButton {
+  background-color: #555;
+  color: white;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+  z-index: 100;
+  padding: 0.5rem;
+  box-shadow: 2px 5px 8px #888888;
+}
+.BitSharesVotesTrollboxButton:hover {
+  background-color: #222;
+}
+
+/* The popup chat - hidden by default */
+.BitSharesVotesTrollbox {
+  display: none;
+  position: fixed;
+  bottom: 80px;
+  right: 28px;
+  z-index: 9;
+  width: 35%;
+  max-width: 600px;
+}
+
+.TrollboxContainer * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.TrollboxContainer {
+  display: block;
+  margin: 0;
+  padding: 1rem;
+  max-width: 600px;
+  margin-left: 28px;
+  font-size: 14px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  color: #fff;
+  background: #154c87;
+  box-shadow: 2px 5px 8px #154c8799;
+}
+
+.TrollboxHeader {
+  font-size: 1em;
+  font-weight: bold;
+  padding-bottom: 0.2em;
+  text-align: center;
+  color: #fff;
+}
+
+.TrollboxMessages {
+  display: block;
+  width: 100%;
+  height: 350px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  color: #000;
+  padding: 0.2rem;
+  border: 1px solid #154c87;
+  background: #fff;
+}
+
+.TrollboxMessagesNotVerified {
+  display: block;
+  width: 100%;
+  border: 1px solid #000;
+  border-bottom: none;
+  padding: 0.2rem;
+  padding-left: 1rem;
+  padding-bottom: 2.6rem;
+  margin-bottom: -2.5rem;
+  background: lightgray;
+  color: black;
+}
+
+.TrollboxMessagesList {
+  width: 100%;
+  height: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.TrollboxMessagesList li {
+  line-height: 1.2;
+}
+
+.TrollboxMessage {
+  display: block;
+  width: 100%;
+}
+
+.TrollboxForm {
+  padding-top: 0.2em;
+  display: block;
+  width: 100%;
+}
+
+.TrollboxInput {
+  display: block;
+  color: #fff;
+  width: 100%;
+  background: #fff;
+}
+
+.TrollboxInputTextDiv {
+    display: inline-block;
+    width: 77%;
+}
+
+.TrollboxInputText {
+  border: 1px solid #154c87;
+  width: 100%;
+  padding: 0.3em;
+  padding-left: 1rem;
+  font-size: 1em;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.TrollboxInputButton {
+  display: inline-block;
+  width: 22%;
+  min-width: 4em;
+  font-size: 1.2em;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.TrollboxInputText:focus {
+  outline: 0;
+}
+
+.TrollboxMessagesLine {
+  width: 100%;
+}
+
+.TrollboxMessagesLineTitle {
+  font-weight: bold;
+}
+
+.TrollboxMessagesLineMarkIcon > svg {
+  height: 1rem;
+  width: 1rem;
+}
+
+.TrollboxMessagesLineMarkUnknown > span > svg > g > path {
+  fill: black;
+}
+
+.TrollboxMessagesLineMarkFailed > span > svg > g > path {
+  fill: red;
+}
+
+.TrollboxMessagesLineMarkFailed {
+  color: red;
+}
+
+.TrollboxMessagesLineMarkVerified > span > svg > g > path {
+  fill: none;
+}
+
+.TrollboxMessagesLineMarkPending > span > svg > g > path {
+  fill: #154c87;
+}
+
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #fff;
+  color: #154c87;
+  text-align: center;
+  padding: 0.5rem;
+  border: 1px solid #154c87;
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  top: 2rem;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
