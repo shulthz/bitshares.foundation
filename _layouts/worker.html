@@ -37,7 +37,7 @@
      </tr>
      <tr>
       <th>Worker ID</th>
-      <td>{{page.workerid}}</td>
+      <td>{{page.workerid}} <span id="bitshares-widget-voting-1" objectid="{{page.workerid}}" layout="inline-button" >{{page.workerid}}</span></td>
      </tr>
      <tr>
       <th>Discussions</th>
@@ -63,4 +63,9 @@
   </div>
  </div>
  {% include footer.html %}
+ <script type=text/javascript src="/static/js/bitshares-widget-voting.manifest.js"></script>
+ <script type=text/javascript src="/static/js/bitshares-widget-voting.vendor.js"></script>
+ <script type=text/javascript src="/static/js/bitshares-widget-voting.js"></script>
+
+ <link href="/static/css/bitshares-widget-voting.css" rel=stylesheet>
 </body>
