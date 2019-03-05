@@ -9,7 +9,7 @@ Major groundwork needs to be performed for BitShares to succeed over
 current and future regulatory and technological challenges. The
 BitShares Blockchain Foundation seeks to take the lead on those.
 
-Throughout the last couple months, we have been repeatedly approach
+Throughout the last couple months, we have been repeatedly approached
 about core aspects of BitShares and its governance token BTS that have
 been presented publicly in an inaccurate and unfavorable manner. This
 often resulted in ambiguity and uncertainty that has held back some

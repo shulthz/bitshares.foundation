@@ -3,7 +3,9 @@ layout: default
 permalink: /accounting
 ---
 
-It is our pleasure to now publicly announce another major step for the [BitShares Blockchain Foundation](http://bitshares.foundation) towards transparency, openness and accountability.
+The [BitShares Blockchain Foundation](http://bitshares.foundation) seeks to provide 
+insight and transparency for the escrow services to create openness and accountability 
+towards the community.
 
 Since we are in the fortunate position to have received sufficient trust from BTS token holders to successfully operate [multiple escrow workers](http://www.bitshares.foundation/worker), we feel the need to be as transparent as humanly possible to these token holders as to how the funds are used.
 
@@ -13,11 +15,17 @@ Thus, we started working with an accounting system that allows us to
 * publish the accounts balances and transactions in a way that is publicly auditable, and
 * ensure we properly pay our debts and pay back unnecessary funds to the BitShares reserve fund.
 
+The accounting system is plain-text based and comes with an easier-to-use frontend available at
+[https://workers.bitshares.foundation/](https://workers.bitshares.foundation/).
+
 # Plain Text Accounting
 
-After some research, we decided to use a [plain text accounting system](http://plaintextaccounting.org/), in particular, we are using [Ledger](http://ledger-cli.org/) - the name kind of fits :)
+After some research, we decided to use a [plain text accounting system](http://plaintextaccounting.org/), in particular, 
+we are using [Ledger](http://ledger-cli.org/) - the name fits perfectly, and of course the offerec functionality.
 
-You can find the accounting files published on [github.com/bitshares-foundation](https://github.com/bitshares-foundation/accounting) regularly including a quick [README](https://github.com/bitshares-foundation/accounting/blob/master/README.md) that shows how to use these files properly.
+You can find the accounting files published on [github.com/bitshares-foundation](https://github.com/bitshares-foundation/accounting) 
+regularly including a quick [README](https://github.com/bitshares-foundation/accounting/blob/master/README.md) 
+that shows how to use these files properly.
 
 Please allow us to briefly go through the tool before we show an overview of the books.
 
@@ -204,16 +212,34 @@ We would like to highlight a few points in what we were able to achieve in recen
 
 ## Automation and Management
 
-In the outstanding worker operational costs for workers, you may have noticed that a fraction of the payouts (except for the steemfest worker) is asked for by the chainsquad account owned by [ChainSquad GmbH](http://chainsquad.com).  This fee covered the technical management of workers as well as developing automation for maintaining reoccurring tasks to facilitate escrow workers more efficiently over time. As these tools near completion, the fraction asked for in order to develop automation and development tools will drastically decrease.
+To facilitate the technical management of workers as well as automating as much as possible
+the escrow system has an elaborate backend available which was initially developed by 
+[ChainSquad GmbH](http://chainsquad.com). These tools are continuously maintained and expanded
+to allow the escrow backend to evolve to an even more transparent system.
 
 ## Review and Code Audits
 
-Additionally to management tools, the code produced by freelancers needs to be reviewed by 3rd parties before funds can be released. This ensures that the produced code fits into the high quality standards of the existing code base.  It is our wish to be able to hand over the work of auditing code to more and more entities (companies and individual high-profile developers) to grow the knowledge of the underlying technology. Hence, if you have a profile of providing excellent code review and have experience in the Graphene library, you may want to contact the [BitShares Blockchain Foundation](http://www.bitshares.foundation).
+Additionally to management tools, the code produced by freelancers needs to be reviewed 
+by 3rd parties before funds can be released. This ensures that the produced code fits 
+into the high quality standards of the existing code base.  It is our wish to be able 
+to hand over the work of auditing code to more and more entities (companies and individual 
+high-profile developers) to grow the knowledge of the underlying technology. Hence, if you 
+have a profile of providing excellent code review and have experience in the Graphene library, 
+you may want to contact the [BitShares Blockchain Foundation](http://www.bitshares.foundation)
+to become one of the reviewers.
 
 # Final Words
 
-In the future you can expect regular updates on the accounting of BitShares Blockchain Foundation to ensure the highest standards in transparency and accountability. We feel the deep desire to support the BitShares community and ensure that uncertainties that appear are covered and resolved as quickly as possible.
+The BitShares Blockchain Foundation seeks to ensure the highest standards in transparency and 
+accountability. We feel the deep desire 
+to support the BitShares community and ensure that uncertainties that appear are covered and 
+resolved as quickly as possible.
 
-Further, we hope that we can continue to grow our reputation within the BTS holders and the whole community to receive sufficient trust to do what we are planning to do with BitShares.
+Further, we hope that we can continue to grow our reputation within the BTS holders and 
+the whole community to receive sufficient trust to do what we are planning to do with BitShares.
 
-If you want to support our efforts, please don't hesitate to get in contact with us (`info@bitshares.foundation`) or donate to `donations.bitshares.foundation`. We would like to emphasise that the BitShares Blockchain Foundation is a registered **non-profit** entity in the Netherlands which means that all funds donated will need to go into following our foundations' goals: Growing BitShares. 
+If you want to support our efforts, please don't hesitate to get in contact with 
+us (`info@bitshares.foundation`) or donate to `donations.bitshares.foundation`. We would like 
+to emphasise that the BitShares Blockchain Foundation is a registered **non-profit** entity 
+in the Netherlands which means that all funds donated will need to go into following our 
+foundations' goals: Growing BitShares. 
