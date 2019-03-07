@@ -7,10 +7,11 @@ language: en
 ## Overview
 
 The BitShares Blockchain Foundation takes a lead in managing so called
-*worker proposals* on the BitShares DAC. These proposals, once approved
-by BTS holders, obtain funding in BTS tokens from the working budget
-(a.k.a. reserves) of the BitShares DAC. These BTS tokens are then traded
-into a *price-stable* cryptocurrency, such as bitUSD.
+*worker proposals* on the BitShares Blockchain. These proposals, once
+approved by BTS holders, obtain funding in BTS tokens from the working
+budget (a.k.a. reserves) of the BitShares DAC. These BTS tokens are then
+traded into a *price-stable* cryptocurrency, such as bitCNY, bitEUR,
+etc. \[[Read more](#worker-proposals-via-escrow)\]
 
 ## Transparency
 
@@ -26,6 +27,36 @@ The BitShares Blockchain Foundation currently maintains the following
 list of proposals through escrow:
 
 {% include workers.html %}
+
+# Worker Proposals via Escrow
+
+## The procedure
+
+1. Establishing Agreement for Escrow service
+2. BBF sets up worker proposal on-chain
+3. BBF obtains BTS from reserves
+4. BBF obtains smartcoins according to agreement (bitCNY, bitUSD, ...)
+5. freelancer proves delivery
+6. BBF reviews delivery and invoice
+7. freelancer receives payment
+8. Escrow service returns excess BTS to reserves
+
+## Purpose
+
+The purpose of this service is to provide security and transparency to
+both parties, the BitShares Blockchain Community, as well as the
+freelancer that performs the work in expectation of payment.
+
+On the one hand side, the community gets
+
+ * the freelancer to work on approved subjects
+ * significantly reduced currency risk as payments are in smartcoins
+ * calculable expenses to reserves
+ * more security for BTS voters (since payments are done for deliveries)
+ * higher transparency (everything happens on public accounts, on chain)
+ * enables public accounting audits at any time
+
+## Types of Worker Proposals
 
 The BitShares Blockchain Foundation currently knows **three** types of
 worker proposals:
@@ -57,15 +88,16 @@ while the BitShares DAC does not overpay for the provided work,
 especially for long-term agreements.
 
 Given that a worker on the blockchain may be voted in for quite some
-time, the BitShares Foundation would like to exercise the new model of
-running an escrow worker to reduce risks and costs for the BTS token
-holders:
+time, the BitShares Blockchain Foundation would like to exercise the new
+model of running an escrow worker to reduce risks and costs for the BTS
+token holders:
 
 * BitShares Blockchain Foundation has an account (`workers.bitshares.foundation`) that is co-owned by `committee-account` and escrow partners.
-* The worker will redeem it's funds on a regular basis and buy up bitUSD from the market (with reasonable premiums).
+* The worker will redeem it's funds on a regular basis and buy up smartcoins from the market (with reasonable premiums).
 * For this reason and due to volatility of BTS, the actual pay of the worker is higher than the USD value.
-* The worker will only pay the agreed amount of money and pay only in bitUSD to the `bitshares.foundation` account.
-* Every BTS that is not paid out after the end of the worker **will be returned** to the BTS token holders through the reserve fund.
+* The worker will only pay the agreed amount of money and pay only in smartcoins to the `bitshares.foundation` account.
+* Every BTS that is not paid according to the terms of the worker proposal **will be returned** to the BTS token holders through the reserve fund.
+* The amounts available for individual budgets can be obtained through [transparent account](/accounting)
 
 ### Budget Worker Model
 
@@ -74,7 +106,7 @@ purposes where escrow workers do not fit, such as translation work,
 bug fixing or bounties. The rules are as follows:
 
 * BitShares Blockchain Foundation has an account (`workers.bitshares.foundation`) that is co-owned by `committee-account` and escrow partners.
-* The BBF will redeem these funds on a regular basis and buy up bitUSD from the market (with reasonable premiums).
+* The BBF will redeem these funds on a regular basis and buy up smartcoins from the market (with reasonable premiums).
 * For this reason and due to volatility of BTS, the available budget in USD terms might vary over time.
 * The budget is controlled by `bitshares.foundation` who serves as an independent entity to supervise payouts.
 * The amounts available for individual budgets can be obtained through [transparent account](/accounting)
@@ -87,14 +119,14 @@ change to the behavior of the BitShares Blockchain requires approval by
 BTS holders by means of approval voting. This is implemented by means of
 a BSIP worker.
 
-## Beneficiaries
+## Beneficiaries and Invoices
 
 Beneficiaries of either of these models need to authenticate themselves
 against the BitShares Blockchain Foundation with their real-world identity.
 Invoices need to be sent that are published in this site.
 
-**Payments will be made only after receiving and approving individual
-invoices!**
+**Payments will be made only after receiving and approving individual invoices!**
+
 Invoices are to be adressed to
 
     BitShares Blockchain Foundation
@@ -103,12 +135,24 @@ Invoices are to be adressed to
     Old Manor Estate
     Gingerland, Nevis
 
+It is the desire of the Foundation to fullfill the terms set forth in
+the worker proposal. However, the BitShares Blockchain Foundation
+expects freelancers to understand that no legal agreements is being
+formed between the Foundation and the freelancer. The Foundation merely
+acts as an escrow partner for funds offered by the BitShares community. 
+
+## Escrow Fee
+
+If not stated otherwise, the BitShares Blockchain Foundation asks for an
+escrow fee of 5%. The escrow fee is due on every payout.
+
 ## Legal Setup
 
 Workers listed on this site will be owned by the BitShares Blockchain
-Foundation, who will also act as the freelancer's contracting partner,
-supervise the progress. Payouts are facilitated in bitUSD through a
-multi-signature escrow setup with the independent BitShares Foundation.
+Foundation, who will also act as the freelancer's partner and point of
+contact for the worker proposal and supervise the entire progress.
+Payouts are facilitated in Smartcoins through the escrow setup with the
+independent BitShares Foundation.
 
 [Blockchain Projects BV](http://blockchainprojectsbv.com) is contracted to 
 handle the technical details and support quality assurance procedures.
