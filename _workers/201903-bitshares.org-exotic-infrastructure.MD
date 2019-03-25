@@ -19,8 +19,8 @@ price/budget: up to 47400 USD
 fixed: 1320 USD
 total: 48720
 duration: 12 months
-start: 2019/03/25
-end: 2020/03/26
+start: 2019/04/01
+end: 2020/04/02
 ---
 
 # **(Re)Introduction**
