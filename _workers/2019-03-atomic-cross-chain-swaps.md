@@ -11,16 +11,15 @@ name: Everbloom
 company:
  name: Everbloom
  url: https://everbloom.co/
-status: draft
 discussions:
-# - name: bitsharestalk
-#   url:
+ - name: bitsharestalk
+   url: https://bitsharestalk.org/index.php?topic=27845.0
 # - name: steemit
 #   url:
 price: $120,000 (in CNY)
 duration: 20 weeks
-start: 2019/03/01
-end: 2018/09/30
+start: 2019/04/01
+end: 2018/10/30
 paymentaccount:
 ---
 
