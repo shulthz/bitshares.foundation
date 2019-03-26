@@ -15,9 +15,7 @@ discussions:
  - name: bitsharestalk
    url: ""
 payments:
-price: up to 47400 USD / 320k CNY
-  fixed: 1320 USD
-  total: 48720 USD
+price: 47400 USD / 320k CNY
 duration: 12 months
 start: 2019/04/01
 end: 2020/04/02
