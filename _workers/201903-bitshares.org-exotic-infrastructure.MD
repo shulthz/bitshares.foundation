@@ -15,9 +15,9 @@ discussions:
  - name: bitsharestalk
    url: ""
 payments:
-price/budget: up to 47400 USD
-fixed: 1320 USD
-total: 48720
+price: up to 47400 USD / 320k CNY
+  fixed: 1320 USD
+  total: 48720 USD
 duration: 12 months
 start: 2019/04/01
 end: 2020/04/02
@@ -144,4 +144,4 @@ In addition, 3 baremetal instances are being deployed to those exotic locations.
 - Hardware will be returned to "AP Asia Tech Co., LTD." and "Pattana Media Co., LTD." with upgrades (physical SSD storage drives) being available for handover to new worker upon finish/termination of this worker.
 - "AP Asia Tech Co., LTD." takes responsibility for purchased equipment through this worker (e.g. SSD drives). If purchased it would be property of the blockchain. Setting up 1BTS + develiery expense worker in the future and approval from stakeholders through Consensus would be sufficient to claim the property as a new caretaker. 
 - DDOS Protection is included in current costs - where applicable/available.
-- BitShares Blockchain Foundation Escrow fees are calculated/included in the budget of the worker. 
+- BitShares Blockchain Foundation Escrow fees are calculated/included in the budget of the worker (i.e. 5% of every payout). 
