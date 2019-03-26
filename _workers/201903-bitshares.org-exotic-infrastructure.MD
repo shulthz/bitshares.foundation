@@ -75,6 +75,7 @@ In addition, 3 baremetal instances are being deployed to those exotic locations.
  | 20.	toronto.bitshares.apasia.tech        | toronto2.ca.api.bitshares.org          | 							  |
  | 21.	japan.bitshares.apasia.tech          | tokyo.asia.api.bitshares.org           | 							  |
  | 22.	singapore.bitshares.apasia.tech      | singapore.asia.api.bitshares.org       | 							  |  
+
 <hr> 
 
 ### Proposal for BitShares testnet infrastructure
@@ -84,6 +85,7 @@ In addition, 3 baremetal instances are being deployed to those exotic locations.
  | 1.	testnet.bitshares.apasia.tech        | dallas.testnet.api.bitshares.org       | 							  |
  | 2.	testnet-eu.bitshares.apasia.tech     | amsterdam.testnet.api.bitshares.org    | !!! re-deploy                 |
  | 3.	testnet-asia.bitshares.apasia.tech   | singapore.testnet.api.bitshares.org    | !!! re-deploy                 |
+
 <hr>
 
 ### Proposal for baremetal deployment (server units provided/owned by AP Asia Tech Co., LTD.)
