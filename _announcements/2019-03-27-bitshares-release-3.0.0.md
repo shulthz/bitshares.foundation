@@ -90,5 +90,5 @@ excellent releases.
 Links:
 ------
 
- [1] https://github.com/bitshares/bitshares-core/releases/tag/3.0.0
- [2] http://lists.bitshares.foundation/listinfo
+- [1] https://github.com/bitshares/bitshares-core/releases/tag/3.0.0
+- [2] http://lists.bitshares.foundation/listinfo
