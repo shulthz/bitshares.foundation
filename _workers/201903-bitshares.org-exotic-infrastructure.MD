@@ -32,7 +32,7 @@ The [previous worker](https://www.bitshares.foundation/workers/2018-08-flash-glo
 - Upgrade and redeploy nodes at the beginning of the worker + DDOS protection where available
 - Proper management of cost optimizations (start $3380/month -> average last 3 months ~$1500/month)
 - 2 status pages (1 was delivered to public, 1 remained in private development)
-- Unspent funds from previous worker (Asked: 25,500.00 bitUSD, Available Balance: 7,994.05 bitUSD /included 7th month)
+- Unspent funds from previous worker (Asked: 25,500.00 bitUSD, Available Balance: 7,994.05 bitUSD /after paid 7th month)
 
 
 # **Worker Intent**
@@ -107,9 +107,9 @@ In addition, 3 baremetal instances are being deployed to those exotic locations.
 
 * Update domains and bitshares.org dns for presented changes in this worker
 * Maintain uptime tracking/monitoring through status.apasia.tech on all nodes from this Worker with a start date from the date the Worker gets approved.
-* Continue maintenance and weekly backup of fully synced [default API blockchain database](https://status200.bitshares.apasia.tech/downloads/bts-node-full.tar.gz) for easier/faster replay.
+* Continue maintenance and weekly backup of fully synced [default API blockchain database](/http://149.28.193.16/bts-node-full.tar.gz) for easier/faster replay.
 * Target of 90% uptime (avg of all nodes in this worker) on a monthly basis. 
-* Provision 3 baremetal instances (property of AP Asia Tech Co., LTD.) to 3 locations (Thailand, S. America, Africa) within 60 days.
+* Provision 3 baremetal instances (property of AP Asia Tech Co., LTD.) to 3 locations (Thailand, S. America, Africa) within 60 business days from the day worker becomes active.
 * Maintain and monitor all nodes through status.bitshares.org (coming as part of the website bitshares.org)
 * Maintain [GitHub resources for pre-compiled BitShares API](https://github.com/dls-cipher/BitShares-Mainnet-API-Node-pre-compiled-tutorial) node with default config and backup system.
 * Research on Grafana interface for deployment and possible integration for infrastructure of this worker. (Thanks to [@xeroc](https://github.com/xeroc) for [initial demo, development ](http://88.198.69.93:3000/d/5GD-8olmk/bitshares-infrastructure-loadbalancer?orgId=1)  and introduction of Grafana to Community this year)
@@ -138,7 +138,7 @@ In addition, 3 baremetal instances are being deployed to those exotic locations.
 
 - "AP Asia Tech Co., LTD" will refer to BitShares DAC as a Client, providing deployments as defined in this Worker, with guarantee on uptime of not under 90% average, on a monthly basis.
 - "AP Asia Tech Co., LTD" would be requesting BitShares Blockchain Foundation to be an Escrow Partner.
-- "AP Asia Tech Co., LTD" will will deliver invoices/receipts to the Escrow. Public accounting is available [here](workers.bitshares.foundation)
+- "AP Asia Tech Co., LTD" will deliver invoices/receipts to the Escrow. Public accounting is available [here](workers.bitshares.foundation)
 - "AP Asia Tech Co., LTD" reserve rights to preserve configuration of Public API to limited (non-commercial) use in order to prevent abuse of the BitShares eco-system, its contributors and funds of the reserve pool. 
 - "AP Asia Tech Co., LTD." and "Pattana Media Co., LTD." will provide 3 baremetal/server units to the blockchain for the duration of this worker. Configuration and hardware specifications of those units are subject to change without pre-notice to the Client. (hardware failures, uknown usage/cost increase, etc.)
 - Hardware will be returned to "AP Asia Tech Co., LTD." and "Pattana Media Co., LTD." with upgrades (physical SSD storage drives) being available for handover to new worker upon finish/termination of this worker.
