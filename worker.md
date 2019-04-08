@@ -4,7 +4,7 @@ permalink: /worker/
 language: en
 ---
 
-## Overview
+# Overview
 
 The BitShares Blockchain Foundation takes a lead in managing so called
 *worker proposals* on the BitShares Blockchain. These proposals, once
@@ -56,13 +56,6 @@ On the one hand side, the community gets
  * higher transparency (everything happens on public accounts, on chain)
  * enables public accounting audits at any time
 
-## Types of Worker Proposals
-
-The BitShares Blockchain Foundation currently knows **three** types of
-worker proposals:
-
-## Background
-
 The BitShares Blockchain in its technical implementation only knows 
 one type of worker proposal. It contains a name, payment account,
 daily BTS payout rate and a link to provide insight into the purpose of
@@ -77,7 +70,7 @@ of activity as defined by the worker proposal, the latter is meant to
 do strategic decisions and to agree on the consensus changing development 
 and introducing new features of the BitShares core (BitShares Improvement Proposals).
 
-The BitShares Blockchain Foundation can operate a payment worker proposals
+The BitShares Blockchain Foundation can operate a opinion and payment worker proposals
 and act as an escrow for the freelancers conducting the worker proposal. 
 We see the following value propositions to use us as an escrow (please note that
 the BBF is merely one possible way to facilitate worker proposals and is not 
@@ -98,7 +91,9 @@ meant as an exclusive escrow):
 Certainly using the BitShares Blockchain Foundation as an escrow introduces additional 
 overhead and requires both trust from the BTS token holders and the freelancer.
 
-## Payment workers
+## Types of Worker Proposals
+
+### Payment workers
 
 The BitShares Blockchain Foundation splits the payment workers into two sub-types, 
 namely escrow and budget workers. For both workers the 
@@ -128,7 +123,7 @@ fee is applied to all payment workers operated by the BitShares Blockchain Found
 (starting 1. March 2019). This fee is applicable for each outgoing
 payment and will be accounted for publicly for each worker.
 
-### Escrow Worker Model
+#### Escrow Worker Model
 
 The purpose of escrow workers is to ensure proper payment for the work
 provided over a period of time and absorb volatility of the BTS token
@@ -148,7 +143,7 @@ token holders:
 * Every BTS that is not paid according to the terms of the worker proposal **will be returned** to the BTS token holders through the reserve fund.
 * The amounts available for individual budgets can be obtained through [transparent account](/accounting)
 
-### Budget Worker Model
+#### Budget Worker Model
 
 Budget workers serve as workers that provide capital for specific
 purposes where escrow workers do not fit, such as translation work,
@@ -160,7 +155,9 @@ bug fixing or bounties. The rules are as follows:
 * The budget is controlled by `bitshares.foundation` who serves as an independent entity to supervise payouts.
 * The amounts available for individual budgets can be obtained through [transparent account](/accounting)
 
-### BSIP Worker Model
+### Opinion workers
+
+####  BSIP Worker Model
 
 BSIP is the abbreviation for *BitShares Improvement Proposal* and is
 describes the procedure of improving the BitShares protocol. Every major
