@@ -176,11 +176,6 @@ expects freelancers to understand that no legal agreements is being
 formed between the Foundation and the freelancer. The Foundation merely
 acts as an escrow partner for funds offered by the BitShares community. 
 
-# Escrow Fee
-
-If not stated otherwise, the BitShares Blockchain Foundation asks for an
-escrow fee of 5%. The escrow fee is due on every payout.
-
 # Legal Setup
 
 Workers listed on this site will be owned by the BitShares Blockchain
