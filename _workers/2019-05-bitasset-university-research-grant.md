@@ -46,10 +46,20 @@ about. All include the 10% gift tax.
 # Budget Restrictions
 
 Worker funds are release relatively slowly, so an extremely aggressive
-timeline may not be possible.  However, the committee has access to
-additional funds that could be loaned temporarily by this worker and
-paid back over time to cover the full amount relatively early and allow
-commitment for a 2 year-long research grant for BitShares.
+timeline may not be possible. However, the BitShares Committee has
+access to additional funds that could be loaned temporarily by this
+worker and paid back over time to cover the full amount relatively early
+and allow commitment for a 2 year-long research grant for BitShares.
+
+The committment will be accepted by the BitShares Blockchain Foundation
+as partner for the University of Colorado **only** in the case the funds
+are available in total to the foundation.
+
+Hence, in case this worker is approved, we will seek out to the
+committee to "loan" BTS to secure the committement from funds available to
+them. However, the "loan" can and will only be paid back from funds
+received by this worker. In case the worker does not obtain sufficient
+funds, the loan will not be paid back in full.
 
 # Executive summary
 
