@@ -10,7 +10,7 @@ name: Blockchain Projects BV
 company:
  name: Blockchain Projects BV
  url: https://www.blockchainprojectsbv.com/
-status: pending
+status: draft
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=26806.0
@@ -25,17 +25,19 @@ paymentaccount: hackthedex-distribution
 
 HackTheDex bounty program was started in July 2018 and is consequently
 renewed now. Several critical reports have been submitted and fixed
-through HackTheDex, proofing its value and necessity.
+through HackTheDex, proof for its value and necessity. Those reports included
+several possibilities for chain hault and other severe attacks. An overview can
+be found here:
 
-The [last worker](https://www.bitshares.foundation/workers/2018-07-hackthedex)
-has obtained a funding of XX bitUSD while only spending XX bitUSD for bounties,
-auditor hours and expenses.
+https://hackthedex.io/#/reports
 
-In agreement with the BBF this proposal is asking to move over the funds from
+In agreement with the BBF this proposal is asking to move over all remaining funds from
 the [last worker](https://www.bitshares.foundation/workers/2018-07-hackthedex)
-into the new worker and adjust the daily BTS payout accordingly. The
+into this new worker and adjust the daily BTS payout accordingly. The
 move over will only happen if this proposal stays active for a consecutive
-7 days.
+7 days. Including pending payouts of the last worker, that means that
+1,433,812.15112 BTS (~88288.92 at 16.24 BTS/USD) and 126,622.0299 bitUSD will
+be shifted into the budget of this worker.
 
 
 ## General
@@ -112,9 +114,12 @@ active developers to audit the report and resolve all issues as quickly
 and safely as possible.
 
 *   **BitShares Core Team:** [Ryan R. Fox](https://steemit.com/@fox)
-*   **BitShares UI Team:** [Magnus Anderson (startail)](https://steemit.com/@??)
+*   **BitShares UI Team:** [Magnus Anderson (startail)](https://steemit.com/@sc-steemit)
 *   **BitShares JS:** [Stefan Schießl (sschiessl-bcp)](https://steemit.com/@sschiessl)
+*   **Beet:** [Alex M (clockwork)](https://steemit.com/@clockwork)
 *   **BitShares Python:** [Fabian Schuh (xeroc)](https://steemit.com/@xeroc)
+*   **BitShares Mobile:** [Syalon Flauspid (syalon)](https://github.com/syalon)
+
 
 ## Rewards
 Rewards paid out will vary based on severity as guided by the [OWASP
@@ -197,15 +202,24 @@ Blockchain Foundation](http://www.bitshares.foundation/). At the end of
 the proposal period, **any excess funds will be returned to the
 BitShares reserve pool**.
 
-*   **Total Budget: 250,000 bitUSD**  
+*   **Total Budget: 250,000 bitUSD**
     Refundable reserve via a BitShares Foundation [Budget Worker](http://www.bitshares.foundation/worker/) 
 *   **Proposal Period: 1 year**
     Allows sufficient time for security researchers to learn about BitShares and explore the code base
 *   **How funds will be allocated:**
-    * Bounty Rewards (bitUSD)  
-    Varies based on OWASP severity scale and audit panel final review  
-    * 150 bitUSD/hour  
-    Audit panel member compensation ([more info](#audit-panel))  
-    * up to 1000 bitUSD/month for expenses, including Website/Services, Coordination, Collaboration Tools and Reports
-    * 5% Escrow Disbersement Fee  
-    [BitShares Blockchain Foundation](http://www.bitshares.foundation/) Escrow Services  
+    * Bounty Rewards (bitUSD)
+    Varies based on OWASP severity scale and audit panel final review
+    * 150 bitUSD/hour Audit panel member compensation ([more info](#audit-panel))
+    * up to 1000 bitUSD/month for expenses, including Management, Services, Website, Coordination, Collaboration Tools and Reports
+    * 5% Disbersement Fee
+    [BitShares Blockchain Foundation](http://www.bitshares.foundation/) for escrowing and payment processing (included in the total budget)
+
+## Total asking from the BitShares Blockchain
+
+In total this worker proposal is asking of a funding of
+
+    250,000 bitUSD - 1,433,812.15112 BTS / 16.24 BTS/USD - 126,622.0299 USD = 35089.04 bitUSD
+
+over the duration of 1 year. Due to the generous initial funding the devaluation multiplier will be set to 1, which results in
+
+    XX BTS per day.
