@@ -211,8 +211,7 @@ BitShares reserve pool**.
     Varies based on OWASP severity scale and audit panel final review
     * 150 bitUSD/hour Audit panel member compensation ([more info](#audit-panel))
     * up to 1000 bitUSD/month for expenses, including Management, Services, Website, Coordination, Collaboration Tools and Reports
-    * 5% Disbersement Fee
-    [BitShares Blockchain Foundation](http://www.bitshares.foundation/) for escrowing and payment processing (included in the total budget)
+    * 5% Disbersement Fee for the [BitShares Blockchain Foundation](http://www.bitshares.foundation/) for escrowing and payment processing (included in the total budget)
 
 ## Total asking from the BitShares Blockchain
 
