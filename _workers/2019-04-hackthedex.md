@@ -29,14 +29,14 @@ through HackTheDex, proof for its value and necessity. Those reports included
 several possibilities for chain halt and other severe attacks. An overview can
 be found here:
 
-https://hackthedex.io/#/reports
+[https://hackthedex.io/#/reports](https://hackthedex.io/#/reports)
 
 In agreement with the BBF this proposal is asking to move over all remaining funds from
 the [last worker](https://www.bitshares.foundation/workers/2018-07-hackthedex)
 into this new worker and adjust the daily BTS payout accordingly. The
 move over will only happen if this proposal stays active for a consecutive
 7 days. Including pending payouts of the last worker, that means that
-`1,433,812.15112 BTS` (`~88288.92 bitUSD` at `16.24 BTS/bitUSD`) and `126,622.0299 bitUSD` will
+`1,433,812.15112 BTS` (`~86011.52 bitUSD` at `16.67 BTS/bitUSD`) and `126,622.0299 bitUSD` will
 be shifted into the budget of this worker. In addition, this worker covers all
 submissions and efforts from the audit panel since the end of the last worker
 (2019/01/15).
@@ -218,8 +218,8 @@ BitShares reserve pool**.
 
 In total this worker proposal is asking of a funding of
 
-    `250,000 bitUSD - (1,433,812.15112 BTS / 16.24 BTS/USD) - 126,622.0299 USD = 35089.04 bitUSD`
+    250,000 bitUSD - (1,433,812.15112 BTS / 16.67 BTS/USD) - 126,622.0299 USD = 37366.44 bitUSD
 
 over the duration of 1 year. Due to the generous initial funding the devaluation multiplier will be set to `1`, which results in
 
-    `XX BTS` per day.
+    1,707 BTS` per day.
