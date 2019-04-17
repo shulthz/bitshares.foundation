@@ -14,10 +14,10 @@ status: draft
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=26806.0
-price: up to $XXX,000 bitUSD
+price: up to $250,000 bitUSD
 duration: 1 year
-start: 2019/04/15
-end: 2019/04/14
+start: 2019/04/20
+end: 2019/04/19
 paymentaccount: hackthedex-distribution
 ---
 
@@ -37,8 +37,9 @@ into this new worker and adjust the daily BTS payout accordingly. The
 move over will only happen if this proposal stays active for a consecutive
 7 days. Including pending payouts of the last worker, that means that
 1,433,812.15112 BTS (~88288.92 at 16.24 BTS/USD) and 126,622.0299 bitUSD will
-be shifted into the budget of this worker.
-
+be shifted into the budget of this worker. In addition, this worker covers all
+submissions and efforts from the audit panel since the end of the last worker
+(2019/01/15).
 
 ## General
 BitShares is a decentralized exchange (DEX) built on top of delegated
