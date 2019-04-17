@@ -5,7 +5,7 @@ type: budget
 category: Bug Bounty
 bfid: 201904-hackthedex
 workerid:
-title: Renewal 1: Hack the DEX - a BitShares Bug Bounty Program
+title: "Hack the DEX - a BitShares Bug Bounty Program (2019)"
 name: Blockchain Projects BV
 company:
  name: Blockchain Projects BV
