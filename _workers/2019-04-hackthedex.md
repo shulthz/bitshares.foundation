@@ -26,7 +26,7 @@ paymentaccount: hackthedex-distribution
 HackTheDex bounty program was started in July 2018 and is consequently
 renewed now. Several critical reports have been submitted and fixed
 through HackTheDex, proof for its value and necessity. Those reports included
-several possibilities for chain hault and other severe attacks. An overview can
+several possibilities for chain halt and other severe attacks. An overview can
 be found here:
 
 https://hackthedex.io/#/reports
@@ -36,7 +36,7 @@ the [last worker](https://www.bitshares.foundation/workers/2018-07-hackthedex)
 into this new worker and adjust the daily BTS payout accordingly. The
 move over will only happen if this proposal stays active for a consecutive
 7 days. Including pending payouts of the last worker, that means that
-1,433,812.15112 BTS (~88288.92 at 16.24 BTS/USD) and 126,622.0299 bitUSD will
+`1,433,812.15112 BTS` (`~88288.92 bitUSD` at `16.24 BTS/bitUSD`) and `126,622.0299 bitUSD` will
 be shifted into the budget of this worker. In addition, this worker covers all
 submissions and efforts from the audit panel since the end of the last worker
 (2019/01/15).
@@ -218,8 +218,8 @@ BitShares reserve pool**.
 
 In total this worker proposal is asking of a funding of
 
-    250,000 bitUSD - 1,433,812.15112 BTS / 16.24 BTS/USD - 126,622.0299 USD = 35089.04 bitUSD
+    `250,000 bitUSD - (1,433,812.15112 BTS / 16.24 BTS/USD) - 126,622.0299 USD = 35089.04 bitUSD`
 
-over the duration of 1 year. Due to the generous initial funding the devaluation multiplier will be set to 1, which results in
+over the duration of 1 year. Due to the generous initial funding the devaluation multiplier will be set to `1`, which results in
 
-    XX BTS per day.
+    `XX BTS` per day.
