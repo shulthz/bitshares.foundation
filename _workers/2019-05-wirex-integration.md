@@ -4,7 +4,7 @@ layout: worker
 type: escrow
 category: Integration
 bfid: 201905-wirex-integration
-workerid:
+workerid: 1.14.183
 title: "Wirex Listing of BTS"
 name: Blockchain Projects BV
 company:
