@@ -11,8 +11,10 @@ company:
  name: Blockchain Projects BV
  url: https://www.blockchainprojectsbv.com/
 discussions:
-# - name: bitsharestalk
-#   url: 
+ - name: bitsharestalk
+   url: https://bitsharestalk.org/index.php?topic=28313.0
+ - name: steemit
+   url: https://steemit.com/bitshares/@bitshares.fdn/spokesperson-report-new-opportunity-for-bts
 price: $375,500
 duration: 6 months
 start: 2019/05/01
