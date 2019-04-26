@@ -4,20 +4,20 @@ layout: worker
 type: budget
 category: Bug Bounty
 bfid: 201904-hackthedex
-workerid:
+workerid: 1.14.186
 title: "Hack the DEX - a BitShares Bug Bounty Program (2019)"
-name: Blockchain Projects BV
+name: "Blockchain Projects BV & Ryan Fox"
 company:
  name: Blockchain Projects BV
  url: https://www.blockchainprojectsbv.com/
-status: draft
+status: voting
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=26806.0
 price: up to $250,000 bitUSD
 duration: 1 year
-start: 2019/04/20
-end: 2019/04/19
+start: 2019/04/27
+end: 2020/04/27
 paymentaccount: hackthedex-distribution
 ---
 
