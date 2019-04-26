@@ -11,8 +11,8 @@
         </li>
         {% endfor %}
     </ul>
-    {% assign workers=site.workers | where: 'bfid', page.bfid | sort: 'language' %}
-    {% assign articles=site.articles | where: 'identifier', page.identifier | sort: 'language' %}
+    {% assign workers=site.workers | where: 'bfid', (page.bfid | default: 'None') | sort: 'language' %}
+    {% assign articles=site.articles | where: 'identifier', (page.identifier | default: 'None') | sort: 'language' %}
     {% assign allSites=articles | concat: workers %}
     {% assign len=allSites | size %}
     {% if len > 1 %}
