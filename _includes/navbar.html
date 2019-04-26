@@ -12,14 +12,14 @@
         {% endfor %}
     </ul>
     {% if page.bfid %}
-        {% assign workers=site.workers | where: 'bfid', page.bfid | sort: 'language' %}
+        {% assign allSites=site.workers | where: 'bfid', page.bfid | sort: 'language' %}
         {% assign len=allSites | size %}
         {% if len > 1 %}
             <div style="clear:both"></div>
             <ul class="alignable pull-right navbar-ul language-selector">
-                {% for site in allSites %}
+                {% for _site in allSites %}
                     <li class="alignable pull-right nav-list">
-                        <a lang="{{ page.language }}" href="{{ site.url }}" class="{{ site.language }}">{{ site.language }}</a>
+                        <a lang="{{ page.language }}" href="{{ _site.url }}" class="{{ _site.language }}">{{ _site.language }}</a>
                     </li>
                 {% endfor %}
             </ul>
