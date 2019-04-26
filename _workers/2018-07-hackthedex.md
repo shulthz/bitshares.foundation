@@ -10,7 +10,7 @@ name: Matt Beckman
 company:
  name: HackTheDEX.io
  url: https://hackthedex.io
-status: pending
+status: finished
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=26806.0
@@ -19,9 +19,6 @@ duration: 6 months
 start: 2018/07/15
 end: 2019/01/15
 paymentaccount: hackthedex-distribution
-reports:
-payments:
-invoices:
 ---
 
 ## General
