@@ -222,4 +222,4 @@ In total this worker proposal is asking of a funding of
 
 over the duration of 1 year. Due to the generous initial funding the devaluation multiplier will be set to `1`, which results in
 
-    1,707 BTS` per day.
+    1,707 BTS per day.
