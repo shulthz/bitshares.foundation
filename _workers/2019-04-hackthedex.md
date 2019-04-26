@@ -203,7 +203,7 @@ Blockchain Foundation](http://www.bitshares.foundation/). At the end of
 the proposal period, **any excess funds will be returned to the
 BitShares reserve pool**.
 
-*   **Total Budget: 250,000 bitUSD**
+*   **Total Budget: 238,095.24 bitUSD**
     Refundable reserve via a BitShares Foundation [Budget Worker](http://www.bitshares.foundation/worker/) 
 *   **Proposal Period: 1 year**
     Allows sufficient time for security researchers to learn about BitShares and explore the code base
@@ -212,14 +212,22 @@ BitShares reserve pool**.
     Varies based on OWASP severity scale and audit panel final review
     * 150 bitUSD/hour Audit panel member compensation ([more info](#audit-panel))
     * up to 1000 bitUSD/month for expenses, including Management, Services, Website, Coordination, Collaboration Tools and Reports
-    * 5% Disbersement Fee for the [BitShares Blockchain Foundation](http://www.bitshares.foundation/) for escrowing and payment processing (included in the total budget)
+    * 5% Disbursement Fee for the [BitShares Blockchain Foundation](http://www.bitshares.foundation/) for escrowing and payment processing (included in the total budget, only applied for completed payments)
 
 ## Total asking from the BitShares Blockchain
 
 In total this worker proposal is asking of a funding of
 
-    250,000 bitUSD - (1,433,812.15112 BTS / 16.67 BTS/USD) - 126,622.0299 USD = 37366.44 bitUSD
+| Description | Amount |
+|--|--|
+| Bounty payouts and audit panel hours | + 238,095.24 bitUSD
+| Moveover from 201807-hackthedex in bitUSD | - 126,622.0299 bitUSD |
+| Moveover from 201807-hackthedex in BTS (estimated) | - 86,011.52 bitUSD |
+| Disbursement Fee | + 11,904.76 bitUSD |
+| **TOTAL** | 37366.44 |
 
 over the duration of 1 year. Due to the generous initial funding the devaluation multiplier will be set to `1`, which results in
 
     1,707 BTS per day.
+    
+The budget is a up to budget on all accounts and actual spendings highly depent on incoming reports.
