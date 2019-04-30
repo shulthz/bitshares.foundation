@@ -224,7 +224,7 @@ In total this worker proposal is asking of a funding of
 | Moveover from 201807-hackthedex in bitUSD | - 126,622.0299 bitUSD |
 | Moveover from 201807-hackthedex in BTS (estimated) | - 86,011.52 bitUSD |
 | Disbursement Fee | + 11,904.76 bitUSD |
-| **TOTAL** | 37366.44 |
+| **TOTAL** | 37366.44 bitUSD |
 
 over the duration of 1 year. Due to the generous initial funding the devaluation multiplier will be set to `1`, which results in
 
