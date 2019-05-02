@@ -24,10 +24,10 @@ paymentaccount: hackthedex-distribution
 ## History
 
 HackTheDex bounty program was started in July 2018 and is consequently
-renewed now. Several critical reports have been submitted and fixed
-through HackTheDex, proof for its value and necessity. Those reports included
-several possibilities for chain halt and other severe attacks. An overview can
-be found here:
+renewed now. Several reports that could have caused harm to the community have 
+been submitted and fixed through HackTheDex, proof for its necessity and value. 
+Those reports included several possibilities for an attacker to cause a chain halt,
+cause theft of funds and other severe attacks. An overview can be found here:
 
 [https://hackthedex.io/#/reports](https://hackthedex.io/#/reports)
 
