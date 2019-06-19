@@ -12,6 +12,7 @@ company:
  name: University of Colorado at Colorado Springs
  url: https://www.uccs.edu
 price: $160,000
+status: draft
 duration: 4 months
 start: 2019/07/01
 end: 2019/10/31
