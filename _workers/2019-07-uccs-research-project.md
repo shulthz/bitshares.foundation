@@ -28,11 +28,11 @@ This worker proposal, if approved and funded, will support a gift to the Univers
 By far the most critical budget items are the stipend and tuition payments for the PhD student, who will be committing the bulk of the time to the project. In addition to the student’s budget items, the project’s impact is significantly enhanced by including some time for Dr. Brown, to ensure that he can adequately direct the research. Time for faculty can be included as salary in the summer months or as a “course buy-out” during the academic year which reduces his teaching load to allow more time for research. The following budget includes a summer month as well as a teaching reduction. Finally, an annual $10,000 travel budget is included; both Dr. Brown and the PhD student will travel to universities, conferences, and workshops to promote the work, disseminate research findings and develop future collaborative relationships with other researchers. Each of the following items includes a 10% “tax” which is taken by the University to cover facilities maintenance and support staff salaries.
 
  A sample annual budget is as follows:
-  * PhD Student annual stipendsalary: **$26,736**
+  * PhD Student annual stipend: **$26,736**
   * PhD student annual tuition (6 credits per semester): **$10,211.11**
   * Dr. Brown month of summer salary: **$14,354.44**
   * Dr. Brown 1-course teaching load reduction: **$12,919.00**
-  * Travel budget: **11,111.11**
+  * Travel budget: **$11,111.11**
   * **Total annual budget:  $75,331.66**
 
 If the project is funded at higher levels, the additional money will be used to extend the student’s funding for up to a third year. It is important to stress that this is likely to significantly increase the ultimate impact of the project, as the productivity of PhD students tends to increase over time.
