@@ -7,7 +7,7 @@ bfid: 201907-uccs-research-project
 workerid:
 name: University of Colorado at Colorado Springs
 title: "BitAsset PhD Research project - University of Colorado"
-name: Philip N. Brown, Assistant Professor of Computer Science
+name: Dr. Philip N. Brown, Assistant Professor of Computer Science
 company:
  name: University of Colorado at Colorado Springs
  url: https://www.uccs.edu
@@ -25,7 +25,7 @@ This worker proposal, if approved and funded, will support a gift to the Univers
 
 ### Yearly Budget
 
-By far the most critical budget items are the stipend and tuition payments for the PhD student, who will be committing the bulk of the time to the project. In addition to the student’s budget items, the project’s impact is significantly enhanced by including some time for Dr. Brown, to ensure that he can adequately direct the research. Time for faculty can be included as salary in the summer months or as a “course buy-out” during the academic year which reduces his teaching load to allow more time for research. The following budget includes a summer month as well as a teaching reduction. Finally, an annual $10,000 travel budget is included; both Dr. Brown and the PhD student will travel to universities, conferences, and workshops to promote the work, disseminate research findings and develop future collaborative relationships with other researchers. Each of the following items includes a 10% “tax” which is taken by the University to cover facilities maintenance and support staff salaries.
+By far the most critical budget items are the stipend and tuition payments for the PhD student, who will be committing the bulk of the time to the project. In addition to the student’s budget items, the project’s impact is significantly enhanced by including some time for Dr. Brown, to ensure that he can adequately direct the research. Time for faculty can be included as salary in the summer months or as a “course buy-out” during the academic year which reduces his teaching load to allow more time for research. The following budget includes a summer month as well as a teaching reduction. Finally, an annual $10,000 travel budget is included; both Dr. Brown and the PhD student will travel to universities, conferences, and workshops to promote the work, disseminate research findings and develop future collaborative relationships with other researchers. UCCS applies indirect costs of 10% to each budget line item below to cover facilities maintenance, support staff salaries and related grant management expenses; each of the following budget items includes these 10% indirect costs.
 
  A sample annual budget is as follows:
   * PhD Student annual stipend: **$26,736**
@@ -50,7 +50,7 @@ To reduce costs, this worker proposal may pay out BTS to the BBF (the escrow) di
 
 # Executive summary
 
-Prof. Philip Brown wrote an executive summary that contains the full details of the PhD student to work on.
+Dr. Philip Brown wrote an executive summary that contains the full details of the PhD student to work on.
 
 Read [full executive summary](http://cs.uccs.edu/~pbrown2/files/BTS_executive_summary.pdf)
 
@@ -64,6 +64,7 @@ Read [full executive summary](http://cs.uccs.edu/~pbrown2/files/BTS_executive_su
 **Additional project activities**:
 * Travel to universities and academic/blockchain conferences to present our research.
 * Participation and outreach in blockchain community events in the greater Colorado Springs area.
+* Sharing ongoing research findings with the BitShares Core Team and contributing insights to relevant design discussions.
 
 # Principal Investigator Bio
 
