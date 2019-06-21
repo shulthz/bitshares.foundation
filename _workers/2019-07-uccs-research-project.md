@@ -6,8 +6,8 @@ category: Research
 bfid: 201907-uccs-research-project
 workerid:
 name: University of Colorado at Colorado Springs
-title: "BitAsset PhD Research grant - University of Colorado"
-name: Philip N. Brown, Assistant Professor of Computer Science
+title: "BitAsset PhD Research project - University of Colorado"
+name: Dr. Philip N. Brown, Assistant Professor of Computer Science
 company:
  name: University of Colorado at Colorado Springs
  url: https://www.uccs.edu
@@ -25,17 +25,17 @@ This worker proposal, if approved and funded, will support a gift to the Univers
 
 ### Yearly Budget
 
-By far the most critical budget items are the stipend and tuition payments for the PhD student, who will be committing the bulk of the time to the project. In addition to the student’s budget items, the project’s impact is significantly enhanced by including some time for Dr. Brown, to ensure that he can adequately direct the research. Time for faculty can be included as salary in the summer months or as a “course buy-out” during the academic year which reduces his teaching load to allow more time for research. The following budget includes a summer month as well as a teaching reduction. Finally, an annual $10,000 travel budget is included; both Dr. Brown and the PhD student will travel to universities, conferences, and workshops to promote the work, disseminate research findings and develop future collaborative relationships with other researchers. Each of the following items includes a 10% “tax” which is taken by the University to cover facilities maintenance and support staff salaries.
+By far the most critical budget items are the stipend and tuition payments for the PhD student, who will be committing the bulk of the time to the project. In addition to the student’s budget items, the project’s impact is significantly enhanced by including some time for Dr. Brown, to ensure that he can adequately direct the research. Time for faculty can be included as salary in the summer months or as a “course buy-out” during the academic year which reduces his teaching load to allow more time for research. The following budget includes a summer month as well as a teaching reduction. Finally, an annual $10,000 travel budget is included; both Dr. Brown and the PhD student will travel to universities, conferences, and workshops to promote the work, disseminate research findings and develop future collaborative relationships with other researchers. UCCS applies indirect costs of 10% to each budget line item below to cover facilities maintenance, support staff salaries and related grant management expenses; each of the following budget items includes these 10% indirect costs.
 
-  * A sample annual budget is as follows:
-  * PhD Student annual stipendsalary: **$26,736**
+ A sample annual budget is as follows:
+  * PhD Student annual stipend: **$26,736**
   * PhD student annual tuition (6 credits per semester): **$10,211.11**
   * Dr. Brown month of summer salary: **$14,354.44**
   * Dr. Brown 1-course teaching load reduction: **$12,919.00**
-  * Travel budget: **11,111.11**
+  * Travel budget: **$11,111.11**
   * **Total annual budget:  $75,331.66**
 
-If the project is funded at higher levels, the additional money willmay be used to extend the student’s funding for a third year. It is important to stress that this is likely to significantly increase the ultimate impact of the project, as the productivity of PhD students tends to increase over time.
+If the project is funded at higher levels, the additional money will be used to extend the student’s funding for up to a third year. It is important to stress that this is likely to significantly increase the ultimate impact of the project, as the productivity of PhD students tends to increase over time.
 
 ### Accountability and Transparency
 
@@ -50,24 +50,25 @@ To reduce costs, this worker proposal may pay out BTS to the BBF (the escrow) di
 
 # Executive summary
 
-Prof. Philip Brown wrote an executive summary that contains the full details of the PhD student to work on.
+Dr. Philip Brown wrote an executive summary that contains the full details of the PhD student to work on.
 
 Read [full executive summary](http://cs.uccs.edu/~pbrown2/files/BTS_executive_summary.pdf)
 
 **Key Research Thrusts**:
-Recommend concrete improvements to the BitShares MPA system
-Develop a “science of collateralized tokens,” investigating the key design tradeoffs in the space.
-Can the balance between short-term and long-term stability be tuned?
-Is there a fundamental tradeoff in collateralized tokens between manipulability and short-term stability?
-How can we assess risk in collateralized token systems, taking into account the incentives seen by all parties?
+* Recommend concrete improvements to the BitShares MPA system.
+* Develop a “science of collateralized tokens,” investigating the key design tradeoffs in the space.
+* Can the balance between short-term and long-term stability be tuned?
+* Is there a fundamental tradeoff in collateralized tokens between manipulability and short-term stability?
+* How can we assess risk in collateralized token systems, taking into account the incentives seen by all parties?
 
 **Additional project activities**:
-Travel to universities and academic/blockchain conferences to present our research.
-Participation and outreach in blockchain community events in the greater Colorado Springs area.
+* Travel to universities and academic/blockchain conferences to present our research.
+* Participation and outreach in blockchain community events in the greater Colorado Springs area.
+* Sharing ongoing research findings with the BitShares Core Team and contributing insights to relevant design discussions.
 
 # Principal Investigator Bio
 
-Dr. Philip N. Brown, an Assistant Professor at the University of Colorado Colorado Springs, will direct the research project. Dr. Brown brings uniquely multidisciplinary expertise to the project, as his research combines concepts from automation and controls, game theory and incentive design, and integrated engineered and engineered systems. Dr. Brown has been a BitShares community member since early 2014, and participated in bitsharestalk.org discussions (under the pseudonym “biophil”) regarding the design of the first BitAsset pegging mechanisms. Since then, he has launched an interdisciplinary research program in the department of Computer Science at the University of Colorado: http://cs.uccs.edu/~pbrown2/.
+Dr. Philip N. Brown, an Assistant Professor at the University of Colorado Colorado Springs, will direct the research project. Dr. Brown brings uniquely multidisciplinary expertise to the project, as his research combines concepts from automation and controls, game theory and incentive design, and integrated engineered and engineered systems. Dr. Brown has been a BitShares community member since early 2014, and participated in bitsharestalk.org discussions (under the pseudonym “biophil”) regarding the design of the first BitAsset pegging mechanisms. Since then, he has launched an interdisciplinary research program in the department of Computer Science at the University of Colorado: [http://cs.uccs.edu/~pbrown2/.](http://cs.uccs.edu/~pbrown2/)
 
 # Summary
 
@@ -75,8 +76,8 @@ The proposed research gift funds an exciting and ambitious undertaking to result
 
 It is our hope that in its success, this project will accomplish the following three unique things:
 
-Bring new tools and theory to bear on the practical challenges faced by the BitShares Blockchain,
-Spread awareness of the BitShares ecosystem to a previously unreached audience, and
-Showcase the BitShares community’s ability and commitment to fund higher learning projects which confer benefits beyond the insular setting of the BitShares Blockchain itself.
+* Bring new tools and theory to bear on the practical challenges faced by the BitShares Blockchain,
+* Spread awareness of the BitShares ecosystem to a previously unreached audience, and
+* Showcase the BitShares community’s ability and commitment to fund higher learning projects which confer benefits beyond the insular setting of the BitShares Blockchain itself.
 
 {% include warning-non-escrow.html %}
