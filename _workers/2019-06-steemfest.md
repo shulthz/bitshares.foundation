@@ -3,7 +3,7 @@ language: en
 layout: worker
 type: escrow
 category: Marketing
-bfid: 201906-steemfest
+bfid: 201907-steemfest
 workerid: 1.14.xxx
 title: SteemFest⁴ Sponsorship by Bitshares
 name: Roeland P Lanparty
@@ -13,8 +13,8 @@ company:
 status: draft
 price: 10,000 EUR (=12,000 USD)
 duration: 14 weeks
-start: 2019/07/01
-end: 2019/10/07
+start: 2019/07/19
+end: 2019/10/31
 paymentaccount: steemfest
 language: en
 discussions:
@@ -24,7 +24,7 @@ discussions:
 
 # Introduction
 
-Dear BitShares Stakeholders and valuable committee members, 
+Dear BitShares community, 
 
 **This worker proposal requests a relatively small sponsorship for the annual SteemFest, this year in it's 4th edition, heading to Asia! To be held in various locations across Bangkok, Thailand from 6 to 10 november 2019. The goal of this worker is to promote the Bitshares chain and ecosystem during this Graphene oriented community event.**
 
