@@ -4,13 +4,13 @@ layout: worker
 type: escrow
 category: Marketing
 bfid: 201907-steemfest
-workerid: 1.14.xxx
+workerid: 1.14.209
 title: SteemFest⁴ Sponsorship by Bitshares
 name: Roeland P Lanparty
 company:
   name: SteemFest
   url: https://steemfest.com
-status: draft
+status: voting
 price: 80,000 CNY (=10,000 EUR)
 duration: 14 weeks
 start: 2019/07/19
