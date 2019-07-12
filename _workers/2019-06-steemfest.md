@@ -11,7 +11,7 @@ company:
   name: SteemFest
   url: https://steemfest.com
 status: draft
-price: 10,000 EUR (=12,000 USD)
+price: 80,000 CNY (=10,000 EUR)
 duration: 14 weeks
 start: 2019/07/19
 end: 2019/10/31
@@ -95,7 +95,7 @@ This sponsorship through a worker would give BitShares:
 
 # Funding needed
 
-This sponsorship costs 10,000 EURO (bitCNY 82,000). Left-over BTS will be refunded. 
+This sponsorship costs 10,000 EURO (bitCNY 80,000). Left-over BTS will be refunded. 
 
 # Usage of sponsorship money
 
