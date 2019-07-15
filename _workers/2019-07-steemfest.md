@@ -19,7 +19,7 @@ paymentaccount: steemfest
 language: en
 discussions:
  - name: bitsharestalk
-   url: tba
+   url: https://bitsharestalk.org/index.php?topic=28660.0
 ---
 
 # Introduction
