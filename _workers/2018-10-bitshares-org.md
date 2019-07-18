@@ -71,11 +71,12 @@ the invoiced amount and is included in the budget.
 | Name / Position              | Hourly Rate (bitUSD) |
 | ---------------------------------- | -------------:|
 | Project Manager (Milos Preocanin) |   $100.00     |
+| Assistant Manager (Ross Walker) |   $100.00     |
 | Web Developer (Richard Castro, Milos Preocanin)	         |   $120.00     |
 | CSS/JS Review/Opt (Alex Megalokonomos) -       |    $120.00     |
+| Lead Designer (Ratchaphol Pattanasakpaiboon)	         |   $50.00     |
 | Content Manager (Ross Walker)  	         |    $75.00     |
-| Content Liaison (Ryan C. Fox)      |	  $75.00     |
-| DNS/Auth Manager (Sigve Kvalsvik)       |    $80.00    |
+| Content Liaison (Brendan Jensen, Ryan R. Fox)      |	  $75.00     |
 | Issue Bounties via GitHub  |   $30.00 - $125.00     |
 
 TopTracker will be used for tracking hours and tasks of each member of the team. 
@@ -86,17 +87,17 @@ Involved personel:
  - Alex Megalokonomos, @clockworkgr, BitShares Witness and Committee Member
  - Ross Walker, @rosswlkr
  - Ryan C. Fox, @ryanRfox, Head of BitShares Core team
- - Sigve Kvalsvik, @sigvek, Code review of BitShares UI team
+ - Brendan Jensen
 
 **One time payment**
 
 | Description        | Price (bitUSD) |
 | ---------------------------------- | -------------:|
-| Time Reimbursement Fee |   $5000.00   |
+| 1-Time Reimbursement Fee |   $5000.00   |
 | 4 Positive(Comodo) Premium SSL Certificate for 12 months  |   $60.00   |
 | CDN by StackPath for 12 months (estimate)  |	 ~ $500.00    |
 | Website Balanced Hosting (1+3) with DDOS for 12 months    |    $1440.00     |
-| E-mail Server (CentOS 6 x64) /w DirectAdmin  for 12 months |    $360.00     |
+| E-mail Server (CentOS 6 x64) /w cPanel  for 12 months |    $360.00     |
 | **TOTAL**     |	  $7180.00     |
 
 All unused BTS / bitUSD will be returned after the end of this worker.
@@ -106,30 +107,30 @@ All unused BTS / bitUSD will be returned after the end of this worker.
 The roadmap will be published in 3 month intervalls. For the first three month it is:
 
 **Public representation**
-- Content creation and optimization (as per spreadsheet with estimate in hours)
-- Achieving double "A" Score on GTMetrix (Google PageSpeed and YahooSlow) for BitShares.org
-- Achieving 88%+ on SEOSITECHECKUP for BitShares.org
-- Development of an temporary professional general inquiry form (not permanent solution)
+- [x] Content creation and optimization (as per spreadsheet with estimate in hours)
+- [ ] Achieving double "A" Score on GTMetrix (Google PageSpeed and YahooSlow) for BitShares.org
+- [x] Achieving 88%+ on SEOSITECHECKUP for BitShares.org
+- [x] Development of an temporary professional general inquiry form (not permanent solution)
 - Final Terms and Conditions to the website according to the Governance of Slovenia
-- Newsletter 
-- Anti-Spam/Crawl for both website / emails
-- Proper Google Analytics integration with monthly reporting / suggestions for improvements / potential marketing campaign opportunities
-- Blog/News Updates/CMS - Latest from the BitShares ecosystem (similar to current "State-of-the-network", possible collaboration will be explored)
+- [x] Newsletter 
+- [x] Anti-Spam/Crawl for both website / emails
+- [x] Proper Google Analytics integration with monthly reporting / suggestions for improvements / potential marketing campaign opportunities
+- [x] Blog/News Updates/CMS - Latest from the BitShares ecosystem (similar to current "State-of-the-network", possible collaboration will be explored)
 
 **Organisation**
 - Moving/Setting up emails to new server
-- Purchase/Deploy of SINGLE Premium SSL Certificate for BitShares.org
-- DNS updates for the premium domain requirements
-- PHP polishing (wrapping header/footer includes through all pages)
-- Total of 27 files to be cleaned/organized (css, php, js, html)
-- CDN integration
-- OPCache + Redis server (we do serve static content)
+- [x] Purchase/Deploy of SINGLE Premium SSL Certificate for BitShares.org
+- [x] DNS updates for the premium domain requirements
+- [x] PHP polishing (wrapping header/footer includes through all pages)
+- [ ] Linting (css, php, js, html)
+- [ ] CDN integration
+- [x] OPCache + Redis server (we do serve static content)
 
 **Native dApps**
-- Finishing 2 out of the 3 native dApps pages
+- [x] Finishing 2 out of the 3 native dApps pages
 - Enabling status.bitshares.org as monitoring service for the nodes listed in wallet.bitshares.org
-- Legally reviewed linking between main website and its native dApps
-- "Wallet Creation" being replaced with term "Account Creation" and incorporated to the website BitShares.org instead of sending users only to DEX
+- [x] Legally reviewed linking between main website and its native dApps
+- [x] "Wallet Creation" being replaced with term "Account Creation" and incorporated to the website BitShares.org instead of sending users only to DEX
 
 
 The general Roadmap is subject to constant changes and interaction of the team members and the community on this worker.
