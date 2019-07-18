@@ -107,7 +107,7 @@ The roadmap will be published in 3 month intervalls. For the first three month i
 
 **Public representation**
 - [x] Content creation and optimization (as per spreadsheet with estimate in hours)
-- [] Achieving double "A" Score on GTMetrix (Google PageSpeed and YahooSlow) for BitShares.org
+- [ ] Achieving double "A" Score on GTMetrix (Google PageSpeed and YahooSlow) for BitShares.org
 - [x] Achieving 88%+ on SEOSITECHECKUP for BitShares.org
 - [x] Development of an temporary professional general inquiry form (not permanent solution)
 - Final Terms and Conditions to the website according to the Governance of Slovenia
@@ -121,8 +121,8 @@ The roadmap will be published in 3 month intervalls. For the first three month i
 - [x] Purchase/Deploy of SINGLE Premium SSL Certificate for BitShares.org
 - [x] DNS updates for the premium domain requirements
 - [x] PHP polishing (wrapping header/footer includes through all pages)
-- [] Linting (css, php, js, html)
-- [] CDN integration
+- [ ] Linting (css, php, js, html)
+- [ ] CDN integration
 - [x] OPCache + Redis server (we do serve static content)
 
 **Native dApps**
