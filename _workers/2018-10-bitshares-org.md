@@ -74,6 +74,7 @@ the invoiced amount and is included in the budget.
 | Assistant Manager (Ross Walker) |   $100.00     |
 | Web Developer (Richard Castro, Milos Preocanin)	         |   $120.00     |
 | CSS/JS Review/Opt (Alex Megalokonomos) -       |    $120.00     |
+| Lead Designer (Ratchaphol Pattanasakpaiboon)	         |   $50.00     |
 | Content Manager (Ross Walker)  	         |    $75.00     |
 | Content Liaison (Brendan Jensen, Ryan R. Fox)      |	  $75.00     |
 | Issue Bounties via GitHub  |   $30.00 - $125.00     |
