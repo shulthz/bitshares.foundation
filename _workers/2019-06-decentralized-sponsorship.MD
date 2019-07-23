@@ -9,7 +9,7 @@ title: "'Decentralized 2019 Partnership' - Partnership with the University of Ni
 name: Alex Megalokonomos
 company:
  name:Clockwork Projects OU
-status: Active
+status: draft
 discussions:
  - name: bitsharestalk
    url: "https://bitsharestalk.org/index.php?topic=28557.0"
