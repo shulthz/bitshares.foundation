@@ -1,20 +1,20 @@
 ---
 layout: worker
 language: en
-bfid: 2019-06-decentralized-partnership
+bfid: 201906-decentralized-partnership
 category: Marketing
 type: budget
 workerid: 1.14.206
-title: "'Decentralized 2019 Partnership' - Partnership with the University of Nicosia to co-present Decentralized 2019 conference"
+title: "Decentralized 2019 Partnership"
 name: Alex Megalokonomos
 company:
- name:Clockwork Projects OU
-status: draft
+ name: "Clockwork Projects OU"
+status: active
 discussions:
  - name: bitsharestalk
    url: "https://bitsharestalk.org/index.php?topic=28557.0"
 payments:
-price: 200k USD 
+price: 200,000 USD
 duration: 4 months
 start: 2019/06/25
 end: 2019/10/25
@@ -22,9 +22,21 @@ end: 2019/10/25
 
 # **Introduction**
 
-This year’s 'Decentralized' conference will be held at my hometown of Athens, Greece between the 30th of October and 1st of November 2019. As some of you may remember, I set up a similar worker last year for a plain sponsorship of the conference by BitShares which went really well. Conference last year was attended by me, Ryan R. Fox, Michael Taggart and spokesperson Annemieke Dirkes and we had 2 session talks and a booth that gathered a lot of interest from attendees. 
+This year’s 'Decentralized' conference will be held at my hometown of Athens, Greece between the 30th of October and 1st of November 2019.
+As some of you may remember, I set up a similar worker last year for a plain sponsorship of the conference by BitShares which went really well.
+Conference last year was attended by me, Ryan R. Fox, Michael Taggart and spokesperson Annemieke Dirkes and we had 2 session talks and a booth that
+gathered a lot of interest from attendees.
+Information about last year’s event can be [found here](https://www.decentralized.com/speakers-2018/) with details on the previous worker
+[presented here](https://bitsharestalk.org/index.php?topic=27272.0).
 
-This year we got a very nice offer from the organizers to present the conference as partners (i.e. Decentralized 2019 by University of Nicosia and BitShares). This offer includes:
+This year we got a very nice offer from the organizers to form a partnership with the University of Nicosia and to co-present Decentralized 2019
+(i.e. Decentralized 2019 by University of Nicosia and BitShares). More information about Decentralized and the speakers/agenda this year can
+be found here: [https://www.decentralized.com/](https://www.decentralized.com/).
+
+
+# **Scope of Partnership**
+
+The partnership offer includes:
 
 - Becoming event partners
 - Decentralized Conference listed and marketed everywhere as POWERED BY UNIC AND BitShares. This includes all their own paid marketing campaigns. Next push starts on July 10th
@@ -44,13 +56,8 @@ This year we got a very nice offer from the organizers to present the conference
 - 3-night accomodation at the conference hotel for 2 people
 - Full page ad in the conference brochure
 - Inclusion of BitShares branded item/gift in the conference gift bag
-- 1-year's membership in the IFF (more details here: https://www.unic.ac.cy/iff/ + https://github.com/clockworkgr/worker-proposals/blob/master/20190313%20-%20IFF%20Presentation.pdf )
+- 1-year's membership in the IFF (more [details here](https://www.unic.ac.cy/iff/) and [here](https://github.com/bitshares-foundation/bitshares.foundation/blob/master/_workers/2019-06-decentralized-sponsorship/20190313%20-%20IFF%20Presentation.pdf))
 - Ability to pay University of Nicosia courses tuition fees in BTS/bitUSD/bitEUR
-
-More information about Decentralized and the speakers/agenda this year can be found here: https://www.decentralized.com/
-
-Information about last year’s event can be found here: https://www.decentralized.com/speakers-2018/ and about our previous worker here: https://bitsharestalk.org/index.php?topic=27272.0
-
 
 # **Worker Intent**
 
@@ -64,7 +71,7 @@ The goals of this worker are as follows:
 - Create shareable & promotable content
 
 
-# **Suggested Representation**
+## **Suggested Representation**
 
 The team to attend the conference via the 25 passes included in the sponsorship package should be varied in terms of focus. The worker will pay for travel and accommodation of all representatives.
 
@@ -76,7 +83,7 @@ The businesses (TBC) are:
 - Everprove
 - One CN-based company TBD
 
-This leaves an additional 17 invitations to be distributed which I am currently in discussions in order to finalize. The following is just suggestions: 
+This leaves an additional 17 invitations to be distributed which I am currently in discussions in order to finalize. The following is just suggestions:
 
 - Myself: Alex Megalokonomos (clockwork): Committee member/Witness/Beet project/UI Team
 - Ryan R. Fox (BitShares Core)
@@ -87,12 +94,13 @@ This leaves an additional 17 invitations to be distributed which I am currently 
 - Various Active Worker representatives (DEXBot, BitShares.org)
 - Regional representatives (e.g. Petr/Xanoxt for the Russian community etc.)
 
-## **Budget**
+# **Budget**
 
-Due to an ideal deadline for completing a 20% down-payment on the partnership package prior to July 10th in order to take advantage of the University of Nicosia’s next media push starting then I am bringing this worker on-chain for voting on an ASAP basis with some details (such as the exact members of the team taking part) still TBD.
+Due to an ideal deadline for completing a 20% down-payment on the partnership package prior to July 10th in
+order to take advantage of the University of Nicosia’s next media push starting then, this worker is put on-chain for voting ASAP
+with some details (such as the exact members of the team taking part) still to be determined.
 
-For the same reason, the worker has a daily pay to ensure required funds are acquired in time.
-
+For the same reason, the worker has a higher daily pay to ensure required funds are acquired in time.
 Cost breakdown is as follows:
 
 
