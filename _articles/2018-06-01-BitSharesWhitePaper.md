@@ -1,7 +1,8 @@
 ---
 title: The BitShares Blockchain - Whitepaper
 identifier: The BitShares Blockchain - Whitepaper
-
+redirect_from:
+ - /whitepaper
 layout: article
 language: en
 ---
