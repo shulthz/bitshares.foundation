@@ -1,7 +1,7 @@
 ---
 layout: worker
 language: en
-bfid: 201906-decentralized-partnership
+bfid: 2019-06-decentralized-partnership
 category: Marketing
 type: budget
 workerid: 1.14.206
@@ -14,7 +14,7 @@ discussions:
  - name: bitsharestalk
    url: "https://bitsharestalk.org/index.php?topic=28557.0"
 payments:
-price: 200,000 USD
+price: 1,375,267 CNY (200,000 USD)
 duration: 4 months
 start: 2019/06/25
 end: 2019/10/25
@@ -100,15 +100,14 @@ Due to an ideal deadline for completing a 20% down-payment on the partnership pa
 order to take advantage of the University of Nicosia’s next media push starting then, this worker is put on-chain for voting ASAP
 with some details (such as the exact members of the team taking part) still to be determined.
 
-For the same reason, the worker has a higher daily pay to ensure required funds are acquired in time.
-Cost breakdown is as follows:
+For the same reason, the worker has a higher daily pay to ensure required funds are acquired in time. The worker pays out bitCNY, or alternatively in BTC on the Bitcoin blockchain to reduce spreads (in this case converstion costs must be included in the invoice and match going market rates). Cost breakdown is as follows:
 
 
  | Item                                     | Pay (USD)   |
  | ---------------------------------------- | :---------: |
- | Partnership package & IFF membership     | Up to ~$135,000.00 |
- | Travel expenses (flights accommodation etc.) Up to $2,000 pp  * 24 people  | Up to $8,000.00 |
- | 2,000 x BitShares-branded gifts (e.g. USB stick)  | Up to $8,000.00 |
- | Promotional Material production  | Up to $7,000.00 |
- | Other unexpected expenses (full Invoices will be presented if incurred) | Up to $1,500.00 |
+ | Partnership package & IFF membership     | Up to 931,711.50 CNY (135,500 USD) |
+ | Travel expenses (flights accommodation etc.) Up to 13.753,80 CNY (2,000 USD) pp  * 24 people  | Up to 330,091.20 CNY (48,000 USD) |
+ | 2,000 x BitShares-branded gifts (e.g. USB stick)  | Up to 55,012.80 CNY (8,000 USD) |
+ | Promotional Material production  | Up to 48,136.20 CNY (7,000 USD) |
+ | Other unexpected expenses (full Invoices will be presented if incurred) | Up to 10,315.30 CNY (1,500 USD) |
 
