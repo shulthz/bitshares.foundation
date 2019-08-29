@@ -47,7 +47,7 @@ The key goals for this worker are
  - Define BitShares target groups, and for each of those the message, marketing emphasis and if suitable own branding
  - Streamline marketing process to a common vision
     - Includes interaction and collaboration with other workers for marketing purposes
-    - Funnel System - Map �buyer's journey� and touch points for users from Zero BitShares Awareness -> BitShares Evangelist (and everywhere in between)
+    - Funnel System - Map "buyer's journey" and touch points for users from Zero BitShares Awareness -> BitShares Evangelist (and everywhere in between)
  - Streamline social media presence
  - Do advertisement campaigns
  - Do promotional / sponsorship activities
@@ -67,7 +67,7 @@ The marketing board appointees must confirm their GitHub account name to the BBF
 
 # Budget
 
-This worker�s budget is as follows:
+This worker's budget is as follows:
 
 Total Asking
 Up to 1,378,320 CNY (~200,000 USD)
@@ -86,7 +86,7 @@ The below entities / people will be appointed as the marketing board for this wo
 
 ## Blockchain Projects BV Appointee, Europe
 
- - Stefan Schie�l, Senior Software Developer at Blockchain Projects BV, active community member and also known as @sschiessl (@sschiessl-bcp in github). Will be facilitating communications and organization and contribute to the process of creating a clear and transparent picture of the BitShares Blockchain.
+ - Stefan Schießl, Senior Software Developer at Blockchain Projects BV, active community member and also known as @sschiessl (@sschiessl-bcp in github). Will be facilitating communications and organization and contribute to the process of creating a clear and transparent picture of the BitShares Blockchain.
  - Fabian Schuh, CTO at Blockchain Projects BV, active community member and also known as @xeroc. Knowledgebase for historical and technical questions.
  - Annemieke Dirkes, CEO of Blockchain Projects BV and Legal Representative of the BitShares Blockchain. Knowledgebase for legal and business development questions.
 
@@ -112,13 +112,13 @@ The below entities / people will be appointed as the marketing board for this wo
 
 ## South-east Asia & African Appointee
 
-- George Harrap, CEO of Bitspark. George is an active Bitshares community member and apart from his duties managing Bitspark, George will be helping promote Bitshares at multiple speaking and written opportunities including Coindesk�s invest.Asia, Decentralized conference and other mainstream media news publications and organisations.
+- George Harrap, CEO of Bitspark. George is an active Bitshares community member and apart from his duties managing Bitspark, George will be helping promote Bitshares at multiple speaking and written opportunities including Coindesk's invest.Asia, Decentralized conference and other mainstream media news publications and organisations.
 
 ## BitShares.org Appointee
 
  - Milos Preocanin, Manager of BitShares.org and CEO of Move Institute, SLO. 
 
-# What�s to come
+# What's to come
 
 We have compiled a list of efforts that are being forged on various ends that are being planned to be conducted through this worker. This is not meant as a mandatory or complete list, and those efforts will apply for a budget grant through the process laid out in the guidelines of this worker. Any and all feedback on those efforts are much appreciated, and collected through the respective issues in the marketing repository.
 
@@ -171,9 +171,9 @@ We have compiled a list of efforts that are being forged on various ends that ar
 
 This effort will be split up in several smaller steps when presented to the board, in case this worker gets approved. This is meant as a summarizing preview of a joint effort.
 
- - Executor: Zhongming (wutianfeiyue) & GBAC & �We Media� group
+ - Executor: Zhongming (wutianfeiyue) & GBAC & "We Media" group
  - Description: 
-    - �We Media� group consists of BitShares evangelists who meet through Weibo, WeChat, 8btc, BeeNews and others, here is a list of some participants: xiaoningdada, finn, daozhi, ptschina, ebit521, wuhao, jiaozhu... 
+    - "We Media" group consists of BitShares evangelists who meet through Weibo, WeChat, 8btc, BeeNews and others, here is a list of some participants: xiaoningdada, finn, daozhi, ptschina, ebit521, wuhao, jiaozhu... 
     - BitShares media material
         - https://h5.beekuaibao.com/#/detail?id=607697386881552384
         - https://h5.beekuaibao.com/#/detail?id=607698281069416448
