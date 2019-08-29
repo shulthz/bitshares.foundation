@@ -102,7 +102,7 @@ The below entities / people will be appointed as the marketing board for this wo
 
 ## European Region Appointee
 
- - Alex Megalokonomos, active community, witness and committee member, also known as @clockwork
+ - Alex Megalokonomos, active community, witness and committee member, also known as @clockwork. 16 years digital marketing experience working at Ogilvy (WPP group), Soho Square (WPP group) and others. Clients have included: Allianz, JTI, SEAT, Playmobil, Microsoft, Lufthansa, Pizza Hut, The Coca-Cola Company, Mattel, Hellman's, IBM, Heineken, Siemens and more.
  - CryptoKong, ???
 
 ## US Region Appointee
