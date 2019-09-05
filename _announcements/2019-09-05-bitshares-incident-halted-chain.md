@@ -1,6 +1,8 @@
 ---
 title: BitShares Core Releases to fix chain halt
 layout: announcement
+redirect_from: 
+ - /announcements/2019-08-04-bitshares-incident-halted-chain
 ---
 
 The BitShares Blockchain Foundation would like to inform operators of
