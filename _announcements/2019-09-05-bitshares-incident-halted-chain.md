@@ -28,14 +28,14 @@ to be less than 100%.
 Who Should Update
 -----------------
 
-**NOTE: Every node operator should uprgade their node**
+**NOTE: Every node operator should upgrade their node.**
 
 The upgrade does not cause a replay.
 
 Links:
 ------
 
-Upgrades are available for the 3.x Protocol and Featrue Releases:
+Upgrades are available for the 3.x Protocol and Feature Releases:
 
 * 3.0.2: https://github.com/bitshares/bitshares-core/releases/tag/3.0.2
 * 3.1.1: https://github.com/bitshares/bitshares-core/releases/tag/3.1.1
