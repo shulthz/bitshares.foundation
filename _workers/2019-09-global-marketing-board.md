@@ -122,7 +122,7 @@ The below entities / people will be appointed as the marketing board for this wo
 
 We have compiled a list of efforts that are being forged on various ends that are being planned to be conducted through this worker. This is not meant as a mandatory or complete list, and those efforts will apply for a budget grant through the process laid out in the guidelines of this worker. Any and all feedback on those efforts are much appreciated, and collected through the respective issues in the marketing repository.
 
-The list of efforts that that will seek to apply to the marketing board for funding is listed [here](insert link). They are not immediately approved by approving to create a marketing budget with this worker.
+The list of efforts that that will seek to apply to the marketing board for funding is listed [here](https://github.com/bitshares-foundation/bitshares.foundation/blob/marketing-board/_workers/2019-09-global-marketing-board-outlook.md). They are not immediately approved by approving to create a marketing budget with this worker.
 
 # Vote of No Confidence
 
