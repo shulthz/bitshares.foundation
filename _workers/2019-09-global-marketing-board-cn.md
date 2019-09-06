@@ -13,7 +13,7 @@ company:
 status: draft
 discussions:
  - name: bitsharestalk
-   url: 
+   url:
 price: up to 1,378,320 CNY (~200,000 USD)
 duration: 12 months
 start: 2019/09/01
@@ -88,7 +88,7 @@ Marketing@bitshares.org 邮箱将会由营销委员会管理，任何对外交�
  - Stefan Schießl，Blockchain Projects BV的高级软件开发人员，社区活跃成员，也被称为@sschiessl（@ sschiessl-bcp 在github中）。将促进沟通和组织，并将为创建比特股区块链清晰透明的未来宏图做出贡献。
  - Fabian Schuh，Blockchain Projects BV首席技术官，社区活跃成员，也被称为@xeroc。拥有丰富的历史和技术知识。
  - Annemieke Dirkes，Blockchain Projects BV CEO，比特股区块链法律代表。拥有丰富的法律和业务发展知识。
- 
+
 ## GBAC 代表
 
  - Linda Tian，全球石墨烯区块链应用中心秘书长（GBAC，http：//gbacenter.org/） 中国比特股社区活跃成员，将协助所有需要中国社区支持的事务（工作沟通），特别的是，她将参与比特股线下meet up活动和比特股与其他实体机构/社区的协作和沟通工作。
@@ -102,13 +102,13 @@ Marketing@bitshares.org 邮箱将会由营销委员会管理，任何对外交�
 ## 欧洲区代表
 
  - Alex Megalokonomos，社区活跃成员，见证人之一，理事会成员。也被称为@clockwork。曾在在奥美（WPP集团）、Soho Square（WPP集团）和其他公司中，拥有16年的数字营销工作经验，服务过的客户包括有安联、JTI、西亚特、摩比世界、微软、汉莎航空、必胜客、可口可乐公司、美泰、Hellman's、IBM、喜力、西门子等。
- - CryptoKong, ???
+ - to be filled if needed
 
 ## 美国区代表
 
  - Aaron Mangal，B2B撰稿人，内容营销工作者和技术作家，拥有超过10年的实践业务开发经验。
  - Ryan Fox，比特股核心团队协调员，具有广泛的项目管理专业背景，在金融服务，贷款抵押，制造业中拥有多国经验。
- 
+
 ## 东南亚和非洲区代表
 
 - George Harrap，Bitspark CEO，比特股社区活跃成员，除了管理Bitspark的职责外，他还参与推广比特股的多个演讲和文章发布，包括Coindesk的invest.Asia，去中心化大会和其他主流媒体新闻出版物和组织。
@@ -116,12 +116,17 @@ Marketing@bitshares.org 邮箱将会由营销委员会管理，任何对外交�
 ## BitShares.org 代表
 
  - Milos Preocanin，BitShares.org经理，Move Institute, SLO首席执行官。
- 
+
 # 目前的计划
 
 我们编制了一份正在计划通过该worker进行的各种目的的工作清单。这不是一个强制性或完整的清单，这些工作都将通过这个worker中规定的流程申请预算补助。欢迎社区对这些工作提出任何问题或反馈，这些问题或反馈都将收集至营销存储库中。
 
-The list of efforts that that will seek to apply to the marketing board for funding is listed [here](insert link). They are not immediately approved by approving to create a marketing budget with this worker.
+The list of efforts that that will seek to apply to the marketing board
+for funding is listed here:
+
+   [List of marketing efforts in planning](/workers/2019-09-global-marketing-board-outlook-cn)
+
+They are not immediately approved by approving to create a marketing budget with this worker.
 
 # 不信任投票
 
