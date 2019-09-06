@@ -66,7 +66,7 @@ a budget. All those efforts still need to apply for a budget grant to the market
 
 This effort will be split up in several smaller steps when presented to the board, in case this worker gets approved. This is meant as a summarizing preview of a joint effort.
 
- - Executor: Zhongming (wutianfeiyue) & GBAC & "We Media" group
+ - Executor: GBAC & "We Media" group
  - Description:
     - "We Media" group consists of BitShares evangelists who meet through Weibo, WeChat, 8btc, BeeNews and others, here is a list of some participants: xiaoningdada, finn, daozhi, ptschina, ebit521, wuhao, jiaozhu...
     - BitShares media material

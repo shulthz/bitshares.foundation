@@ -68,7 +68,7 @@ that is laid out in the marketing board worker proposal.
 
 这项工作将在提交给委员会时分成几个较小的步骤，以争取该worker获得批准。这里是一个共同的工作预览。
 
- - 执行人： 文华& GBAC& 自媒体小组
+ - 执行人： GBAC& 自媒体小组
  - 描述：
     - 自媒体小组由比特股布道者组成，他们通过微博，微信，巴比特，币快报等自媒体与公众接触。这里是一些成员的名单：小宁大大，finn，道枝，ptschina，ebit521等。
     - 比特股媒体资料
