@@ -12,23 +12,28 @@
       <th>Name/bfid</th>
       <td>{{page.bfid}}</td>
      </tr>
+{% if page.type == "addendum" %}
      <tr>
-      <th>Category</th>
-      <td>{{page.category}}</td>
+      <th>In reference to</th>
+      <td><a href="{{page.reference}}">{{page.reference}}</a></td>
+{% else %}
+     <tr>
+         <th>Category</th>
+         <td>{{page.category}}</td>
      </tr>
      <tr>
       <th>Freelancer</th>
       <td>{{page.name}}
        {% if page.company.url %}
        - <a href="{{page.company.url}}">{{page.company.name}}</a></td>
-       {% endif %}
+      {% endif %}
      </tr>
      <tr>
       <th>Total</th>
       <td>{{page.price}}
-		{% if page.price_division %}
-				({{page.price_division.fixed}} fees and {{page.price_division.variable}} estimated expenses)
-		{% endif %}
+       {% if page.price_division %}
+       ({{page.price_division.fixed}} fees and {{page.price_division.variable}} estimated expenses)
+       {% endif %}
       </td>
      </tr>
      <tr>
@@ -37,17 +42,17 @@
      </tr>
      <tr>
       <th>Worker ID</th>
-      <td>{{page.workerid}}</td>
+      <td>{% if page.status == "draft" %}Draft{% else %}{{page.workerid}}{% endif %}</td>
      </tr>
      <tr>
       <th>Discussions</th>
       <td>
        <ul>
-       {% for d in page.discussions %}
-       <li>
-        <a href="{{d.url}}">{{d.name}}</a>
-       </li>
-       {% endfor %}
+        {% for d in page.discussions %}
+        <li>
+         <a href="{{d.url}}">{{d.name}}</a>
+        </li>
+        {% endfor %}
        </ul>
       </td>
      </tr>
@@ -55,6 +60,7 @@
       <th>Accounting &amp; Reporting</th>
       <td><a href="https://workers.bitshares.foundation/{{page.bfid}}">workers.bitshares.foundation/{{page.bfid}}</a></td>
      </tr>
+{% endif %}
     </tbody>
    </table>
    <div>
