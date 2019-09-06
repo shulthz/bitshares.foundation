@@ -42,7 +42,7 @@
      </tr>
      <tr>
       <th>Worker ID</th>
-      <td>{% if page.status == "draft" %}Draft{% else %}{{page.workerid}}{% endif %}</td>
+         <td>{% if page.status == "draft" %}Draft{% else %}<a href="javascript: voteFor('{{page.workerid}}')">{{page.workerid}}</a> (click the id to vote with <a target="_blank" rel="noopener noreferrer" href="https://github.com/bitshares/beet">Beet</a> or go to <a target="_blank" rel="noopener noreferrer" href="https://wallet.bitshares.org/#/voting">reference UI</a>){% endif %}</td>
      </tr>
      <tr>
       <th>Discussions</th>
@@ -69,4 +69,14 @@
   </div>
  </div>
  {% include footer.html %}
+
+ <script type=text/javascript src="/static/js/beet-js.js"></script>
+
+ <script>
+     function voteFor(workerId) {
+         beet.get("BitShares Blockchain Foundation Voting", "BTS").then(function (app) {
+             app.BTS.voteFor({id: workerId});
+         });
+     }
+ </script>
 </body>
