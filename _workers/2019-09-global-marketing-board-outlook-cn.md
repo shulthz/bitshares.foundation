@@ -1,5 +1,5 @@
 ---
-language: en
+language: cn
 layout: worker
 bfid: "Addendum to Global Marketing Board"
 type: addendum
