@@ -5,7 +5,7 @@ type: budget
 category: Marketing
 bfid: 201909-global-marketing-board
 workerid: 1.14.XXX
-title: "Marketing: Global Marketing Board"
+title: "市场营销：全球市场营销委员会"
 name: Blockchain Projects BV
 company:
   name: Blockchain Projects BV
@@ -121,12 +121,11 @@ Marketing@bitshares.org 邮箱将会由营销委员会管理，任何对外交�
 
 我们编制了一份正在计划通过该worker进行的各种目的的工作清单。这不是一个强制性或完整的清单，这些工作都将通过这个worker中规定的流程申请预算补助。欢迎社区对这些工作提出任何问题或反馈，这些问题或反馈都将收集至营销存储库中。
 
-The list of efforts that that will seek to apply to the marketing board
-for funding is listed here:
+将向市场营销委员会申请资金的具体项目列表在此：
 
-   [List of marketing efforts in planning](/workers/2019-09-global-marketing-board-outlook-cn)
+    [规划中的市场营销项目列表](/workers/2019-09-global-marketing-board-outlook-cn)
 
-They are not immediately approved by approving to create a marketing budget with this worker.
+批准这份建立市场营销预算的工作提案，并不会自动批准这些具体的市场营销项目。
 
 # 不信任投票
 

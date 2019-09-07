@@ -8,9 +8,7 @@ reference: 2019-09-global-marketing-board-cn
 
 # 目前的计划
 
-This is a list of efforts that will be realized if the marketing board is approved and can establish
-a budget. All those efforts still need to apply to the marketing board and undergo the approval process
-that is laid out in the marketing board worker proposal.
+在市场营销委员会被批准、预算被允许之后，这里列出的是一些将会被考虑实现的市场营销项目。这些项目依然需要按照这份工作提案中要求的批准流程，完成向市场营销委员会的申请工作。
 
 ## 为营销计划定义目标组和问题
 
@@ -28,12 +26,10 @@ that is laid out in the marketing board worker proposal.
     - 组织社交媒体竞赛。
     - 推出宣传的处理方式和宣传竞赛。
 
-## BitShares Visibility Team
+## 比特股对外展现团队
 
- - Executor: As assigned for approved tasks in [https://github.com/bitshares/marketing/issues](https://github.com/bitshares/marketing/issues)
- - Description: Groom and handle issues incoming to the [marketing repository](https://github.com/bitshares/marketing/issues). This is already an on-going effort that
-   needs more support. One of the [bigger tasks](https://github.com/bitshares/marketing/issues/16) was lobbying and finalizing getting BitShares listing on https://nomics.com/.
-
+ - 执行人：在 [https://github.com/bitshares/marketing/issues](https://github.com/bitshares/marketing/issues) 中已被批准的任务的负责人
+ - 说明：梳理和处理 [市场 GitHub 营销仓库](https://github.com/bitshares/marketing/issues) 中新增的问题。这个项目此前已经在进行中，现需要更多支持。有一个 [比较大的任务](https://github.com/bitshares/marketing/issues/16) 是游说并最终实现比特股在 https://nomics.com/ 上被列出。
 
 ## 比特股中国行
 
