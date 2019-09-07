@@ -123,7 +123,7 @@ Marketing@bitshares.org 邮箱将会由营销委员会管理，任何对外交�
 
 将向市场营销委员会申请资金的具体项目列表在此：
 
-    [规划中的市场营销项目列表](/workers/2019-09-global-marketing-board-outlook-cn)
+   [规划中的市场营销项目列表](/workers/2019-09-global-marketing-board-outlook-cn)
 
 批准这份建立市场营销预算的工作提案，并不会自动批准这些具体的市场营销项目。
 
