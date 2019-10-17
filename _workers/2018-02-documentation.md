@@ -10,7 +10,7 @@ name: Blockchain Projects BV
 company:
  name: Blockchain Projects BV
  url: http://blockchainprojectsbv.com
-status: paying
+status: finished
 payments:
 discussions:
  - name: bitsharestalk
@@ -19,7 +19,7 @@ price: $80,000
 duration: 12 months
 start: 2018/02/15
 end: 2019/02/14
-redirect_from: 
+redirect_from:
  - /worker/budget/2018-02-documentation
 ---
 

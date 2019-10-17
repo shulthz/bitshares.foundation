@@ -10,7 +10,7 @@ name: BitShares Blockchain Foundation
 company:
  name: BitShares Blockchain Foundation
  url: http://bitshares.foundation
-status: pending
+status: finished
 payments:
 discussions:
  - name: bitsharestalk
@@ -19,7 +19,7 @@ price: $350,000
 duration: 6 months
 start: 2018/02/15
 end: 2018/07/30
-redirect_from: 
+redirect_from:
  - /worker/budget/2018-02-legal-council-bts
 ---
 
@@ -57,7 +57,7 @@ approved us to publish:
 > these should be achievable, depending on understanding better the facts
 > and circumstances applicable to BTS. We are doing similar work on
 > behalf of other cryptocurrencies.
-> 
+>
 > The amount of work involved to prepare a form of legal confirmation for
 > Bittrex will depend on what Bittrex tells you it needs. Law firms
 > routinely prepare formal "legal opinions" -- which are opinions
@@ -74,7 +74,7 @@ approved us to publish:
 > cryptocurrencies. To this end, it would be quite helpful if you could
 > forward whatever email or other correspondence you received from Bittrex
 > describing the form of legal confirmation it seeks.
-> 
+>
 > The process for seeking SEC no-action relief can take six or months to
 > achieve, and it's not certain you will be able to convince the SEC to
 > provide the relief requested. The approach we would take is to prepare
@@ -93,18 +93,18 @@ that:
 > of trades -- indicia of having a true market value that is independent
 > of the efforts of a group of employees or founders -- is not a security.
 > The fact that you never did an ICO for BTS is a very positive fact.
-> 
+>
 > Unfortunately, some of the statements in your white paper and on
 > websites describing BTS make the analysis more murky, or at least have
 > the potential to confuse the SEC. For instance, the BitShares 2.0
 > General Overview includes these statements in the description of the BTS
 > token:
-> 
+>
 > "In contrast to most crypto-currencies, BitShares does not claim to be a
 > currency but rather an equity in a decentral autonomous company (DAC).
 > As a result, the market valuation of BitShares is free floating and may
 > be as volatile as any other equity (e.g. of traditional companies)."
-> 
+>
 > This statement, comparing BTS to "equity", certainly will not help in
 > convincing the SEC or other securities regulators to view BTS as a
 > currency and not a security. Similarly, many of the websites I reviewed
@@ -162,7 +162,7 @@ characterizes our community in its essence.
 # Costs
 
 Has can be seen from the paragraph above, this worker proposal has a
-need for 
+need for
 
 * $75-100K for a legal opinion letter for BTS
 * $200K for a no-action process with the SEC

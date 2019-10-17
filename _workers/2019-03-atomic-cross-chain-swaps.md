@@ -14,13 +14,11 @@ company:
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=27845.0
-# - name: steemit
-#   url:
 price: $120,000 (in CNY)
 duration: 20 weeks
 start: 2019/04/01
 end: 2018/10/30
-paymentaccount:
+status: finished
 ---
 
 # JavaScript: Atomic Cross-Chain Swaps Framework

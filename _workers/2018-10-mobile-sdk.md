@@ -15,10 +15,9 @@ discussions:
    url: https://bitsharestalk.org/index.php?topic=27341.0
 price: up to 100,000 €/bitEUR
 duration: 12 months
-status: voting
+status: finished
 start: 2018/11/15
 end: 2019/12/31
-paymentaccount: blockchainbv
 ---
 
 # Intent
@@ -82,18 +81,18 @@ for the mobile framework code base.
 Provided that the code is at a stable state today, we are asking for a budget of **up to 100k€** to fund development
 resources **for 12 months**. The budget accounts for the following roles and management
 
-| Roles                          | Rate (bitEUR/h)  | 
-| ------------------------------ | ---------------: | 
-| Full-stack Developer           | €130.00          | 
-| Architecture                   | €80.00           | 
-| QA and Testing                 | €70.00           | 
-| HTML/CSS Developer             | €70.00           | 
-| Designer                       | €50.00           | 
+| Roles                          | Rate (bitEUR/h)  |
+| ------------------------------ | ---------------: |
+| Full-stack Developer           | €130.00          |
+| Architecture                   | €80.00           |
+| QA and Testing                 | €70.00           |
+| HTML/CSS Developer             | €70.00           |
+| Designer                       | €50.00           |
 
-| Purpose                        | Rate (bitEUR)    | 
-| ------------------------------ | ---------------: | 
-| Management Fee                 | €1500/mth        | 
-| Code review                    |  €500/mth        | 
+| Purpose                        | Rate (bitEUR)    |
+| ------------------------------ | ---------------: |
+| Management Fee                 | €1500/mth        |
+| Code review                    |  €500/mth        |
 | Escrow Fee (BBF)               | 5%/€5000 (total) |
 
 The character of this worker proposal is towards developing a framework for mobile development (an SDK).
