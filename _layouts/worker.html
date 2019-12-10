@@ -15,7 +15,7 @@
 {% if page.type == "addendum" %}
      <tr>
       <th>In reference to</th>
-      <td><a href="{{page.reference}}">{{page.reference}}</a></td>
+      <td><a href="/workers/{{page.reference}}">{{page.reference}}</a></td>
 {% else %}
      <tr>
          <th>Category</th>
@@ -58,7 +58,22 @@
      </tr>
      <tr>
       <th>Accounting &amp; Reporting</th>
-      <td><a href="https://workers.bitshares.foundation/{{page.bfid}}">workers.bitshares.foundation/{{page.bfid}}</a></td>
+      <td>
+          {% if page.reports %}
+          <ul>
+              <li>
+                  <a href="https://workers.bitshares.foundation/{{page.bfid}}">workers.bitshares.foundation/{{page.bfid}}</a>
+              </li>
+              {% for d in page.reports %}
+              <li>
+                  <a href="{{d.url}}">{{d.name}}</a>
+              </li>
+              {% endfor %}
+          </ul>
+          {% else %}
+          <a href="https://workers.bitshares.foundation/{{page.bfid}}">workers.bitshares.foundation/{{page.bfid}}</a>
+          {% endif %}
+      </td>
      </tr>
 {% endif %}
     </tbody>

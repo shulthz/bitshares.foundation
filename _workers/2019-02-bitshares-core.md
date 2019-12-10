@@ -21,38 +21,41 @@ duration: 47 weeks
 start: 2019/02/04
 end: 2019/12/29
 paymentaccount: bitsharesdev
+reports:
+ - name: Report 2019
+   url: "/reports/201902-bitshares-core/201912-report"
 ---
 
 Intent
 ======
 
 * Provide **sustainable protocol development** funding for the BitShares Core Team
-* Operate as a multidisciplinary **collaborative team** to benefit the BitShares decentralized autonomous community (DAC) 
+* Operate as a multidisciplinary **collaborative team** to benefit the BitShares decentralized autonomous community (DAC)
 * Engage the community, regulators and public as the **authoritative source** for protocol development and information
 
 Background
 ==========
 
-This budget proposal represents a follow on to the efforts established and executed by the 
-[BitShares Core Team in 2018](https://www.bitshares.foundation/workers/2018-03-bitshares-core). It 
-seeks to continue funding the development efforts related to the core protocol and expand its scope 
-within the DAC to deliver greater outreach throughout 2019. The Core Team is responsible to our DAC 
-to transparently deliver a secure protocol, collaborate on research, prioritize innovative features, 
+This budget proposal represents a follow on to the efforts established and executed by the
+[BitShares Core Team in 2018](https://www.bitshares.foundation/workers/2018-03-bitshares-core). It
+seeks to continue funding the development efforts related to the core protocol and expand its scope
+within the DAC to deliver greater outreach throughout 2019. The Core Team is responsible to our DAC
+to transparently deliver a secure protocol, collaborate on research, prioritize innovative features,
 and engage our Community and the public toward increased protocol adoption.
 
 Worker
 ======
 
-This is a _Budget Worker Proposal_ which funds the following effort areas through calendar year 
+This is a _Budget Worker Proposal_ which funds the following effort areas through calendar year
 2019:
 
 * BitShares Core Development
 * Collaboration Tools
 * Conference Participation and Community Engagement
 
-This Worker funds a **not to exceed** budget for ideation, collaboration, development and defense of 
-the ideas, engagements and implementations required to advance the BitShares Project. Individuals 
-supported by funds from the budget occupy a defined set of Core Team Roles at specific rate 
+This Worker funds a **not to exceed** budget for ideation, collaboration, development and defense of
+the ideas, engagements and implementations required to advance the BitShares Project. Individuals
+supported by funds from the budget occupy a defined set of Core Team Roles at specific rate
 valuations detailed in _Table 2._ below.
 
 BTS are collected into the `"workers.bitshares.foundation"` account which is a multi-sig account
@@ -64,29 +67,29 @@ Budget Worker Model [1] which provide:
 * Compensation remitted in a viable SmartCoin (i.e. bitCNY)
 * All accumulated and unallocated BTS returned to the Reserve Pool at the conclusion of the Worker
 
-As the team size scales or BTS token valuations fluctuate, subsequent Worker(s) will be offered to 
-fully fund the Intent. 
+As the team size scales or BTS token valuations fluctuate, subsequent Worker(s) will be offered to
+fully fund the Intent.
 
 Core Team Scope
 ===============
 
-The primary focus of the Core Team remains maintenance and development of the 
-[core protocol](https://github.com/bitshares.com/bitshares-core) and oversight of the 
-[BitShares Improvement Proposals](https://github.com/bitshares.com/bsips) (BSIP) process. The 
-Core Team will continue to liaise with the 
-[BitShares UI Team](https://github.com/bitshares.com/bitshares-ui), and other community lead efforts 
+The primary focus of the Core Team remains maintenance and development of the
+[core protocol](https://github.com/bitshares.com/bitshares-core) and oversight of the
+[BitShares Improvement Proposals](https://github.com/bitshares.com/bsips) (BSIP) process. The
+Core Team will continue to liaise with the
+[BitShares UI Team](https://github.com/bitshares.com/bitshares-ui), and other community lead efforts
 maintained within the [BitShares Organization](https://github.com/bitshares) on GitHub. The Core Team
-continues to guide Community Contributors toward promotion into open Core Team Roles through the 
-Community Claims program detailed below. 
+continues to guide Community Contributors toward promotion into open Core Team Roles through the
+Community Claims program detailed below.
 
-Collaboration tools will continue to include software tools and server infrastructure to support 
-development and testing efforts. The [bitshares-core](https://github.com/bitshares/bitshares-core) 
+Collaboration tools will continue to include software tools and server infrastructure to support
+development and testing efforts. The [bitshares-core](https://github.com/bitshares/bitshares-core)
 GitHub repository remains the primary source for our planning, discussion and deliveries. The Core
-Team participates with the UI Team and BitShares Committee to manage access within the 
+Team participates with the UI Team and BitShares Committee to manage access within the
 [BitShares Organization on GitHub](https://github.com/bitshares).
 
 Attendance and speaking engagements at relevant international conferences, hackathons and events
-remain an important component of the Core Team's dedication to community outreach. We gather for 
+remain an important component of the Core Team's dedication to community outreach. We gather for
 in-person meetings prior to each conference and hold remote planning meetings throughout the year.
 
 Expanded Core Team scope for 2019 will include:
@@ -98,17 +101,17 @@ Expanded Core Team scope for 2019 will include:
 BitShares Core Team Members, Roles and Budgeted Effort
 ======================================================
 
-The Core Team is comprised of an established group of community members who have demonstrated 
-their ability to collaborate as a decentralized team, recruit contributions from community members 
+The Core Team is comprised of an established group of community members who have demonstrated
+their ability to collaborate as a decentralized team, recruit contributions from community members
 and business teams building on the protocol, and advance the pace of innovation throughout 2018. Each
-team member is focused on returning more value to the BitShares DAC than is drawn from the reserve 
+team member is focused on returning more value to the BitShares DAC than is drawn from the reserve
 pool.
 
-This Worker proposes to **budget $26,750 weekly** for funding development efforts of the Core Team 
-and Community Claims. Approximately $21,450 are consumed by the established Core Team members, 
-leaving $5,300 available for Community Claims or 20% Core Team growth. Demonstrated results of these 
-efforts may warrant drafting subsequent Proposals to fund growth beyond this budget. Weekly quality 
-effort hours estimations are represented in _Table 1_ below. 
+This Worker proposes to **budget $26,750 weekly** for funding development efforts of the Core Team
+and Community Claims. Approximately $21,450 are consumed by the established Core Team members,
+leaving $5,300 available for Community Claims or 20% Core Team growth. Demonstrated results of these
+efforts may warrant drafting subsequent Proposals to fund growth beyond this budget. Weekly quality
+effort hours estimations are represented in _Table 1_ below.
 
 **Table 1. BitShares Core Team Quality Effort Budget (Weekly)**
 
@@ -147,18 +150,18 @@ BitShares Core Team
 The BitShares Core Team is a self-organizing agile-principled team focused on delivering regularly
 scheduled releases and ad hoc bug fixes for the BitShares Core software. The actual number of
 contributors and roles **may vary** within each development cycle (described below), leading to
-variations in weekly compensation per contributor. The Core Team has discretion in allocating 
-resources to meet the needs of each development cycle. 
+variations in weekly compensation per contributor. The Core Team has discretion in allocating
+resources to meet the needs of each development cycle.
 
 Producing reliable and secure software at scale requires ideation, organization, definition,
 prioritization, development, testing and documentation. The ideal team composition includes roles
 specializing in each of these functions and capable of contributing to many. The goal of a highly
 functioning team is to fully utilize each individual's effort and together maximize their
-collective output. 
+collective output.
 
-The Core Team records only "quality effort hours" for the role they are tracking time against. 
+The Core Team records only "quality effort hours" for the role they are tracking time against.
 Self-reporting is used, tracked within collaboration tools and peer-checked by Team Members to ensure
-the effort matches expected quality for the period. 
+the effort matches expected quality for the period.
 
 Development Cycles*
 ===================
@@ -185,9 +188,9 @@ Many features have dependencies and cannot be implemented within a single sprint
 team will create tasks, a subset of the feature, that can be delivered on time. A task may be
 researching and defining requirements to be implemented later. A task may be writing a test case,
 or perhaps implementing only a subset of a given requirement, or even documenting how existing code
-functions. The team will maintain a sprint backlog comprised of the tasks selected from the project 
-backlog. Completing each of these tasks results in incremental value added to the project. Testing 
-is performed throughout the sprint to ensure functioning code from each increment. 
+functions. The team will maintain a sprint backlog comprised of the tasks selected from the project
+backlog. Completing each of these tasks results in incremental value added to the project. Testing
+is performed throughout the sprint to ensure functioning code from each increment.
 
 As the sprint nears completion, the Core Team will begin release planning. They will select which
 tested increments are ready to be included in a release candidate. This will be deployed to a
@@ -200,28 +203,28 @@ reflect on our original estimates, the delivered increments and what contributed
 and shortcomings. We will use insights gained from the retrospective to improve in the next sprint.
 The following day we immediately begin our next sprint cycle.
 
-Community Claims 
+Community Claims
 ================
 
-The BitShares Core Team maintain a prioritized 
-[Project Backlog](https://github.com/bitshares/bitshares-core/projects/6:) of ideas, enhancements, 
-bugs and BSIPs which they select from for their development sprint. The community is encouraged to 
-comment on the items to aid in refining requirements and guide prioritization. Effort estimates are 
+The BitShares Core Team maintain a prioritized
+[Project Backlog](https://github.com/bitshares/bitshares-core/projects/6:) of ideas, enhancements,
+bugs and BSIPs which they select from for their development sprint. The community is encouraged to
+comment on the items to aid in refining requirements and guide prioritization. Effort estimates are
 first assigned to the highest value backlog items. Unassigned **and estimated** project backlog items
-are available for ad hoc _bounty_ development. Claiming and successfully completing backlog items is 
+are available for ad hoc _bounty_ development. Claiming and successfully completing backlog items is
 a primary consideration for an invitation to join the Core Team on a future sprint.
 
 The Core Team encourages ad hoc code contributions of estimated project backlog items from any
 community member and will compensate successfully merged code based on estimates approved by Core
-Developers. The Coordinator will facilitate onboarding new community contributors to _claim_ a 
-backlog item and implement a solution that fits within architecture design defined by the Core Team. 
-Care must be taken to ensure effort is not duplicated and can easily be merged within a future 
+Developers. The Coordinator will facilitate onboarding new community contributors to _claim_ a
+backlog item and implement a solution that fits within architecture design defined by the Core Team.
+Care must be taken to ensure effort is not duplicated and can easily be merged within a future
 sprint. Claimed items that become a dependency of a sprint may be recalled by the Core Team to
-facilitate feature delivery. Compensation for a partially completed increment will be evaluated by 
+facilitate feature delivery. Compensation for a partially completed increment will be evaluated by
 the Q/A Lead and Coordinator.
 
-Funding for Community Claims comes from unallocated budget within the _Core Team Effort Budget_ 
-resulting from open Roles on the Core Team as detailed in _Table 1_. 
+Funding for Community Claims comes from unallocated budget within the _Core Team Effort Budget_
+resulting from open Roles on the Core Team as detailed in _Table 1_.
 
 BitShares Core Team Framework:
 ==============================
@@ -243,23 +246,23 @@ Delivery
 BitShares Core Team Member 'Contract Work' Guidance:
 ====================================================
 
-This section is to be considered guidance, not a legal statement. The BitShares Decentralized 
-Autonomous Community (BitShares DAC) controls the funds collected by this Budget Worker and are 
+This section is to be considered guidance, not a legal statement. The BitShares Decentralized
+Autonomous Community (BitShares DAC) controls the funds collected by this Budget Worker and are
 issued as compensation to individuals performing agreed work as described elsewhere in this document.
 Effort contributed by individuals is considered by personal commitment as no formal employment
-contract is intended or able to be formed between BitShares DAC and the individual worker. Neither 
+contract is intended or able to be formed between BitShares DAC and the individual worker. Neither
 the BitShares Blockchain Foundation (BBF) nor the BitShares Committee or any individual serving those
-entities are to be considered employers of any agreed contribution. No BitShares Core Team Member or 
-Role is considered the manager or the employer of any individual person. Any compensation received 
-from the BitShares DAC might be considered earned income for individual persons involved in their 
+entities are to be considered employers of any agreed contribution. No BitShares Core Team Member or
+Role is considered the manager or the employer of any individual person. Any compensation received
+from the BitShares DAC might be considered earned income for individual persons involved in their
 individual situation and may be subject to tax reporting by the recipient. Neither BitShares DAC, nor
 the BitShares Blockchain Foundation, nor BitShares Committee, nor the Coordinator, or any Core Team
 Member will neither carry responsibility, nor command, nor issue, nor prepare any document, including
-tax documents, to any entity or natural person. All effort performed is a contribution to the 
+tax documents, to any entity or natural person. All effort performed is a contribution to the
 BitShares DAC adhering to its MIT license.
 
-Each Core Team Member is encouraged to contribute in a responsible way with respect to a work/life 
-balance and legal employee engagements he or she might have entered into, or enter, with an employer. 
+Each Core Team Member is encouraged to contribute in a responsible way with respect to a work/life
+balance and legal employee engagements he or she might have entered into, or enter, with an employer.
 
 **Table 2. Core Team Roles and Rates**
 
@@ -351,13 +354,13 @@ Coordinator
 ===========
 The Coordinator is an experienced agile project manager or scrum master with deep knowledge of
 distributed ledger technology. Primarily, the Coordinator is tasked with general facilitation,
-organization and prioritization of development efforts. Secondarily, the Coordinator iterfaces with 
+organization and prioritization of development efforts. Secondarily, the Coordinator iterfaces with
 the BitShares Community, Committee, BBF and other elected representatives as the liaison and public
 spokesperson for protocol development efforts. The Coordinator works closely with the Assistance
 Coordinator(s) to acquire and disseminate information throughout the Community.
 
 Coordinator Key Performance Indicators
-* Maintain transparent communications with: 
+* Maintain transparent communications with:
   * BitShares Community, Committee, BBF and the public
   * Elected BitShares Spokesperson, BitShares Legal Representative and other elected representatives
   * BitShares UI Project Manager and other BitShares project leads with the GitHub Organization
@@ -377,18 +380,18 @@ Coordinator Assistant
 =====================
 
 This role acts as an assistant to the Coordinator, helping the Coordinator to better communicate with
-the Chinese community. The assistant will collect ideas and comments from Chinese forums, events and 
-platforms and report these to the Coordinator for reference on a regular basis. The assistant will 
+the Chinese community. The assistant will collect ideas and comments from Chinese forums, events and
+platforms and report these to the Coordinator for reference on a regular basis. The assistant will
 also help the Coordinator and the Core Team to better present the roadmap and development progress to
-the Chinese community. The Assistant should be bilingual, familiar with agile software development 
+the Chinese community. The Assistant should be bilingual, familiar with agile software development
 process and able to collaborate with a geo-distributed software development team seamlessly.
 
 Coordinator Assistant Key Performance Indicators
 - Assist the Coordinator to communicate with BitShares Community, especially Chinese community.
 - Assist the Coordinator to communicate with Chinese Spokesperson and other Chinese teams.
-- Collect ideas and comments from Chinese community and assist the Coordinator to convert them to 
+- Collect ideas and comments from Chinese community and assist the Coordinator to convert them to
 issues/feature requests.
-- Assist the Coordinator to maintain an up-to-date Chinese version of roadmap and present Chinese 
+- Assist the Coordinator to maintain an up-to-date Chinese version of roadmap and present Chinese
 version of development progress reports regularly.
 - Assist the Coordinator to prioritize backlog based on community and market needs
 - Help with Chinese/English translations.
@@ -404,7 +407,7 @@ I have contributed to the BitShares code base for many years [4].
 Alfredo Garcia - Core Developer
 ===============================
 
-Started Bitshares contributions into the core more than 2 years ago, initially funded by my own worker proposal[5]. Activity was always maintenance, development, testing, discussion and review around the bitshares-core source code[6]. I also provide support to the community and build utility tools to increase the adoption of Bitshares technology[7]. In the second half of 2018 i joined the core team and had been working there since then. 
+Started Bitshares contributions into the core more than 2 years ago, initially funded by my own worker proposal[5]. Activity was always maintenance, development, testing, discussion and review around the bitshares-core source code[6]. I also provide support to the community and build utility tools to increase the adoption of Bitshares technology[7]. In the second half of 2018 i joined the core team and had been working there since then.
 
 Peter Conrad - Core Developer
 =============================
@@ -416,7 +419,7 @@ John Jones - Core Developer
 ============================
 
 I have been a professional software developer since 1991, and a "hacker" before then. Most of my work
-experience has been in finance/investments/insurance. I have been contributing to the BitShares 
+experience has been in finance/investments/insurance. I have been contributing to the BitShares
 codebase since the beginning of 2018. [10-12].
 
 Ryan R. Fox - Coordinator, Business Analyst, QA/Tester
@@ -430,26 +433,26 @@ manufacturing.
 Dr. Christopher J. Sanborn, PhD - Junior Developer
 ==================================================
 
-I have more than a decade of experience in scientific computing and developing software for physical 
-simulations, and more than two decades in software development generally [17].  I have been passionate 
-about crypto since 2013, and have been contributing to the BitShares ecosystem since 2017.  I have a 
+I have more than a decade of experience in scientific computing and developing software for physical
+simulations, and more than two decades in software development generally [17].  I have been passionate
+about crypto since 2013, and have been contributing to the BitShares ecosystem since 2017.  I have a
 particular interest in improving privacy preservation within blockchain technologies.
 
 Michel Santos - Senior Business Analyst
 =======================================
 
-Trained as an aerospace engineer with extensive experience in modeling and simulating the dynamics 
-and control of different types of vehicles.  Background in analyzing business processes and finding 
-ways to improve them.  Has assisted firms with identifying how to use blockchain technologies as one 
+Trained as an aerospace engineer with extensive experience in modeling and simulating the dynamics
+and control of different types of vehicles.  Background in analyzing business processes and finding
+ways to improve them.  Has assisted firms with identifying how to use blockchain technologies as one
 option in their toolchest [18].
 
 沈瞳 Tong Shen - Coordinator Assistant
 =================================
 
-I have over 10 years of experience in development of web apps, mobile apps, API servers, data 
-processing apps, smart contracts, and have served various roles as SDE, Project Manager, Product 
-Manager, IT Consultant, Agile Coach and CTO [19-21]. As Cofounder & CTO of Spark Blockchain and 
-Liaoyuan, I've built a strong connection with the blockchain and startup ecosystem through our 
+I have over 10 years of experience in development of web apps, mobile apps, API servers, data
+processing apps, smart contracts, and have served various roles as SDE, Project Manager, Product
+Manager, IT Consultant, Agile Coach and CTO [19-21]. As Cofounder & CTO of Spark Blockchain and
+Liaoyuan, I've built a strong connection with the blockchain and startup ecosystem through our
 blockchain & startup summits and meetups in United States and China [22].
 
 杉本 T. Sugimoto - Documentation Specialist, QA/Tester
@@ -464,11 +467,11 @@ web applications and websites.
 田蒙蒙 Linda Tian - Coordinator Assistant
 =================================
 
-I was fully engaged in the planning and organization of China Graphene Blockchain DevCon in January 
-and Global Graphene Blockchain DevCon in May, 2018 [24]. I have organized a series of activities like 
-translation, meetups, live events about BitShares. Now I work as Secretary General of Graphene 
-Blockchain Application Center(GBAC) [25], and regularly communicate with Graphene projects including 
-BitShares community in China. In short, I have extensive professional background in community 
+I was fully engaged in the planning and organization of China Graphene Blockchain DevCon in January
+and Global Graphene Blockchain DevCon in May, 2018 [24]. I have organized a series of activities like
+translation, meetups, live events about BitShares. Now I work as Secretary General of Graphene
+Blockchain Application Center(GBAC) [25], and regularly communicate with Graphene projects including
+BitShares community in China. In short, I have extensive professional background in community
 operation [26].
 
 Collaboration Tools
@@ -479,7 +482,7 @@ aid development efforts. Transparency of development efforts to the community is
 Tools selected by the team generally provide read/reviewer access for the community to observe
 progress, track our time and provide feedback. Write/contributor access may be limited to a
 specific Core Team role(s). License quantities and types will vary monthly, therefore $3,000 is
-budgeted for tools. A non-exhaustive list is provided in _Table 3_ below. 
+budgeted for tools. A non-exhaustive list is provided in _Table 3_ below.
 
 **Table 3. Collaboration Tools (Monthly)**
 
@@ -497,9 +500,9 @@ budgeted for tools. A non-exhaustive list is provided in _Table 3_ below.
 | **TOTAL TOOLS BUDGET (MONTHLY)** |   **$5,000** |
 
 Select Core Team members will meet prior to each of the scheduled DevCon events for team building, in
-person collaboration and presentation preparation. The Core Team participate in conference sessions 
-toward a better understanding of the BitShares Core functionality. A smaller group of Core Team 
-members will likely attend a yet-to-be-organized Hackathon to lend their support. A not-to-exceed 
+person collaboration and presentation preparation. The Core Team participate in conference sessions
+toward a better understanding of the BitShares Core functionality. A smaller group of Core Team
+members will likely attend a yet-to-be-organized Hackathon to lend their support. A not-to-exceed
 budget for Conference participation is provided in _Table 4_ below.
 
 **Table 4. Conference Budget (One-Time)**
@@ -526,8 +529,8 @@ budget for Conference participation is provided in _Table 4_ below.
 Development Initiatives
 =======================
 
-The Team has identified in _Chart 1_ a set of Initiatives to research, define and develop as part of 
-their 2019 Roadmap. 
+The Team has identified in _Chart 1_ a set of Initiatives to research, define and develop as part of
+their 2019 Roadmap.
 
 **Caveat**: The Core Team cannot commit to deliver fully implemented solutions for all identified
 Initiatives. The intent here is to provide guidance at the outset, realizing the Core Team
@@ -565,14 +568,14 @@ continuously evaluates and prioritizes new development tasks ongoing.
 
 **Chart 1. Initiatives - 2019**
 
-![TODO: BitShares Core Initiatives - 2019](https://i.ibb.co/hyCr16q/initiatives-2019.png "BitShares Core Initiatives - 2019")
+![BitShares Core Initiatives - 2019](/reports/201902-bitshares-core/2019_Roadmap_estimated.png)
 
 Development Spokesperson(s)
 ===========================
 
 Collectively the Core Team represent the BitShares Project thru their code and documentation efforts.
-For public speaking engagements and legal representation purposes the Core Team may designate a 
-Member(s) to speak as the authoritative source for BitShares protocol development efforts. 
+For public speaking engagements and legal representation purposes the Core Team may designate a
+Member(s) to speak as the authoritative source for BitShares protocol development efforts.
 Notification will be posted thru the BBF of the current Development Spokeperson(s).
 
 Worker Budget
@@ -611,20 +614,20 @@ Blockchain Foundation for release of funds from escrow to contributor's account
 Foundation for direct payment to vendor
 
 **Devaluation Multiplier:**
-This Worker introduces a _devaluation multiplier_ to mitigate the impacts of a depreciating BTS token 
-during the active period. We propose to protect against prolonged BTS devaluation of approximately 
+This Worker introduces a _devaluation multiplier_ to mitigate the impacts of a depreciating BTS token
+during the active period. We propose to protect against prolonged BTS devaluation of approximately
 one-third (-33%) by using a 1.50 _devaluation multiplier_. Initially, BTS will be accumulated at rate
-150% of the required daily budget. The BBF will use the accumulated BTS to purchase bitCNY from the 
-market, up to the _Core Team Budget_ detailed above in _Table 8_. 
+150% of the required daily budget. The BBF will use the accumulated BTS to purchase bitCNY from the
+market, up to the _Core Team Budget_ detailed above in _Table 8_.
 
 **Calculations (as of 27 JAN 2019):**
 * 6.75 = USD/CNY foreign exchange rate
-* 3.93824 = bitCNY/BTS price feed 
+* 3.93824 = bitCNY/BTS price feed
 * 1.50 = Devaluation multiplier to mitigate market fluctuations
-* **168,032 BTS/day** ≈ $4,214 USD/day * 6.75 USD/CNY * 3.93824 bitCNY/BTS * 1.50 devaluation multiplier 
+* **168,032 BTS/day** ≈ $4,214 USD/day * 6.75 USD/CNY * 3.93824 bitCNY/BTS * 1.50 devaluation multiplier
 
 **Payments:**
-All payments are converted from USD and remitted in bitCNY with method developed by the BitShares 
+All payments are converted from USD and remitted in bitCNY with method developed by the BitShares
 Blockchain Foundation [1].
 
 References
