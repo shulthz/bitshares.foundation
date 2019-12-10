@@ -21,9 +21,9 @@ duration: 47 weeks
 start: 2019/02/04
 end: 2019/12/29
 paymentaccount: bitsharesdev
-reports:
- - name: Report 2019
-   url: "/reports/201902-bitshares-core/201912-report"
+#reports:
+# - name: Report 2019
+#   url: "/reports/201902-bitshares-core/201912-report"
 ---
 
 Intent
