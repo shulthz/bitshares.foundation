@@ -77,11 +77,12 @@ Our mission is to
 
 ## Fee
 
-Everyone's time is valuable. As such, we are asking for funding though the BitShares Blockchain Reserves and seek a fixed fee of 50,000 bitEUR for the next 12 months,
+Everyone's time is valuable. As such, we are asking for funding though the BitShares Blockchain Reserves and seek a fixed fee of 50,000 EUR for the next 12 months,
 payable from January 1st 2020 until December 31st 2020. Invoices will be provided publicly through the [accounting website](https://workers.bitshares.foundation/).
 The fee only covers the hours spent by the entire team to subjects related only to this mandate. Travel expenses or fees of 3rd parties (i.e. lawyers, notaries, etc)
-are not included, and need to be funded separately. The payment of this fee will happen preferably in bitEUR, but may also happen in any alternative and suitable BitAsset,
-BTS directly or in BTC. The values indicated are meant in FIAT value, and will be paid in equivalent value of the chosen cryptocurrency.
+are not included, and need to be funded separately. The payment of this fee will happen preferably in bitEUR, but may also happen in any alternative BitAsset,
+BTS directly, or in BTC depending on market conditions. The value indicated here and on later invoices represent FIAT values, and will be paid in equivalent value
+of the chosen cryptocurrency.
 
 What to expect from us
 
@@ -89,7 +90,7 @@ What to expect from us
 -   Engaging in external communication with authorities, market parties and legal counsel on behalf of the BitShares Community.
 -   Public announcements and press releases on legal in BitShares Blockchain.
 
-## Team:
+## Team
 
 Our team is based throughout Europe and Nevis, the legal setting and involved entities can be found on the website
 
