@@ -28,8 +28,7 @@ This seemed reasonable at that time, it is not reasonable now. Even the passive 
 
 Among the tasks of the legal representative is to deal with listing agreements, defend against delisting from existing exchanges (e.g. Binance and Bittrex!)
 and other parties requesting the legal opinion letter or legal questions on BitAssets for all kinds of purposes.
-We seek to extend our position as legal representative in case the community wants us to do so. If that is not the case, we are also happy to help any
-subsequent representative to take over obligations and responsibilities as friction-less as possible.
+We seek to extend our position as legal representative in case the community wants us to do so.
 
 All existing legal agreements must be considered void if the BitShares Blockchain Foundation is no longer the legal representative for the BitShares Blockchain, with all consequences that come with it.
 
