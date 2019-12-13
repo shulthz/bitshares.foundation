@@ -5,7 +5,7 @@ type: escrow
 category: Legal
 bfid: 202001-spokesperson-and-legal-representative
 workerid: draft
-title: BitShares Spokesperson and Legal Representative
+title: Global voted BitShares Spokesperson and Legal Representative
 name: BitShares Blockchain Foundation
 company:
   name: BitShares Blockchain Foundation
@@ -21,7 +21,7 @@ start: 2020/01/01
 end: 2020/12/31
 ---
 
-## Spokesperson and BitShares Legal Representative
+## Global voted Spokesperson and BitShares Legal Representative
 
 The worker "Publicly Approved BitShares Representative" (https://www.bitshares.foundation/workers/2019-01-legal-representative) will be running out
 end of this year. This proposal seeks to renew this mandate, and to introduce business to business development through the role of being a spokesperson
