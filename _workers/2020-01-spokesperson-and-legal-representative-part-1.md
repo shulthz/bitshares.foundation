@@ -5,7 +5,7 @@ type: escrow
 category: Legal
 bfid: 202001-spokesperson-and-legal-representative-part-1
 workerid: draft
-title: Legal Representative
+title: Global voted Legal Representative
 name: BitShares Blockchain Foundation
 company:
   name: BitShares Blockchain Foundation
