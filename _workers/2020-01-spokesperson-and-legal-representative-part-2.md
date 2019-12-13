@@ -5,7 +5,7 @@ type: escrow
 category: Legal
 bfid: 202001-spokesperson-and-legal-representative-part-2
 workerid: draft
-title: Spokesperson / Business to Business Development
+title: Global voted Spokesperson / Business to Business Development
 name: BitShares Blockchain Foundation
 company:
   name: BitShares Blockchain Foundation
