@@ -6,9 +6,9 @@ category: Legal
 bfid: 202001-spokesperson-and-legal-representative-part-2
 workerid: draft
 title: Global voted Spokesperson / Business to Business Development
-name: BitShares Blockchain Foundation
+name: The BitShares Blockchain Foundation
 company:
-  name: BitShares Blockchain Foundation
+  name: The BitShares Blockchain Foundation
   url: http://bitshares.foundation
 status: draft
 discussions:
@@ -47,12 +47,12 @@ as a platform. This is not meant as an exclusive point of contact.
 
 # Proposal
 
-We here propose to appoint the BitShares Blockchain Foundation, a
+We here propose to appoint The BitShares Blockchain Foundation, a
 legally based, Chamber of Commerce registered entity under Dutch Law, to
 re-engage in external communication as a **spokesperson** for BitShares,
-to coordinate and distribute work and to act as business representative..
+to coordinate and distribute work and to act as business representative.
 
-With the support of the BitShares holders, we suggest this becomes again one
+With the support of the BitShares holders, we suggest this becomes again a
 **public face of BitShares**.
 
 As long as this worker is approved, we feel obligated to represent
@@ -93,5 +93,4 @@ Our team is based throughout Europe and Nevis, the legal setting and involved en
 #### Individuals involved are:
 
 - **Annemieke Dirkes**, CEO and founder Blockchain BV, Blockchain Projects BV, Blockchain Development UG. In IT since 1987, in managerial roles since 1990. Expertise in general and business development with a strong focus on compliance and legal.
-- **Danique Sterenborg, Msc.**, Danique is Project Manager at Blockchain Projects BV and holds a cum laude Master’s degree in Business Administration. She will be involved in planning and coordinating.
 - **Dr.-Ing. Fabian Schuh**, CEO and founder of ChainSquad GmbH and Blockchain Development UG, also known as xeroc. Will be assisting in all matters historical and technical to further the process of creating a clear and transparent picture of the BitShares Blockchain.
