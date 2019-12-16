@@ -6,9 +6,9 @@ category: Legal
 bfid: 202001-spokesperson-and-legal-representative
 workerid: draft
 title: Global voted BitShares Spokesperson and Legal Representative
-name: BitShares Blockchain Foundation
+name: The BitShares Blockchain Foundation
 company:
-  name: BitShares Blockchain Foundation
+  name: The BitShares Blockchain Foundation
   url: http://bitshares.foundation
 status: draft
 discussions:
