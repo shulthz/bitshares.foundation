@@ -6,9 +6,9 @@ category: Legal
 bfid: 202001-spokesperson-and-legal-representative-part-1
 workerid: draft
 title: Global voted Legal Representative
-name: BitShares Blockchain Foundation
+name: The BitShares Blockchain Foundation
 company:
-  name: BitShares Blockchain Foundation
+  name: The BitShares Blockchain Foundation
   url: http://bitshares.foundation
 status: draft
 discussions:
@@ -26,7 +26,7 @@ end: 2020/12/31
 In 2019 the community was offered two choices for the legal representative work: merely a mandate for passive representation, or paid per month to allow proactive actions as well.
 This seemed reasonable at that time, it is not reasonable now. Even the passive roles needed a lot of time and effort. Thus, this worker asks for a monthly fee.
 
-Among the tasks of the legal representative is to deal with listing agreements, defend against delisting from existing exchanges (e.g. Binance and Bittrex!)
+Among the tasks of the legal representative is to deal with listing agreements, defend against delisting from existing exchanges (e.g. Binance, Huobi, and Bittrex!)
 and other parties requesting the legal opinion letter or legal questions on BitAssets for all kinds of purposes.
 We seek to extend our position as legal representative in case the community wants us to do so.
 
@@ -95,5 +95,4 @@ Our team is based throughout Europe and Nevis, the legal setting and involved en
 #### Individuals involved are:
 
 - **Annemieke Dirkes**, CEO and founder Blockchain BV, Blockchain Projects BV, Blockchain Development UG. In IT since 1987, in managerial roles since 1990. Expertise in general and business development with a strong focus on compliance and legal.
-- **Danique Sterenborg, Msc.**, Danique is Project Manager at Blockchain Projects BV and holds a cum laude Master’s degree in Business Administration. She will be involved in planning and coordinating.
 - **Dr.-Ing. Fabian Schuh**, CEO and founder of ChainSquad GmbH and Blockchain Development UG, also known as xeroc. Will be assisting in all matters historical and technical to further the process of creating a clear and transparent picture of the BitShares Blockchain.
