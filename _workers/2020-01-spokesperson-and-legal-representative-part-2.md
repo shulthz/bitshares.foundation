@@ -90,7 +90,7 @@ and will be paid in equivalent value of the chosen crypto-currency.
 
 # Team
 
-Our team is based throughout Europe and Nevis, the legal setting and involved entities can be found on the website
+The legal setting and involved entities can be found on the website
 
     https://www.bitshares.foundation/imprint
 
