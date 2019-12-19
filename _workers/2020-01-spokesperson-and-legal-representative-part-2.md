@@ -62,8 +62,8 @@ holders keep their freedom to terminate this proposal at any time.
 
 # Remark
 
-*There may be several spokesperson for the BitShares Blockchain, this is in contract to
-the legal representative, which must be the sole one.
+*There may be several spokesperson for the BitShares Blockchain, this is in contrast to
+the legal representative, which has to be the sole one.
 
 # Mission
 
