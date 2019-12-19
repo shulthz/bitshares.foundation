@@ -63,8 +63,8 @@ It is essential that the BBF will continue to have the legal mandate, otherwise 
 
 In short, this worker proposal comes with two options:
 
-- **No approval**: The BBF will not obtain the extension of its mandate and will have to withdraw from all existing legal agreements (e.g. with Huobi, Bittrex, Binance, etc.)
-- **Approval given, and monthly fee is covered**: The mandate is granted and funded as long as the monthly fee can be paid
+- **No approval**: The BBF will not obtain the extension of its mandate and will have to withdraw from all existing legal agreements
+- **Approval given, worker active**: The mandate is granted and considered funded as long as the monthly fee can be paid
 
 Furthermore, authorities and businesses require a point of contact with legal mandate. Otherwise, the community may face
 (uninformed) decisions made by third parties due to lack of communication with a community representative with legal mandate.
