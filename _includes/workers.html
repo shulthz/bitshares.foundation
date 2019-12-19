@@ -8,6 +8,7 @@
 {%- assign _workers_matching = site.workers | where_exp: 'item', 'item.language == page.language' -%}
 {%- assign _workers_without = site.workers | where_exp: 'item', 'item.language == nil' -%}
 {%- assign _workers = _workers_matching | concat: _workers_without -%}
+{%- assign _workers = _workers | where_exp: 'item', 'item.hidden_in_table != true' -%}
 
 <div id="Workers" class="tabcontent" style="display: block;">
     {%- assign _escrow = _workers | where: 'type', 'escrow' | where_exp: 'item', 'item.status != "draft"' | where_exp: 'item', 'item.status != "finished"' -%}
