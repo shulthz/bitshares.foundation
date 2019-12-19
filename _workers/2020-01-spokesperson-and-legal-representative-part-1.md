@@ -92,7 +92,7 @@ Our mission is to
 
 # Fee
 
-Everyone's time is valuable. As such, we are asking for funding though the BitShares Blockchain Reserves and seek a fixed fee of ? EUR for the next 12 months,
+Everyone's time is valuable. As such, we are asking for funding though the BitShares Blockchain Reserves and seek a fixed monthly fee of 2000 EUR for the next 12 months,
 payable from January 1st 2020 until December 31st 2020. Invoices will be provided publicly through the [accounting website](https://workers.bitshares.foundation/).
 The fee only covers the hours spent by the entire team to subjects related only to this mandate. Travel expenses or fees of 3rd parties (i.e. lawyers, notaries, etc)
 are not included, and need to be funded separately. The payment of this fee will happen preferably in bitEUR, but may also happen in any alternative BitAsset,
