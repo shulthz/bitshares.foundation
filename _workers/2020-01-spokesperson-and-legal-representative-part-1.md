@@ -11,9 +11,10 @@ company:
   name: The BitShares Blockchain Foundation
   url: http://bitshares.foundation
 status: draft
+hidden_in_table: true
 discussions:
  - name: bitsharestalk
-   url:
+   url: https://bitsharestalk.org/index.php?topic=25143.0
 paymentaccount: bitshares.foundation
 price: 24.000 EUR
 duration: 12 months
@@ -38,24 +39,24 @@ The strength of BitShares Blockchain is its technical superiority and distribute
 
 # Proposal
 
-We here propose to appoint the BitShares Blockchain Foundation (BBF), to engage in external communication as the 
-only legal representative with authorities, market parties and legal counsel. 
-With the mandate as the Legal Representative, the BBF will be the single point of contact for legal (authority) matters, 
-as well as (temporary) contractual obligations to fulfil other worker proposals. We seek to extend our position as 
-legal representative in case the community wants us to do so. The BBF will 
+We here propose to appoint the BitShares Blockchain Foundation (BBF), to engage in external communication as the
+only legal representative with authorities, market parties and legal counsel.
+With the mandate as the Legal Representative, the BBF will be the single point of contact for legal (authority) matters,
+as well as (temporary) contractual obligations to fulfil other worker proposals. We seek to extend our position as
+legal representative in case the community wants us to do so. The BBF will
 coordinate and distribute legal work
-and act as legal representative on behalf of the BTS token holders. If needed, the BBF may sign on behalf of the 
-Community taking advice from approved members of the BitShares Committee. 
+and act as legal representative on behalf of the BTS token holders. If needed, the BBF may sign on behalf of the
+Community taking advice from approved members of the BitShares Committee.
 
-Among the tasks are dealing with listing agreements, defend against delisting from existing exchanges and other parties 
-requesting the legal opinion letter or legal questions on BitAssets for all kinds of purposes (e.g. Huobi, LATOKEN, Lykke, 
-Binance and Bittrex), or also among the tasks is acting as a legal entity for licensing (e.g. licensing for Apple Connect for 
+Among the tasks are dealing with listing agreements, defend against delisting from existing exchanges and other parties
+requesting the legal opinion letter or legal questions on BitAssets for all kinds of purposes (e.g. Huobi, LATOKEN, Lykke,
+Binance and Bittrex), or also among the tasks is acting as a legal entity for licensing (e.g. licensing for Apple Connect for
 the mobile worker).
 
-Acting as a representative, we feel obligated to always represent BitShares Blockchain publicly in the best interest of its 
-token holders. Since legal agreements are binding in the real world, while worker proposals can be revoked quickly, we here 
+Acting as a representative, we feel obligated to always represent BitShares Blockchain publicly in the best interest of its
+token holders. Since legal agreements are binding in the real world, while worker proposals can be revoked quickly, we here
 propose a mandate for a 12 month duration.
-The daily BTS payout will be set to collect the necessary funds quickly to secure the funding. The mandate is considered 
+The daily BTS payout will be set to collect the necessary funds quickly to secure the funding. The mandate is considered
 given when the monthly fee is paid,
 and revoked if the monthly fee can't be paid in full anymore.
 
@@ -66,17 +67,17 @@ In short, this worker proposal comes with two options:
 - **No approval**: The BBF will not obtain the extension of its mandate and will have to withdraw from all existing legal agreements (e.g. with Huobi, Bittrex, Binance, etc.)
 - **Approval given, and monthly fee is covered**: The mandate is granted and funded as long as the monthly fee can be paid
 
-Furthermore, authorities and businesses require a point of contact with legal mandate. Otherwise, the community may face 
+Furthermore, authorities and businesses require a point of contact with legal mandate. Otherwise, the community may face
 (uninformed) decisions made by third parties due to lack of communication with a community representative with legal mandate.
 
 # Remark
 
  - There can be only one legal representative for the BitShares Blockchain as authorities have a need for one channel.
- - The deadline to approve the BBF as the legal representative (aka the worker becomes active) is the 31st of January 2020. 
-The mandate as Legal Representative comes with responsibilities and liabilities. In the case that no mandate will be granted 
-until the deadline, the BBF has to actively withdraw from any agreements made and inform all counterparties. That step is 
+ - The deadline to approve the BBF as the legal representative (aka the worker becomes active) is the 31st of January 2020.
+The mandate as Legal Representative comes with responsibilities and liabilities. In the case that no mandate will be granted
+until the deadline, the BBF has to actively withdraw from any agreements made and inform all counterparties. That step is
 irreversible and also can't be undone if the worker would become active at a later time again.
- 
+
 # Mission
 
 Our mission is to
