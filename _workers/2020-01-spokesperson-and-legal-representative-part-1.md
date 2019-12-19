@@ -27,8 +27,7 @@ end: 2020/12/31
 In 2019 the community was offered two choices for the legal representative work: merely a mandate for passive representation, or paid per month to allow proactive actions as well.
 This seemed reasonable at that time, it is not reasonable now. Even the passive roles needed a lot of time and effort. Thus, this worker asks for a monthly fee.
 
-Among the tasks of the legal representative is to deal with listing agreements, defend against delisting from existing exchanges (e.g. Binance, Huobi, and Bittrex!)
-and other parties requesting the legal opinion letter or legal questions on BitAssets for all kinds of purposes.
+Among the tasks of the legal representative is to deal with listing agreements, defend against delisting from existing exchanges.
 We seek to extend our position as legal representative in case the community wants us to do so.
 
 All existing legal agreements must be considered void if the BitShares Blockchain Foundation is no longer the legal representative for the BitShares Blockchain, with all consequences that come with it (effective date 31st January 2020).
