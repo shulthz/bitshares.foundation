@@ -23,13 +23,18 @@ end: 2020/12/31
 
 ## Global voted Spokesperson and BitShares Legal Representative
 
-The worker "Publicly Approved BitShares Representative" (https://www.bitshares.foundation/workers/2019-01-legal-representative) will be running out
-end of this year. This proposal seeks to renew this mandate, and to introduce business to business development through the role of being a spokesperson
+The worker "Publicly Approved BitShares Representative" 
+(https://www.bitshares.foundation/workers/2019-01-legal-representative) will be running out
+end of this year. The BitShares Blockchain Foundation seeks to renew that mandate with this proposal, and seeks 
+to additionally introduce an angle for business to business development through the role of being a spokesperson 
 for the BitShares Blockchain.
 
-For the purpose of distinction between the two tasks they are presented separately, each with their own worker, such that the community can decide, if any, which tasks
-the BitShares Blockchain Foundation should tackle. Please find more details in the respective addendums below
+In a Business environment dealing with outside communications, legal handling and ultimately signatures a natural person 
+is required. Experience also shows that direct face-to-face contact (in the real world, or via Skype) with Business 
+partners is still the most efficient way of communcation. The BBF wants to provide such an environemnt for the 
+BitShares Blockchain.
+
+For the purpose of distinction between handling legal issues and business to business development, the two tasks are presented separately, each with their own worker. This allows the community to decide which tasks, if any, the BitShares Blockchain Foundation should tackle. Please find more details in the respective addendums below
 
  - [Spokesperson and Business-to-Business Development](https://github.com/bitshares-foundation/bitshares.foundation/blob/2020-legal/_workers/2020-01-spokesperson-and-legal-representative-part-1.md)
  - [Legal Representative](https://github.com/bitshares-foundation/bitshares.foundation/blob/2020-legal/_workers/2020-01-spokesperson-and-legal-representative-part-2.md)
-
