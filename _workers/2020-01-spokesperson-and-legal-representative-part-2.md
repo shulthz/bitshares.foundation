@@ -15,7 +15,7 @@ discussions:
  - name: bitsharestalk
    url:
 paymentaccount: bitshares.foundation
-price: ? EUR
+price: 24000 EUR
 duration: 12 months
 start: 2020/01/01
 end: 2020/12/31
@@ -77,12 +77,16 @@ Our mission is to
 
 # Fee
 
-Everyone's time is valuable. As such, we are asking for funding though the BitShares Blockchain Reserves and seek a fixed fee of ? EUR for the next 12 months,
-payable from January 1st 2020 until December 31st 2020. Invoices will be provided publicly through the [accounting website](https://workers.bitshares.foundation/).
-The fee only covers the hours spent by the entire team to subjects related only to this spokesperson role. Travel expenses or fees of 3rd parties
-are not included, and need to be funded separately. The payment of this fee will happen preferably in bitEUR, but may also happen in any alternative BitAsset,
-BTS directly, or in BTC depending on market conditions. The value indicated here and on later invoices represent FIAT values, and will be paid in equivalent value
-of the chosen crypto-currency.
+Everyone's time is valuable. As such, we are asking for funding though the BitShares Blockchain Reserves and seek a fixed 
+monthly fee of 2000 EUR for the next 12 months,
+payable from January 1st 2020 until December 31st 2020. Invoices will be provided publicly through the 
+[accounting website](https://workers.bitshares.foundation/).
+The fee only covers the hours spent by the entire team to subjects related only to this spokesperson role. Travel expenses or 
+fees of 3rd parties
+are not included, and need to be funded separately. The payment of this fee will happen preferably in bitEUR, but may also 
+happen in any alternative BitAsset,
+BTS directly, or in BTC depending on market conditions. The value indicated here and on later invoices represent FIAT values, 
+and will be paid in equivalent value of the chosen crypto-currency.
 
 # Team
 
