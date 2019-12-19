@@ -16,7 +16,7 @@ discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=25143.0
 paymentaccount: bitshares.foundation
-price: 24000 EUR
+price: 24.000 EUR
 duration: 12 months
 start: 2020/01/01
 end: 2020/12/31
