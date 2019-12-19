@@ -11,14 +11,7 @@ company:
   name: The BitShares Blockchain Foundation
   url: http://bitshares.foundation
 status: draft
-discussions:
- - name: bitsharestalk
-   url:
-paymentaccount: bitshares.foundation
-price: 50,000 EUR
-duration: 12 months
-start: 2020/01/01
-end: 2020/12/31
+price: "2x 24,000 EUR"
 ---
 
 ## Global voted Spokesperson and BitShares Legal Representative
