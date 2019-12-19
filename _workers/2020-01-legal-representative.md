@@ -35,5 +35,5 @@ BitShares Blockchain.
 
 For the purpose of distinction between handling legal issues and business to business development, the two tasks are presented separately, each with their own worker. This allows the community to decide which tasks, if any, the BitShares Blockchain Foundation should tackle. Please find more details in the respective addendums below
 
- - [Spokesperson and Business-to-Business Development](/workers/2020-01-spokesperson-and-legal-representative-part-1)
- - [Legal Representative](/workers/2020-01-spokesperson-and-legal-representative-part-2)
+ - [Global voted Legal Representative](/workers/2020-01-spokesperson-and-legal-representative-part-1)
+ - [Global voted Spokesperson / Business to Business Development](/workers/2020-01-spokesperson-and-legal-representative-part-2)
