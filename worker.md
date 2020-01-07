@@ -164,11 +164,11 @@ Invoices need to be sent that are published in this site.
 
 Invoices are to be adressed to
 
-    BitShares Blockchain Foundation
-    Suite 10, Huggins House
-    P. O. Box 187
-    Old Manor Estate
-    Gingerland, Nevis
+    Stichting The BitShares Blockchain Foundation
+    Seminariehof 11
+    3768 EE Soest
+    The Netherlands
+    KVK-nummer:	75854686
 
 It is the desire of the Foundation to fullfill the terms set forth in
 the worker proposal. However, the BitShares Blockchain Foundation
