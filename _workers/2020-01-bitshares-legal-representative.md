@@ -4,13 +4,13 @@ layout: worker
 type: escrow
 category: Legal
 bfid: 202001-bitshares-legal-representative
-workerid: draft
+workerid: 1.14.243
 title: Global Voted BitShares Legal Representative
 name: The BitShares Blockchain Foundation
 company:
   name: The BitShares Blockchain Foundation
   url: http://bitshares.foundation
-status: draft
+status: voting
 hidden_in_table: true
 discussions:
  - name: bitsharestalk
@@ -112,3 +112,7 @@ The legal setting and involved entities can be found on the website
 
 - **Annemieke Dirkes**, CEO and founder Blockchain BV, Blockchain Projects BV, Blockchain Development UG. In IT since 1987, in managerial roles since 1990. Expertise in general and business development with a strong focus on compliance and legal.
 - **Dr.-Ing. Fabian Schuh**, CEO and founder of ChainSquad GmbH and Blockchain Development UG, also known as xeroc. Will be assisting in all matters historical and technical to further the process of creating a clear and transparent picture of the BitShares Blockchain.
+
+# Complementary worker proposal
+
+This proposal is complemented by the [Global Voted Spokesperson / Business to Business Development](/workers/2020-01-bitshares-spokesperson) worker. See [here](/workers/2020-01-spokesperson-and-legal-representative) for an overview.
