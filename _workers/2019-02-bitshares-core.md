@@ -10,7 +10,7 @@ name: Ryan R. Fox (`fox`)
 company:
  name:
  url:
-status: paying
+status: finished
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=27762.0
@@ -21,7 +21,7 @@ duration: 47 weeks
 start: 2019/02/04
 end: 2019/12/29
 paymentaccount: bitsharesdev
-#reports:
+reports:
  - name: Report 2019
    url: "/reports/201902-bitshares-core/201912-report"
 ---

@@ -11,8 +11,8 @@
 {%- assign _workers = _workers | where_exp: 'item', 'item.hidden_in_table != true' -%}
 
 <div id="Workers" class="tabcontent" style="display: block;">
-    {%- assign _escrow = _workers | where: 'type', 'escrow' | where_exp: 'item', 'item.status != "draft"' | where_exp: 'item', 'item.status != "finished"' -%}
-    {%- assign _budget = _workers | where: 'type', 'budget' | where_exp: 'item', 'item.status != "draft"' | where_exp: 'item', 'item.status != "finished"' -%}
+    {%- assign _escrow = _workers | where: 'type', 'escrow' | where_exp: 'item', 'item.status != "draft"' | where_exp: 'item', 'item.status != "finished"' | where_exp: 'item', 'item.status != "expired"' -%}
+    {%- assign _budget = _workers | where: 'type', 'budget' | where_exp: 'item', 'item.status != "draft"' | where_exp: 'item', 'item.status != "finished"' | where_exp: 'item', 'item.status != "expired"' -%}
     {%- assign sorted = _escrow | concat: _budget | sort: 'start' | reverse -%}
     {%- assign categories = sorted | map: 'category' | uniq -%}
     <h3>Worker Proposals</h3>
@@ -40,8 +40,12 @@
 </div>
 
 <div id="FinishedWorkers" class="tabcontent">
-    {%- assign _escrow = _workers | where: 'type', 'escrow' | where: 'status', 'finished' -%}
-    {%- assign _budget = _workers | where: 'type', 'budget' | where: 'status', 'finished' -%}
+    {%- assign _escrow_f = _workers | where: 'type', 'escrow' | where: 'status', 'finished' -%}
+    {%- assign _escrow_e = _workers | where: 'type', 'escrow' | where: 'status', 'expired' -%}
+    {%- assign _budget_f = _workers | where: 'type', 'budget' | where: 'status', 'finished' -%}
+    {%- assign _budget_e = _workers | where: 'type', 'budget' | where: 'status', 'expired' -%}
+    {%- assign _escrow = _escrow_f | concat: _escrow_e -%}
+    {%- assign _budget = _budget_f | concat: _budget_e -%}
     {%- assign sorted = _escrow | concat: _budget | sort: 'start' | reverse -%}
     {%- assign categories = sorted | map: 'category' | uniq -%}
     <h3>Finished Workers</h3>

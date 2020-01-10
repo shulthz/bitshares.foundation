@@ -4,12 +4,12 @@ layout: worker
 type: escrow
 category: Legal
 bfid: Divided in two workers
-title: Global voted BitShares Spokesperson and Legal Representative
+title: Global Voted BitShares Spokesperson and Legal Representative
 name: The BitShares Blockchain Foundation
 company:
   name: The BitShares Blockchain Foundation
   url: http://bitshares.foundation
-status: draft
+status: voting
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=25143.0
@@ -18,6 +18,8 @@ price: 2x 24000 EUR
 duration: 12 months
 start: 2020/01/01
 end: 2020/12/31
+redirect_from:
+ - /workers/2020-01-legal-representative
 ---
 
 ## Global voted Spokesperson and BitShares Legal Representative
@@ -35,5 +37,5 @@ BitShares Blockchain.
 
 For the purpose of distinction between handling legal issues and business to business development, the two tasks are presented separately, each with their own worker. This allows the community to decide which tasks, if any, the BitShares Blockchain Foundation should tackle. Please find more details in the respective addendums below
 
- - [Global voted Legal Representative](/workers/2020-01-spokesperson-and-legal-representative-part-1)
- - [Global voted Spokesperson / Business to Business Development](/workers/2020-01-spokesperson-and-legal-representative-part-2)
+ - [Global voted Legal Representative](/workers/2020-01-bitshares-legal-representative)
+ - [Global voted Spokesperson / Business to Business Development](/workers/2020-01-bitshares-spokesperson)

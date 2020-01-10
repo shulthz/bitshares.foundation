@@ -3,9 +3,9 @@ language: en
 layout: worker
 type: escrow
 category: Legal
-bfid: 202001-spokesperson-and-legal-representative-part-1
+bfid: 202001-bitshares-legal-representative
 workerid: draft
-title: Global voted Legal Representative
+title: Global Voted BitShares Legal Representative
 name: The BitShares Blockchain Foundation
 company:
   name: The BitShares Blockchain Foundation
@@ -97,7 +97,10 @@ payable from January 1st 2020 until December 31st 2020. Invoices will be provide
 The fee only covers the hours spent by the entire team to subjects related only to this mandate. Travel expenses or fees of 3rd parties (i.e. lawyers, notaries, etc)
 are not included, and need to be funded separately. The payment of this fee will happen preferably in bitEUR, but may also happen in any alternative BitAsset,
 BTS directly, or in BTC depending on market conditions. The value indicated here and on later invoices represent FIAT values, and will be paid in equivalent value
-of the chosen crypto-currency.
+of the chosen crypto-currency. This worker carries no escrow fee.
+
+The daily BTS payout is set to 14.723 BTS, which contains a devaluation multiplier of 3. That means in theory if the price remains the same and the worker is active, it will
+take 4 months to collect the budget for the whole year.
 
 # Team
 

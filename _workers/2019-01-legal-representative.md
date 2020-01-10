@@ -10,7 +10,7 @@ name: BitShares Blockchain Foundation
 company:
   name: BitShares Blockchain Foundation
   url: http://bitshares.foundation
-status: paying
+status: finished
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php/topic,25143.0.html
@@ -51,7 +51,7 @@ Our mission is to
 
 -   Represent the BTS holders in its best interest in legal matters as the legal spokesperson.
 -   Be the legal point of contact for BitShares Blockchain for authorities.
-    
+
 ## Fee
 
 Everyone's time is valuable. As such, we are asking for funding though the BitShares Blockchain Reserves and seek a fixed fee of 50,000 bitEUR for the next 12 months, payable from January 1st 2019 until December 31st 2019. Quarterly invoices will be provided publicly. The fee only covers the hours spent by the entire team to subjects related only to this mandate. Travel expenses or fees of 3rd parties (i.e. lawyers, notaries, etc) are not included, and need to be funded separately.
@@ -68,10 +68,10 @@ Our team is based throughout Europe and Nevis, and has two bodies in the shape o
 
 -   BitShares Foundation, that deals with Escrow services and
 -   BitShares Blockchain Foundation, that deals with processing Worker Proposals and technical aspects of the BitShares Blockchain, as well as keeping in touch with broader Community.
-    
+
 #### Individuals involved are:
 
-- **Annemieke Dirkes**, CEO and founder Blockchain BV, Blockchain Projects BV, Blockchain Development UG. In IT since 1987, in managerial roles since 1990. Expertise in general and business development with a strong focus on compliance and legal.    
+- **Annemieke Dirkes**, CEO and founder Blockchain BV, Blockchain Projects BV, Blockchain Development UG. In IT since 1987, in managerial roles since 1990. Expertise in general and business development with a strong focus on compliance and legal.
 - **Danique Sterenborg, Msc.**, Danique is Project Manager at Blockchain Projects BV and holds a cum laude Master’s degree in Business Administration. She will be involved in planning and coordinating.
 - **Dr.-Ing. Fabian Schuh**, CEO and founder of ChainSquad GmbH and Blockchain Development UG, also known as xeroc. Will be assisting in all matters historical and technical to further the process of creating a clear and transparent picture of the BitShares Blockchain.
 - **Ronald Kramer** RA, Registered Accountant, CFO of Blockchain Projects BV and Blockchain BV. Fintech and Blockchain expert.

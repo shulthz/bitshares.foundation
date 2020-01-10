@@ -10,7 +10,7 @@ name: Magnus Anderson
 company:
   name:
   url:
-status: paying
+status: finished
 discussions:
  - name: Bitshares Talk
    url: https://bitsharestalk.org/index.php?topic=28705.0
@@ -27,21 +27,21 @@ end: 2019/12/30
 
 # Introduction
 
-The BitShares UI (also known as reference UI) has a great deal of functionality, so much that it can be overwhelming for 
-new users to grasp. 
-Some users expect it to simply hold their funds securely and allow for transfers and trading, 
-while others require the full power of the blockchain, e.g. for voting, asset management, permissions and 
+The BitShares UI (also known as reference UI) has a great deal of functionality, so much that it can be overwhelming for
+new users to grasp.
+Some users expect it to simply hold their funds securely and allow for transfers and trading,
+while others require the full power of the blockchain, e.g. for voting, asset management, permissions and
 multi-sig configuration, black and whitelisting, proposal creation and direct debit mandates.
 
 The goal of this worker is to build out the reference UI to hightlight all the features that the blockchain provides
 and tackle one of the root problems in terms of connectivity and reliability of the UI.
 
 **Remark 1**
-There was a personel shift in the team of the BitShares UI. Bill Butler has decided to leave the UI worker and pass 
+There was a personel shift in the team of the BitShares UI. Bill Butler has decided to leave the UI worker and pass
 the hat on to Magnus Anderson (@startail), who will be stepping up to the role of general project manager. Additionally, Alex M (@clockwork) will be assisting with issue and fund management.
 
 **Remark 2**
-The previous UI worker had a purely decentralized approach for development, which basically was: 
+The previous UI worker had a purely decentralized approach for development, which basically was:
 Anything can be worked on by anyone at anytime. That had its perks, but also was inefficient in other areas.
 This new worker is restructured and moves a bit away from that for the team in order to enforce a tighter schedule
 to achieve key aspects of the development.
@@ -50,15 +50,15 @@ to achieve key aspects of the development.
 
 Issues that are in scope (see subsection below)
 will be gathered into milestones containing work over two week GitHub sprints.
-Those issues will be prioritized like indicated below, anyone in the community will be 
+Those issues will be prioritized like indicated below, anyone in the community will be
 able to claim, work and submit a PR for
 that issue. If the PR is accepted, the user will be paid according to
 the terms on the [README.md](https://github.com/bitshares/bitshares-ui/blob/develop/README.md)
 under the Development Process heading. Bounties are paid at a rate of up to 125 USD/hour.
 
-In contrast to the previous worker, the immediate team mentioned in this proposal must work on high priority issues 
+In contrast to the previous worker, the immediate team mentioned in this proposal must work on high priority issues
 first. This prioritization of issues is done by the team as well and is meant as a self-control measure and to allow to pursue a defined roadmap.
-There have been cases in the past that important issues are being postponed simply because no one worked on them. And that 
+There have been cases in the past that important issues are being postponed simply because no one worked on them. And that
 is unacceptable.
 
 ## Scope
@@ -69,9 +69,9 @@ The main repositories covered through this worker are the following (others may 
  - https://github.com/bitshares/bitsharesjs
  - https://github.com/bitshares/bitsharesjs-ws
 
-This worker will, as before, continue to support [Beet](https://github.com/bitshares/beet) development within 
+This worker will, as before, continue to support [Beet](https://github.com/bitshares/beet) development within
 the workers coding bounty system. Beet is a stand-alone, multi-chain key/identity-manager and signing app for BitShares
-and is found in 
+and is found in
  - https://github.com/bitshares/beet
  - https://github.com/bitshares/beet-js
 
@@ -94,7 +94,7 @@ The team will pursue to ruther the UI in the following aspects
 * Further refine the navigation moving away from the sub-tab model.
 * Creating a more modular exchange experience and an easy way for exchanges to brand and configure their own.
 
-In addition to that, all community feedback will be considered and groomed into issues where feasible. 
+In addition to that, all community feedback will be considered and groomed into issues where feasible.
 
 ## Bugs
 
@@ -146,10 +146,10 @@ and assigned to developers who request the work.
 * Role: UX Coordinator
 * Main Duties: Coordinate UX together with developers, locate and introduce new potential UX developers.
   Communicating with the project manager to ensure priorities are met.
-* Development experience: 8 years of professional front-end development, 5 years of team management, 
-  strong UI/UX eye. Different kinds of projects: IoT Platform for managing 100,000 online devices across the world, 
-  real-time online games, a portal for infrastructure management for communications network company that 
-  transmits radio and TV programmes, popular food delivery service.  
+* Development experience: 8 years of professional front-end development, 5 years of team management,
+  strong UI/UX eye. Different kinds of projects: IoT Platform for managing 100,000 online devices across the world,
+  real-time online games, a portal for infrastructure management for communications network company that
+  transmits radio and TV programmes, popular food delivery service.
 * Languages: JavaScript, Node.js, PHP, Go, Java, React, Vue, Angular, and many more
 
 ## Blockchain Projects BV (Stefan Schiessl)
@@ -162,16 +162,16 @@ and assigned to developers who request the work.
 
 ## Alex M (@clockworkgr)
 * Role: Funds and Sprint Management
-* Main Duties: Summarize and report development hours collecting 
+* Main Duties: Summarize and report development hours collecting
   and distributing funds to contributors in a timely manner.
-* Development Experience: Over 16 years web-development experience in both front-end and back-end. 
-  Been involved in BitShares development since the beginning of 2018. Maintainer of Beet. 
+* Development Experience: Over 16 years web-development experience in both front-end and back-end.
+  Been involved in BitShares development since the beginning of 2018. Maintainer of Beet.
   Current BitShares witness & committee member.
 
 # Budget
 
-Budget includes development costs for bounties and the fixed positions of the team as well as a travel budget for 
-conferences. Furthermore, the BitShares Blockchain Foundation seeks a management fee of 5% of paid invoices for 
+Budget includes development costs for bounties and the fixed positions of the team as well as a travel budget for
+conferences. Furthermore, the BitShares Blockchain Foundation seeks a management fee of 5% of paid invoices for
 dealing with the on-chain worker proposal, providing a legal framework and offer transparent accounting.
 
 #### Table 1. Bitshares UI Team Fixed Positions (Weekly)
@@ -195,10 +195,10 @@ Bounties: (2)|&nbsp;|&nbsp;|&nbsp;
 
 #### Table 2. Bitshares UI Team Travel Expeses (Once)
 
-A one-time fixed travel budget expense is included to reimburse developers 
+A one-time fixed travel budget expense is included to reimburse developers
 for expenses to suitable conferences according to travel expenses guidelines of the BBF.
 
-Description | Amount 
+Description | Amount
 --|--:
 Travel Budget | up to 20,000 USD
 
@@ -211,8 +211,8 @@ Community Claims (Table 1)| up to 5,000 USD (weekly)
 Travel Expeses (Table 2)| up to 20,000 USD (once)
 -| &nbsp; | &nbsp;
 Total Budget | up to 416,750 USD (46 weeks)
-Escrow Fee 5% | up to ~452 USD (weekly) 
--| &nbsp; | &nbsp; 
+Escrow Fee 5% | up to ~452 USD (weekly)
+-| &nbsp; | &nbsp;
 **TOTAL ASKING** | **437,587.5 USD** (46 weeks)
 equivalent (6.75 CNY/USD) | **2953715.625 CNY** (46 weeks)
 

@@ -46,6 +46,13 @@
          <td>{% if page.status == "draft" %}Draft{% else %}<a href="javascript: voteFor('{{page.workerid}}')">{{page.workerid}}</a> (click the id to vote with <a target="_blank" rel="noopener noreferrer" href="https://github.com/bitshares/beet">Beet</a> or go to <a target="_blank" rel="noopener noreferrer" href="https://wallet.bitshares.org/#/voting">reference UI</a>){% endif %}</td>
      </tr>
      {% endif %}
+     {% if page.status == "finished" or page.status == "expired" %}
+     <tr>
+         <th>State</th>
+         <td>{% if page.status == "finished" %}Finished (partially or fully funded){% else %}Expired (not funded){% endif %}</td>
+     </tr>
+     {% endif %}
+     {% if page.discussions %}
      <tr>
       <th>Discussions</th>
       <td>
@@ -58,6 +65,7 @@
        </ul>
       </td>
      </tr>
+     {% endif %}
      {% if page.workerid %}
      <tr>
       <th>Accounting &amp; Reporting</th>

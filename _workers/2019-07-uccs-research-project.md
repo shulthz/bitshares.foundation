@@ -17,6 +17,7 @@ duration: 4 months
 start: 2019/07/01
 end: 2019/10/31
 paymentaccount: bitshares.blockchain.foundation
+status: finished
 ---
 
 # University Research Project for BitAssets
@@ -39,7 +40,7 @@ If the project is funded at higher levels, the additional money will be used to 
 
 ### Accountability and Transparency
 
-Once the funds from this worker proposal are disbursed to UCCS, the University of Colorado will be the custodian of the funds as required for all funded university research projects. Dr. Brown will have signature authority over the funds, but all expenditures will be vetted through the usual accounting procedures of the University of Colorado, providing a strong layer of protection against embezzlement and other malfeasance by Dr. Brown. 
+Once the funds from this worker proposal are disbursed to UCCS, the University of Colorado will be the custodian of the funds as required for all funded university research projects. Dr. Brown will have signature authority over the funds, but all expenditures will be vetted through the usual accounting procedures of the University of Colorado, providing a strong layer of protection against embezzlement and other malfeasance by Dr. Brown.
 
 # Budget Restrictions
 

@@ -10,8 +10,7 @@ name: Rossul Design Inc.
 company:
  name: Rossul Design Inc. & GrapheneLab
  url: http://bitshares.rossul.com/
-status: voting
-discussions:
+status: expired
 price: 73,205.28 bitUSD
 duration: 2 months + 1 month buffer
 start: 2019/09/21

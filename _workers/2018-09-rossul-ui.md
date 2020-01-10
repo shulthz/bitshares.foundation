@@ -10,7 +10,7 @@ name: Rossul Design Inc.
 company:
  name: Rossul Design Inc. & GrapheneLab
  url: http://bitshares.rossul.com/
-status: paying
+status: finished
 discussions:
 price: 265,828 bitUSD
 duration: 5 months + 1 month buffer
@@ -22,16 +22,16 @@ end: 2019/03/31
 
 ## About ROSSUL
 
-ROSSUL is one of the top UI/UX design firms in Canada, with over 15 years of experience creating highly usable and intuitive designs for the B2B market. Our attention to detail and UX design expertise is what makes us one of the top UX design firms in North America. 
+ROSSUL is one of the top UI/UX design firms in Canada, with over 15 years of experience creating highly usable and intuitive designs for the B2B market. Our attention to detail and UX design expertise is what makes us one of the top UX design firms in North America.
 
-We have delivered innovative user experiences as a digital partner to some of the world’s leading brands, including ABB, Johnson Controls, Intact, PNC Bank, RSA, AAA, Hatch, Scotia Bank, JPM and more. 
+We have delivered innovative user experiences as a digital partner to some of the world’s leading brands, including ABB, Johnson Controls, Intact, PNC Bank, RSA, AAA, Hatch, Scotia Bank, JPM and more.
 
 ROSSUL practices User-Centered Design (UCD) methodology which involves treating the user as a stakeholder throughout the creation process, and ensuring that your online products are both usable and useful. Driven by our passion for creating compelling and usable designs, we specialize in user interfaces for desktop, mobile, and tablets across a wide range of markets.
 
 ## About Graphene Lab
 
-Graphene Lab are a team of experienced blockchain developers specializing in Graphene-based chains. 
-Four blockchain systems, one of which has been launched and functioning for over half a year (Karma.red) and three that are being actively developed (xzen.io, aururum.services, cryptocean.io). 
+Graphene Lab are a team of experienced blockchain developers specializing in Graphene-based chains.
+Four blockchain systems, one of which has been launched and functioning for over half a year (Karma.red) and three that are being actively developed (xzen.io, aururum.services, cryptocean.io).
 9 highly skilled developers - 3 Software Engineer, 3 Frontend Developer, 1 Backend Developer, 2 QA Engineer
 
 # Vision
@@ -42,7 +42,7 @@ Make Bitshares a number one choice for the crypto community which provides a sec
 
 ## Design Goals
 
-We plan to develop a new version of Bitshares Exchange and improve the related tools to become more: 
+We plan to develop a new version of Bitshares Exchange and improve the related tools to become more:
 
 * **Useful**- The Exchange should enable users to perform specific tasks by providing the needed tools to do so
 * **Usable**- The new UI should be easy to use and understand by non-trained users. Key tasks, current status, and next steps must be apparent to the user
@@ -58,16 +58,16 @@ We plan to develop a new version of Bitshares Exchange and improve the related t
 
 # Collaboration Framework
 
-We are using Jira management system to ensure full transparency and accountability of the project development. 
+We are using Jira management system to ensure full transparency and accountability of the project development.
 
-* **Weekly Sprints**- Project stakeholders will be able to access weekly sprints with user stories, a list of tasks, status updates and reports. 
-* **Real-time collaboration**with the project stakeholders via Telegram or Slack. 
-* **Milestone–based process**presentations and QA sessions. 
+* **Weekly Sprints**- Project stakeholders will be able to access weekly sprints with user stories, a list of tasks, status updates and reports.
+* **Real-time collaboration**with the project stakeholders via Telegram or Slack.
+* **Milestone–based process**presentations and QA sessions.
 * **Public beta**testing
 
 # Development Process
 We employ Agile Scrum Methodology which has garnered increasing popularity in the agile software development community due to its simplicity and proven productivity. Fast moving, cutting-edge developments can be quickly coded and tested using this method, as a mistake can be easily rectified. Frequent updates make it easy to monitor the project development.
-The overhead cost in terms of process and management is minimal thus leading to a quicker, cheaper result. Due to short sprints and constant feedback, it becomes easier to address immediate user feedback and test ideas.  
+The overhead cost in terms of process and management is minimal thus leading to a quicker, cheaper result. Due to short sprints and constant feedback, it becomes easier to address immediate user feedback and test ideas.
 
 # Team Bios
 
@@ -156,14 +156,14 @@ The project is intended to start in october, with a month of buffer incorporated
 
 ### Code Handover and overlap period
 
-To simplify the onboarding and code handover we expect some overlap time with the current UI team. This is a standard process that reduces the risk of setback and keeps the development velocity constant. The process facilitates direct information exchange between engineers and designers, brings the current UI team onboard the app’s code and architecture, provides support for the current UI team when specific information is needed. 
+To simplify the onboarding and code handover we expect some overlap time with the current UI team. This is a standard process that reduces the risk of setback and keeps the development velocity constant. The process facilitates direct information exchange between engineers and designers, brings the current UI team onboard the app’s code and architecture, provides support for the current UI team when specific information is needed.
 
   **Estimated time:** 100 hours/team ($25,000 total).
   *If less time is required, the allocated funds will be distributed back to the community.*
 
 ### Support
 
-We will provide support services and assistance to maintain and update the aforementioned deliverables, including correcting any errors or deficiencies during the first 60 days following the final delivery (Warranty period). “Support Services” means technical support and assistance to maintain and update the front-end source code Deliverables, including correcting any errors or Deficiencies, but shall not include new development, enhancements, or features, or other services outside the scope of the Proposal. 
+We will provide support services and assistance to maintain and update the aforementioned deliverables, including correcting any errors or deficiencies during the first 60 days following the final delivery (Warranty period). “Support Services” means technical support and assistance to maintain and update the front-end source code Deliverables, including correcting any errors or Deficiencies, but shall not include new development, enhancements, or features, or other services outside the scope of the Proposal.
 
 Additional time above following expiration of Warranty Period shall be billed at the regular hourly rate ($150/h design and 120/h code realted tasks) and require a new worker proposal.
 
