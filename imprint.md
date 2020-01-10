@@ -3,13 +3,13 @@ layout: default
 permalink: /imprint
 ---
 
-The BitShares Blockchain Foundation is registered in 
+The BitShares Blockchain Foundation is registered in
 
     Stichting The BitShares Blockchain Foundation
     Seminariehof 11
     3768 EE Soest
     The Netherlands
-    KVK-nummer:	75854686
+    KVK-nummer 75854686
 
 Any BTS holder is welcome to visit us. Please contact us to make an
 appointment.

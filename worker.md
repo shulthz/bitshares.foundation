@@ -30,47 +30,47 @@ list of proposals through escrow:
 
 # Background
 
-The BitShares Blockchain in its technical implementation only knows 
+The BitShares Blockchain in its technical implementation only knows
 one type of worker proposal. It contains a name, payment account,
 daily BTS payout rate and a link to provide insight into the purpose of
-the worker proposal. Anyone can create a worker proposal on-chain, and 
-afterwards all BTS token holders can vote on it. If it passes the 
+the worker proposal. Anyone can create a worker proposal on-chain, and
+afterwards all BTS token holders can vote on it. If it passes the
 threshold given by the refund workers and receives at least part of the
 asked daily BTS payout, it is considered active.
 
 The BitShares community informally split worker proposal into two types,
 payment and opinion worker proposals. The former is meant to fund any kind
 of activity as defined by the worker proposal, the latter is meant to
-do strategic decisions and to agree on the consensus changing development 
+do strategic decisions and to agree on the consensus changing development
 and introducing new features of the BitShares core (BitShares Improvement Proposals).
 
 The BitShares Blockchain Foundation can operate a opinion and payment worker proposals
-and act as an escrow for the freelancers conducting the worker proposal. 
+and act as an escrow for the freelancers conducting the worker proposal.
 We see the following value propositions to use us as an escrow (please note that
-the BBF is merely one possible way to facilitate worker proposals and is not 
+the BBF is merely one possible way to facilitate worker proposals and is not
 meant as an exclusive escrow):
 
- - Reduce volatility risk for both parties. The freelancer has the risk of being underpaid if the core 
-   token price drops, the blockchain has the risk to overpay the freelancer if the core token price raises. 
+ - Reduce volatility risk for both parties. The freelancer has the risk of being underpaid if the core
+   token price drops, the blockchain has the risk to overpay the freelancer if the core token price raises.
    From a business and service provider's perspective both is inacceptible
- - Operating risk for the blockchain. If the freelancer would be paid directly from the chain, he gets paid no matter what (assuming the worker remains active), 
-   may not deliver what was promised, only partially or faulty. 
-   It also has happened that the freelancer decided to follow a different path with the budget, without the need to get reapproval 
+ - Operating risk for the blockchain. If the freelancer would be paid directly from the chain, he gets paid no matter what (assuming the worker remains active),
+   may not deliver what was promised, only partially or faulty.
+   It also has happened that the freelancer decided to follow a different path with the budget, without the need to get reapproval
    from core token holders.
- - From a tax perspective, the tokens "appear" out of nowhere in the freelancers account, without 
+ - From a tax perspective, the tokens "appear" out of nowhere in the freelancers account, without
    an entity in grasp to bill to. Without special considerations this can imply tax liabilities
- - Initial review and iteration on incoming worker proposals, utilizing our knowledge, experience 
+ - Initial review and iteration on incoming worker proposals, utilizing our knowledge, experience
    and feel for the need of the BitShares community to produce proposals with increased chances of approval. At the end
    proposals with clear tasks and value propositions are published.
 
-Certainly using the BitShares Blockchain Foundation as an escrow introduces additional 
+Certainly using the BitShares Blockchain Foundation as an escrow introduces additional
 overhead and requires both trust from the BTS token holders and the freelancer.
 
 ## The procedure
 
 The purpose of this service is to provide security and transparency to
 both parties, the BitShares Blockchain Community, as well as the
-freelancer that performs the work in expectation of payment. Setting up a worker proposal 
+freelancer that performs the work in expectation of payment. Setting up a worker proposal
 through the BBF normally sticks to the following flow:
 
 1. Establishing agreement for Escrow service for a defined task, review and iterate
@@ -84,8 +84,8 @@ through the BBF normally sticks to the following flow:
 
 ## Payment worker proposals
 
-The BitShares Blockchain Foundation splits the payment workers into two sub-types, 
-namely escrow and budget workers. For both workers the 
+The BitShares Blockchain Foundation splits the payment workers into two sub-types,
+namely escrow and budget workers. For both workers the
 
 * **escrow workers**: With this, we organize
   freelancers around the world that want to work for the BitShares DAC
@@ -99,15 +99,15 @@ namely escrow and budget workers. For both workers the
   flexible then static escrow workers in the way that it allows to pay
   many different people for their support out of a single purpose-specific
   fund.
-  
+
 *Remark 1*
-A payment worker can only payout funds that have been obtained through 
+A payment worker can only payout funds that have been obtained through
 the corresponding worker being active. The BitShares Blockchain Foundation
 expects that the freelancer monitors the status of the worker and available
 budget.
 
 *Remark 2*
-If not otherwise mentioned in the specific worker proposal, a 5% escrow 
+If not otherwise mentioned in the specific worker proposal, a 5% escrow
 fee is applied to all payment workers operated by the BitShares Blockchain Foundation
 (starting 1. March 2019). This fee is applicable for each outgoing
 payment and will be accounted for publicly for each worker.
@@ -168,13 +168,13 @@ Invoices are to be adressed to
     Seminariehof 11
     3768 EE Soest
     The Netherlands
-    KVK-nummer:	75854686
+    KVK-nummer 75854686
 
 It is the desire of the Foundation to fullfill the terms set forth in
 the worker proposal. However, the BitShares Blockchain Foundation
 expects freelancers to understand that no legal agreements is being
 formed between the Foundation and the freelancer. The Foundation merely
-acts as an escrow partner for funds offered by the BitShares community. 
+acts as an escrow partner for funds offered by the BitShares community.
 
 # Legal Setup
 
@@ -184,5 +184,5 @@ contact for the worker proposal and supervise the entire progress.
 Payouts are facilitated in Smartcoins through the escrow setup with the
 independent BitShares Foundation.
 
-[Blockchain Projects BV](http://blockchainprojectsbv.com) is contracted to 
+[Blockchain Projects BV](http://blockchainprojectsbv.com) is contracted to
 handle the technical details and support quality assurance procedures.
