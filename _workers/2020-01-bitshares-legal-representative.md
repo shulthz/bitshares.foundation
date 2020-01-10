@@ -99,7 +99,7 @@ are not included, and need to be funded separately. The payment of this fee will
 BTS directly, or in BTC depending on market conditions. The value indicated here and on later invoices represent FIAT values, and will be paid in equivalent value
 of the chosen crypto-currency. This worker carries no escrow fee.
 
-The daily BTS payout is set to 14.723 BTS, which contains a devaluation multiplier of 3. That means in theory if the price remains the same and the worker is active, it will
+The daily BTS payout is set to 14.723 BTS, which contains a devaluation multiplier of 3. In theory, if the price remains the same and the worker is voted active, it will
 take 4 months to collect the budget for the whole year.
 
 # Team
