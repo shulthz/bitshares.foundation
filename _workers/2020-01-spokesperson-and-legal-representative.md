@@ -32,8 +32,8 @@ for the BitShares Blockchain.
 
 In a Business environment dealing with outside communications, legal handling and ultimately signatures a natural person
 is required. Experience also shows that direct face-to-face contact (in the real world, or via Skype) with Business
-partners is still the most efficient way of communcation. The BBF wants to provide such an environemnt for the
-BitShares Blockchain.
+partners is still the most efficient way of communcation. The BBF wants to provide such an environment for the
+BitShares Blockchain as a platform.
 
 For the purpose of distinction between handling legal issues and business to business development, the two tasks are presented separately, each with their own worker. This allows the community to decide which tasks, if any, the BitShares Blockchain Foundation should tackle. Please find more details in the respective addendums below
 
